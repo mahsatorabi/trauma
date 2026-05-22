@@ -1,0 +1,88 @@
+==============================================================================
+RQ5 REPORT — INTELLECTUAL THEME NETWORK & MACRO-TRADITIONS
+==============================================================================
+Generated: 2026-05-20T11:22:04
+Runtime: 39.2 s
+
+RESEARCH QUESTION
+  How do the discovered themes relate to one another in a structured intellectual
+  network, forming clusters or macro-traditions that define the discipline's
+  conceptual architecture?
+
+METHOD
+  1. Theme layer: BERTopic substantive topics (RQ1 topic QA)
+  2. Intellectual links: bibliographic coupling (shared cited references)
+  3. Similarity: cosine(topic×term count vectors), term DF>=25
+  4. Network sparsification: top-k=8 per topic, min_sim=0.06
+  5. Macro-traditions: Louvain community detection on weighted network
+
+NETWORK SUMMARY
+  Topics included: 96 (topic min docs=40)
+  Edges retained:  613
+  Macro-traditions (clusters): 5
+
+————————————————————————————————————————
+A. MACRO-TRADITIONS (CLUSTERS)
+————————————————————————————————————————
+  Cluster  4 | n_topics=33 | cohesion=0.65
+    Core (strength):  T55 Psychotherapy, Chronic Depression, ; T50 Trait, Personality Trait, Personali; T13 Cm, Mdd, History Cm, Relationship C
+    Bridges (between): T50 Trait, Personality Trait, Personali; T13 Cm, Mdd, History Cm, Relationship C; T27 Sleep, Sleep Quality, Sleep Disturb
+  Cluster  2 | n_topics=25 | cohesion=0.45
+    Core (strength):  T42 College students & campus preventio; T75 Family Member, Family Function, Fam; T73 Caregiver, Caregiver Support, Careg
+    Bridges (between): T42 College students & campus preventio; T73 Caregiver, Caregiver Support, Careg; T75 Family Member, Family Function, Fam
+  Cluster  3 | n_topics=17 | cohesion=0.51
+    Core (strength):  T8 Worker, Protection, Social Work, So; T57 Young People, People Experience, Ha; T3 Csa, Csa Survivor, Experience Csa, 
+    Bridges (between): T57 Young People, People Experience, Ha; T8 Worker, Protection, Social Work, So; T24 Interviewer, Forensic Interview, In
+  Cluster  0 | n_topics=15 | cohesion=0.46
+    Core (strength):  T56 Polyvictimization, Victimization Ex; T34 Violence Exposure, Genderbased, Gen; T85 Men Woman, Masculinity, Gay, Msm
+    Bridges (between): T81 Childbirth, Maternity, Mistreatment; T36 Image-based sexual abuse; T56 Polyvictimization, Victimization Ex
+  Cluster  1 | n_topics= 6 | cohesion=0.35
+    Core (strength):  T43 Traumainformed, Traumainformed Care; T76 Narrative, Story, Autonomy, Psychoa; T33 Dissociation, Dissociative, Dissoci
+    Bridges (between): T47 Memory, False, Autobiographical, Au; T33 Dissociation, Dissociative, Dissoci; T76 Narrative, Story, Autonomy, Psychoa
+
+————————————————————————————————————————
+B. ARCHITECTURE: CORE THEMES & BRIDGES
+————————————————————————————————————————
+
+B1. Core themes (highest strength; many strong intellectual links)
+  T 42 | strength=29.042 | degree=46 | College students & campus prevention
+  T 75 | strength=21.277 | degree=33 | Family Member, Family Function, Family Environment, Family Dynamic
+  T 73 | strength=19.399 | degree=30 | Caregiver, Caregiver Support, Caregiver Experience, Caregiverchild
+  T 37 | strength=17.925 | degree=27 | Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction
+  T 61 | strength=16.735 | degree=25 | College students & campus prevention
+  T101 | strength=16.641 | degree=26 | Divorce, Alienation, Parental Education, Parental Divorce
+  T 55 | strength=16.359 | degree=26 | Psychotherapy, Chronic Depression, Antidepressant, Major Depression
+  T 50 | strength=15.862 | degree=26 | Trait, Personality Trait, Personality Function, Personality Pathology
+  T 13 | strength=15.611 | degree=25 | Cm, Mdd, History Cm, Relationship Cm
+  T 56 | strength=15.339 | degree=26 | Polyvictimization, Victimization Experience, Type Victimization, Violent Victimization
+  T 34 | strength=13.731 | degree=23 | Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence
+  T 27 | strength=13.645 | degree=22 | Sleep, Sleep Quality, Sleep Disturbance, Disturbance
+
+B2. Bridging themes (highest betweenness; connect macro-traditions)
+  T 42 | betweenness=0.132 | cluster=2 | College students & campus prevention
+  T 50 | betweenness=0.075 | cluster=4 | Trait, Personality Trait, Personality Function, Personality Pathology
+  T 13 | betweenness=0.063 | cluster=4 | Cm, Mdd, History Cm, Relationship Cm
+  T 73 | betweenness=0.062 | cluster=2 | Caregiver, Caregiver Support, Caregiver Experience, Caregiverchild
+  T 75 | betweenness=0.061 | cluster=2 | Family Member, Family Function, Family Environment, Family Dynamic
+  T 37 | betweenness=0.049 | cluster=2 | Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction
+  T101 | betweenness=0.046 | cluster=2 | Divorce, Alienation, Parental Education, Parental Divorce
+  T 81 | betweenness=0.045 | cluster=0 | Childbirth, Maternity, Mistreatment, Obstetric
+  T 27 | betweenness=0.038 | cluster=4 | Sleep, Sleep Quality, Sleep Disturbance, Disturbance
+  T 55 | betweenness=0.033 | cluster=4 | Psychotherapy, Chronic Depression, Antidepressant, Major Depression
+  T 36 | betweenness=0.028 | cluster=0 | Image-based sexual abuse
+  T 56 | betweenness=0.028 | cluster=0 | Polyvictimization, Victimization Experience, Type Victimization, Violent Victimization
+
+INTERPRETATION (CONCEPTUAL ARCHITECTURE)
+  - Clusters represent macro-traditions grounded in shared cited literatures.
+  - Core nodes anchor dominant traditions; bridging nodes indicate integrative
+    areas where methods, populations, or applied settings connect otherwise
+    separated literatures (e.g., mental health outcomes ↔ policy/forensic ↔ digital harm).
+
+OUTPUT FILES
+  rq5_topic_meta.csv
+  rq5_topic_edges.csv
+  rq5_topic_metrics.csv
+  rq5_cluster_summary.csv
+  rq5_report.txt
+  rq5_network.png
+==============================================================================

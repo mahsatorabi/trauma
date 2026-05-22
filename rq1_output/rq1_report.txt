@@ -1,0 +1,111 @@
+==============================================================================
+RQ1 REPORT — THEMATIC EVOLUTION & SHIFT DRIVERS (QUALITY-CONTROLLED)
+==============================================================================
+Generated: 2026-05-16T23:01:35
+Runtime: 38.6 s
+
+RESEARCH QUESTION
+  How have research themes and priorities in trauma studies evolved over time,
+  and what factors have driven these shifts?
+
+DATA & QUALITY CONTROL
+  Source: data_preprocessed.csv
+  After English filter: 19,716 documents
+  Removed (non-English / Spanish-heavy): 83
+  Years: 2019–2026
+  Filters: langdetect on abstract; Spanish-token ratio on preprocessed text;
+            max Spanish-token ratio = 0.12
+
+METHOD
+  1. BERTopic (UMAP + HDBSCAN + c-TF-IDF)
+     Embeddings: TF-IDF + TruncatedSVD (128d) [offline fallback]
+     min_cluster_size = 60
+  2. topics_over_time (yearly bins)
+  3. Topic QA: exclude language_artifact & methods from trend tables
+  4. Meta-theme merge: suicidality_self_harm = topics 12, 17, 31, 86
+  5. Mann–Kendall on yearly topic share (substantive only)
+  6. Driver analysis (volume, citations, reviews, Keywords Plus log-odds)
+
+MODEL SUMMARY
+  Substantive topics: 96
+  Language-artifact topics (excluded): 0
+  Methods topics (reported separately): 5
+  Outlier documents (topic -1): 3,744
+
+META-THEME: SUICIDALITY & SELF-HARM (merged)
+  Source BERTopic IDs: [12, 17, 31, 86]
+  Trend: increasing | tau=0.786 | p=0.0055
+
+SUBSTANTIVE TOPIC TRENDS (Mann–Kendall on yearly share)
+  T36 | increasing  | tau=0.905 p=0.0028 | Image-based sexual abuse
+  T 1 | increasing  | tau=0.810 p=0.0107 | Adverse childhood experiences (ACE)
+  T61 | increasing  | tau=0.810 p=0.0107 | College students & campus prevention
+  T13 | increasing  | tau=0.714 p=0.0302 | Cm, Mdd, History Cm, Relationship Cm
+  T23 | increasing  | tau=0.714 p=0.0302 | Mdd, Major Depressive, Depressive Mdd, Gyrus
+  T78 | stable      | tau=0.619 p=0.0690 | Selfcompassion, Compassion, Shame, Selfcriticism
+  T57 | stable      | tau=0.524 p=0.1361 | Young People, People Experience, Harmful, Helpseeking
+  T42 | stable      | tau=0.524 p=0.1361 | College students & campus prevention
+  T70 | stable      | tau=0.524 p=0.1361 | Ptg, Heal, Inquiry, Recovery
+  T64 | stable      | tau=0.524 p=0.1361 | Csam, Material Csam, Pornography, Enforcement
+  T73 | stable      | tau=0.524 p=0.1361 | Caregiver, Caregiver Support, Caregiver Experience, Caregiverchild
+  T96 | stable      | tau=0.524 p=0.1361 | College students & campus prevention
+  T95 | stable      | tau=0.429 p=0.2389 | Sibling, Ssa, Incest, Intrafamilial
+  T33 | stable      | tau=0.429 p=0.2389 | Dissociation, Dissociative, Dissociative Experience, Identity
+  T62 | stable      | tau=0.429 p=0.2389 | Mindfulness, Satisfaction, Couple, Relationship Satisfaction
+  T100 | stable      | tau=0.357 p=0.2751 | Medium, Social Medium, Metoo, News
+  T38 | stable      | tau=0.333 p=0.3813 | Sport, Athlete, Coach, Harassment
+  T46 | stable      | tau=0.333 p=0.3813 | Perceive Social, Role Social, Support Depressive, Buffer
+  T 6 | stable      | tau=0.333 p=0.3813 | Attachment, Attachment Style, Style, Insecure
+  T30 | stable      | tau=0.333 p=0.3813 | Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy
+
+EXCLUDED TOPICS (do not interpret as research themes)
+  T19 [methods] class, latent class, latent, lca, ace, membership, class identify, class class
+  T32 [methods] psychometric, psychometric property, internal consistency, property, consistency, internal, ctqsf, confirmatory
+  T77 [methods] aor, aor ci, ci aor, ethiopia, adjust, adjust aor, multivariable, birth
+  T79 [methods] latent profile, latent, profile identify, distinct profile, fatigue, lpa, subgroup, morning
+  T88 [methods] node, bridge, central, network structure, social network, centrality, strength, network approach
+
+EMERGING KEYWORDS PLUS (2023–2025 vs 2019–2021, top log-odds)
+  + size                           log-odds=+2.389 (early=0, late=9)
+  + porn                           log-odds=+2.278 (early=0, late=8)
+  + proactive aggression           log-odds=+2.278 (early=0, late=8)
+  + structural racism              log-odds=+2.278 (early=0, late=8)
+  + worry                          log-odds=+2.278 (early=0, late=8)
+  + improves                       log-odds=+2.278 (early=0, late=8)
+  + australia                      log-odds=+2.278 (early=0, late=8)
+  + procedural justice             log-odds=+2.278 (early=0, late=8)
+  + network analysis               log-odds=+2.153 (early=0, late=7)
+  + nonspecific psychotherapy      log-odds=+2.153 (early=0, late=7)
+  + sensory-processing sensitivity log-odds=+2.153 (early=0, late=7)
+  + privacy                        log-odds=+2.153 (early=0, late=7)
+  + early exposure                 log-odds=+2.153 (early=0, late=7)
+  + scripts                        log-odds=+2.153 (early=0, late=7)
+  + genome                         log-odds=+2.153 (early=0, late=7)
+
+DRIVER CORRELATIONS (p < 0.05, substantive topics)
+  T44 <-> mean_citations  r=+0.964 p=0.0005
+  T36 <-> mean_citations  r=-0.964 p=0.0005
+  T24 <-> n_papers        r=-0.964 p=0.0005
+  T82 <-> n_papers        r=+0.964 p=0.0005
+  T100 <-> mean_citations  r=-0.952 p=0.0003
+  T104 <-> mean_citations  r=+0.943 p=0.0048
+  T61 <-> mean_citations  r=-0.929 p=0.0025
+  T 1 <-> mean_citations  r=-0.893 p=0.0068
+  T10 <-> mean_citations  r=+0.893 p=0.0068
+  T 6 <-> n_papers        r=+0.893 p=0.0068
+  T13 <-> mean_citations  r=-0.857 p=0.0137
+  T48 <-> n_papers        r=+0.857 p=0.0137
+  T104 <-> n_papers        r=-0.829 p=0.0416
+  T14 <-> n_papers        r=+0.821 p=0.0234
+  T 5 <-> mean_citations  r=+0.786 p=0.0362
+
+OUTPUT FILES
+  rq1_document_topics.csv
+  rq1_removed_non_english.csv
+  rq1_topic_qa.csv
+  rq1_topic_trends.csv (all classified topics)
+  rq1_substantive_topic_trends.csv
+  rq1_meta_theme_shares.csv
+  rq1_topics_over_time.csv
+  rq1_topic_info.csv
+==============================================================================

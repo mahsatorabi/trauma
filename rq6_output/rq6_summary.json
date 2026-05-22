@@ -1,0 +1,180 @@
+{
+  "generated": "2026-05-20T14:25:01",
+  "n_documents": 19251,
+  "years": [
+    2020,
+    2025
+  ],
+  "n_topics": 32,
+  "top_topics": [
+    {
+      "topic": 14,
+      "label_terms": "work, service, care, victim, state, protection, policy, healthcare, worker, law, system, paper",
+      "display_label": "Work, Service, Care, Victim",
+      "n_documents": 1842,
+      "mean_prob": 0.08381579364927132
+    },
+    {
+      "topic": 25,
+      "label_terms": "experience, care, class, support, need, service, approach, qualitative, social, people, identify, interview",
+      "display_label": "Experience, Care, Class, Support",
+      "n_documents": 1662,
+      "mean_prob": 0.07588710794429407
+    },
+    {
+      "topic": 4,
+      "label_terms": "relationship, mediate, self, attachment, emotion, role, regulation, mediation, emotion regulation, experience, negative, indirect",
+      "display_label": "Relationship, Mediate, Self, Attachment",
+      "n_documents": 1446,
+      "mean_prob": 0.06341506267609551
+    },
+    {
+      "topic": 24,
+      "label_terms": "violence, woman, partner, ipv, intimate, intimate partner, partner violence, experience, domestic, men, domestic violence, victimization",
+      "display_label": "Violence, Woman, Partner, Ipv",
+      "n_documents": 1365,
+      "mean_prob": 0.05776436690813367
+    },
+    {
+      "topic": 29,
+      "label_terms": "ace, experience, adverse, adverse experience, ci, exposure, experience ace, aor, household, black, aor ci, regression",
+      "display_label": "Ace, Experience, Adverse, Adverse Experience",
+      "n_documents": 1201,
+      "mean_prob": 0.05326430939395949
+    },
+    {
+      "topic": 26,
+      "label_terms": "rat, maternal, early, life, early life, mouse, separation, el, expression, maternal separation, animal, like",
+      "display_label": "Rat, Maternal, Early, Life",
+      "n_documents": 1071,
+      "mean_prob": 0.04650005913808771
+    },
+    {
+      "topic": 11,
+      "label_terms": "ptsd, csa, posttraumatic, post, trauma, traumatic, post traumatic, disorder, posttraumatic stress, stress, exposure, stress disorder",
+      "display_label": "Ptsd, Csa, Posttraumatic, Post",
+      "n_documents": 913,
+      "mean_prob": 0.04749397904007452
+    },
+    {
+      "topic": 8,
+      "label_terms": "family, mother, maternal, care, caregiver, experience, support, infant, social, intergenerational, birth, development",
+      "display_label": "Family, Mother, Maternal, Care",
+      "n_documents": 900,
+      "mean_prob": 0.04382334472872714
+    }
+  ],
+  "top_global_nps": [
+    {
+      "phrase": "the relationship",
+      "count": 2526
+    },
+    {
+      "phrase": "logistic regression",
+      "count": 1282
+    },
+    {
+      "phrase": "the development",
+      "count": 1104
+    },
+    {
+      "phrase": "partner violence",
+      "count": 919
+    },
+    {
+      "phrase": "intimate partner violence",
+      "count": 895
+    },
+    {
+      "phrase": "the mediating",
+      "count": 844
+    },
+    {
+      "phrase": "and depression",
+      "count": 809
+    },
+    {
+      "phrase": "and setting",
+      "count": 664
+    },
+    {
+      "phrase": "structural equation",
+      "count": 625
+    },
+    {
+      "phrase": "and violence",
+      "count": 463
+    },
+    {
+      "phrase": "the importance",
+      "count": 449
+    },
+    {
+      "phrase": "the influence",
+      "count": 445
+    }
+  ],
+  "top_research_areas": [
+    {
+      "research_area": "Psychology",
+      "n_documents": 6846,
+      "dominant_lda_topic": 4,
+      "dominant_topic_label": "Relationship, Mediate, Self, Attachment"
+    },
+    {
+      "research_area": "Psychiatry",
+      "n_documents": 5356,
+      "dominant_lda_topic": 4,
+      "dominant_topic_label": "Relationship, Mediate, Self, Attachment"
+    },
+    {
+      "research_area": "Family Studies",
+      "n_documents": 3221,
+      "dominant_lda_topic": 24,
+      "dominant_topic_label": "Violence, Woman, Partner, Ipv"
+    },
+    {
+      "research_area": "Neurosciences & Neurology",
+      "n_documents": 2433,
+      "dominant_lda_topic": 26,
+      "dominant_topic_label": "Rat, Maternal, Early, Life"
+    },
+    {
+      "research_area": "Social Work",
+      "n_documents": 2025,
+      "dominant_lda_topic": 25,
+      "dominant_topic_label": "Experience, Care, Class, Support"
+    },
+    {
+      "research_area": "Criminology & Penology",
+      "n_documents": 1606,
+      "dominant_lda_topic": 24,
+      "dominant_topic_label": "Violence, Woman, Partner, Ipv"
+    },
+    {
+      "research_area": "Public",
+      "n_documents": 1537,
+      "dominant_lda_topic": 29,
+      "dominant_topic_label": "Ace, Experience, Adverse, Adverse Experience"
+    },
+    {
+      "research_area": "Environmental & Occupational Health",
+      "n_documents": 1537,
+      "dominant_lda_topic": 29,
+      "dominant_topic_label": "Ace, Experience, Adverse, Adverse Experience"
+    },
+    {
+      "research_area": "Pediatrics",
+      "n_documents": 701,
+      "dominant_lda_topic": 13,
+      "dominant_topic_label": "Injury, Body, Pediatric, Obesity"
+    },
+    {
+      "research_area": "General & Internal Medicine",
+      "n_documents": 640,
+      "dominant_lda_topic": 29,
+      "dominant_topic_label": "Ace, Experience, Adverse, Adverse Experience"
+    }
+  ],
+  "runtime_seconds": 149.12
+}

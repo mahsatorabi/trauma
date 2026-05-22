@@ -1,0 +1,124 @@
+{
+  "generated": "2026-05-20T11:22:04",
+  "n_documents": 19716,
+  "n_topics_included": 96,
+  "n_edges": 613,
+  "n_clusters": 5,
+  "runtime_seconds": 39.16,
+  "top_core": [
+    {
+      "topic": 42,
+      "display_name": "College students & campus prevention",
+      "cluster": 2,
+      "strength": 29.041756242513657,
+      "betweenness": 0.1316909294512878
+    },
+    {
+      "topic": 75,
+      "display_name": "Family Member, Family Function, Family Environment, Family Dynamic",
+      "cluster": 2,
+      "strength": 21.27693200111389,
+      "betweenness": 0.0606942889137738
+    },
+    {
+      "topic": 73,
+      "display_name": "Caregiver, Caregiver Support, Caregiver Experience, Caregiverchild",
+      "cluster": 2,
+      "strength": 19.398991972208023,
+      "betweenness": 0.06159014557670773
+    },
+    {
+      "topic": 37,
+      "display_name": "Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",
+      "cluster": 2,
+      "strength": 17.924848973751068,
+      "betweenness": 0.04860022396416574
+    },
+    {
+      "topic": 61,
+      "display_name": "College students & campus prevention",
+      "cluster": 2,
+      "strength": 16.734749376773834,
+      "betweenness": 0.01858902575587906
+    },
+    {
+      "topic": 101,
+      "display_name": "Divorce, Alienation, Parental Education, Parental Divorce",
+      "cluster": 2,
+      "strength": 16.640836745500565,
+      "betweenness": 0.04636058230683091
+    },
+    {
+      "topic": 55,
+      "display_name": "Psychotherapy, Chronic Depression, Antidepressant, Major Depression",
+      "cluster": 4,
+      "strength": 16.359437495470047,
+      "betweenness": 0.03292273236282195
+    },
+    {
+      "topic": 50,
+      "display_name": "Trait, Personality Trait, Personality Function, Personality Pathology",
+      "cluster": 4,
+      "strength": 15.862251222133636,
+      "betweenness": 0.07525195968645017
+    }
+  ],
+  "top_bridges": [
+    {
+      "topic": 42,
+      "display_name": "College students & campus prevention",
+      "cluster": 2,
+      "strength": 29.041756242513657,
+      "betweenness": 0.1316909294512878
+    },
+    {
+      "topic": 50,
+      "display_name": "Trait, Personality Trait, Personality Function, Personality Pathology",
+      "cluster": 4,
+      "strength": 15.862251222133636,
+      "betweenness": 0.07525195968645017
+    },
+    {
+      "topic": 13,
+      "display_name": "Cm, Mdd, History Cm, Relationship Cm",
+      "cluster": 4,
+      "strength": 15.610744208097458,
+      "betweenness": 0.06270996640537514
+    },
+    {
+      "topic": 73,
+      "display_name": "Caregiver, Caregiver Support, Caregiver Experience, Caregiverchild",
+      "cluster": 2,
+      "strength": 19.398991972208023,
+      "betweenness": 0.06159014557670773
+    },
+    {
+      "topic": 75,
+      "display_name": "Family Member, Family Function, Family Environment, Family Dynamic",
+      "cluster": 2,
+      "strength": 21.27693200111389,
+      "betweenness": 0.0606942889137738
+    },
+    {
+      "topic": 37,
+      "display_name": "Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",
+      "cluster": 2,
+      "strength": 17.924848973751068,
+      "betweenness": 0.04860022396416574
+    },
+    {
+      "topic": 101,
+      "display_name": "Divorce, Alienation, Parental Education, Parental Divorce",
+      "cluster": 2,
+      "strength": 16.640836745500565,
+      "betweenness": 0.04636058230683091
+    },
+    {
+      "topic": 81,
+      "display_name": "Childbirth, Maternity, Mistreatment, Obstetric",
+      "cluster": 0,
+      "strength": 3.006839394569397,
+      "betweenness": 0.04546472564389698
+    }
+  ]
+}

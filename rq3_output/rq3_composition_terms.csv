@@ -1,0 +1,1471 @@
+topic,display_name,term,log_odds_P4_vs_P1,count_P1,count_P4
+0,Maternal & infant mental health,trpv,3.7693197181253737,0,26
+0,Maternal & infant mental health,piglet,3.4096169118056654,0,18
+0,Maternal & infant mental health,hsp,3.4096169118056654,0,18
+0,Maternal & infant mental health,mtdna,3.4096169118056654,0,18
+0,Maternal & infant mental health,sirt,3.232562929484695,0,15
+0,Maternal & infant mental health,risky,3.165830466975499,0,14
+0,Maternal & infant mental health,ephrinb,3.165830466975499,0,14
+0,Maternal & infant mental health,enamel,3.094330416670984,0,13
+0,Maternal & infant mental health,macrophage,3.094330416670984,0,13
+0,Maternal & infant mental health,family,3.094330416670984,0,13
+0,Maternal & infant mental health,sam,3.0173282909005037,0,12
+0,Maternal & infant mental health,bladder,3.0173282909005037,0,12
+0,Maternal & infant mental health,tinnitus,3.0173282909005037,0,12
+0,Maternal & infant mental health,rxr,3.0173282909005037,0,12
+0,Maternal & infant mental health,sertoli,3.0173282909005037,0,12
+0,Maternal & infant mental health,tactile,-3.3380876200334226,11,0
+0,Maternal & infant mental health,agt,-3.3380876200334226,11,0
+0,Maternal & infant mental health,ase,-3.3380876200334226,11,0
+0,Maternal & infant mental health,asymmetry,-3.3380876200334226,11,0
+0,Maternal & infant mental health,handle,-3.3380876200334226,11,0
+0,Maternal & infant mental health,habitual,-3.421519515606297,12,0
+0,Maternal & infant mental health,npy,-3.421519515606297,12,0
+0,Maternal & infant mental health,circuitry,-3.421519515606297,12,0
+0,Maternal & infant mental health,mast,-3.636781770298966,15,0
+0,Maternal & infant mental health,kor,-3.636781770298966,15,0
+0,Maternal & infant mental health,lhb,-3.699352424031141,16,0
+0,Maternal & infant mental health,homer,-3.699352424031141,16,0
+0,Maternal & infant mental health,sert,-3.866557414127189,19,0
+0,Maternal & infant mental health,matsep,-3.866557414127189,19,0
+0,Maternal & infant mental health,right,-3.866557414127189,19,0
+1,Adverse childhood experiences (ACE),multimorbidity,3.6097142849118162,0,50
+1,Adverse childhood experiences (ACE),dementia,3.337891629376176,0,38
+1,Adverse childhood experiences (ACE),offspring,3.2280235825026384,0,34
+1,Adverse childhood experiences (ACE),middle-aged,3.00095435512081,0,27
+1,Adverse childhood experiences (ACE),hr,2.963870818013574,0,26
+1,Adverse childhood experiences (ACE),frailty,2.7545677198119227,0,21
+1,Adverse childhood experiences (ACE),fall,2.7545677198119227,0,21
+1,Adverse childhood experiences (ACE),cannabis,2.7068974161112607,0,20
+1,Adverse childhood experiences (ACE),south,2.7068974161112607,0,20
+1,Adverse childhood experiences (ACE),trait,2.656844742610578,0,19
+1,Adverse childhood experiences (ACE),pces,2.656844742610578,0,19
+1,Adverse childhood experiences (ACE),global,2.6041587579843695,0,18
+1,Adverse childhood experiences (ACE),subjective,2.548546657473855,0,17
+1,Adverse childhood experiences (ACE),gun,2.48966390988015,0,16
+1,Adverse childhood experiences (ACE),africa,2.48966390988015,0,16
+1,Adverse childhood experiences (ACE),postoperative,-3.573162730240565,6,0
+1,Adverse childhood experiences (ACE),buy,-3.573162730240565,6,0
+1,Adverse childhood experiences (ACE),effectiveness,-3.573162730240565,6,0
+1,Adverse childhood experiences (ACE),ebp,-3.71637928783647,7,0
+1,Adverse childhood experiences (ACE),sell,-3.71637928783647,7,0
+1,Adverse childhood experiences (ACE),lgbtq,-3.71637928783647,7,0
+1,Adverse childhood experiences (ACE),ibs,-3.841658158136977,8,0
+1,Adverse childhood experiences (ACE),srph,-3.841658158136977,8,0
+1,Adverse childhood experiences (ACE),cshcn,-3.9529995339880717,9,0
+1,Adverse childhood experiences (ACE),luts,-3.9529995339880717,9,0
+1,Adverse childhood experiences (ACE),partnership,-3.9529995339880717,9,0
+1,Adverse childhood experiences (ACE),arterial,-4.053198746683393,10,0
+1,Adverse childhood experiences (ACE),self-efficacy,-4.053198746683393,10,0
+1,Adverse childhood experiences (ACE),metacognition,-4.053198746683393,10,0
+1,Adverse childhood experiences (ACE),stiffness,-4.144286292428032,11,0
+2,PTSD treatment (EMDR / trauma-focused CBT),acid,3.9914606600679674,0,34
+2,PTSD treatment (EMDR / trauma-focused CBT),beta,3.6883577952726885,0,25
+2,PTSD treatment (EMDR / trauma-focused CBT),c-ptsd,3.517367164824515,0,21
+2,PTSD treatment (EMDR / trauma-focused CBT),cluster,3.517367164824515,0,21
+2,PTSD treatment (EMDR / trauma-focused CBT),couple,3.3668112141687594,0,18
+2,PTSD treatment (EMDR / trauma-focused CBT),revictimization,3.311150130462111,0,17
+2,PTSD treatment (EMDR / trauma-focused CBT),online,3.311150130462111,0,17
+2,PTSD treatment (EMDR / trauma-focused CBT),ace,3.311150130462111,0,17
+2,PTSD treatment (EMDR / trauma-focused CBT),tire-exp,3.252218406209959,0,16
+2,PTSD treatment (EMDR / trauma-focused CBT),cm,3.051274087980686,0,13
+2,PTSD treatment (EMDR / trauma-focused CBT),sexuality,3.051274087980686,0,13
+2,PTSD treatment (EMDR / trauma-focused CBT),fatty,3.051274087980686,0,13
+2,PTSD treatment (EMDR / trauma-focused CBT),iq,2.890749064312698,0,11
+2,PTSD treatment (EMDR / trauma-focused CBT),virtual,2.890749064312698,0,11
+2,PTSD treatment (EMDR / trauma-focused CBT),headache,2.890749064312698,0,11
+2,PTSD treatment (EMDR / trauma-focused CBT),qol,-3.0798930857421265,8,0
+2,PTSD treatment (EMDR / trauma-focused CBT),bnst,-3.1912352981432264,9,0
+2,PTSD treatment (EMDR / trauma-focused CBT),share,-3.1912352981432264,9,0
+2,PTSD treatment (EMDR / trauma-focused CBT),smd,-3.1912352981432264,9,0
+2,PTSD treatment (EMDR / trauma-focused CBT),er,-3.1912352981432264,9,0
+2,PTSD treatment (EMDR / trauma-focused CBT),homeless,-3.1912352981432264,9,0
+2,PTSD treatment (EMDR / trauma-focused CBT),exacerbation,-3.291435347582934,10,0
+2,PTSD treatment (EMDR / trauma-focused CBT),irr,-3.291435347582934,10,0
+2,PTSD treatment (EMDR / trauma-focused CBT),sleep,-3.3825237302664046,11,0
+2,PTSD treatment (EMDR / trauma-focused CBT),hc,-3.3825237302664046,11,0
+2,PTSD treatment (EMDR / trauma-focused CBT),tcvns,-3.5430996300948134,13,0
+2,PTSD treatment (EMDR / trauma-focused CBT),refugee,-3.6146752393587898,14,0
+2,PTSD treatment (EMDR / trauma-focused CBT),bias,-3.744120302228759,16,0
+2,PTSD treatment (EMDR / trauma-focused CBT),hippocampal,-3.744120302228759,16,0
+2,PTSD treatment (EMDR / trauma-focused CBT),pediatric,-4.256230222727028,27,0
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",heal,3.28579609438583,0,25
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",assertiveness,3.066871747551823,0,20
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",aasa,2.9082454897168626,0,17
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",educator,2.849270941436356,0,16
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",therapeutic,2.6481982089813867,0,13
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",condom,2.571103191424908,0,12
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",mentalizing,2.571103191424908,0,12
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",romantic,2.571103191424908,0,12
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",activism,2.487587624012783,0,11
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",insight,2.487587624012783,0,11
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",ambivalent,2.3964819052764517,0,10
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",power,2.3964819052764517,0,10
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",trauma-informed,2.3964819052764517,0,10
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",fantasy,2.3964819052764517,0,10
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",aggression,2.3964819052764517,0,10
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",skpi,-3.2158657857148825,6,0
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",serbia,-3.2158657857148825,6,0
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",god,-3.2158657857148825,6,0
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",injunction,-3.2158657857148825,6,0
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",utilisation,-3.3592231053764534,7,0
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",md,-3.3592231053764534,7,0
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",infectious,-3.3592231053764534,7,0
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",preschool,-3.3592231053764534,7,0
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",prosecution,-3.3592231053764534,7,0
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",cnn,-3.5961250329067234,9,0
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",cmh,-3.6964651649764084,10,0
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",preschool-aged,-3.6964651649764084,10,0
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",pediatrician,-3.6964651649764084,10,0
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",botswana,-3.871332096875058,12,0
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",tl,-4.2090893503783136,17,0
+4,Intimate partner violence,ace,3.116892924399356,0,22
+4,Intimate partner violence,healthcare,2.920744449655815,0,18
+4,Intimate partner violence,father,2.920744449655815,0,18
+4,Intimate partner violence,dysregulation,2.8650736495810714,0,17
+4,Intimate partner violence,non-physical,2.8061322108278617,0,16
+4,Intimate partner violence,china,2.6767186324480434,0,14
+4,Intimate partner violence,paternal,2.5280968211639063,0,12
+4,Intimate partner violence,ncd,2.5280968211639063,0,12
+4,Intimate partner violence,prevent,2.4446143244120178,0,11
+4,Intimate partner violence,weapon,2.4446143244120178,0,11
+4,Intimate partner violence,cocaine,2.3535416685707773,0,10
+4,Intimate partner violence,legal,2.3535416685707773,0,10
+4,Intimate partner violence,vaw,2.3535416685707773,0,10
+4,Intimate partner violence,masculine,2.3535416685707773,0,10
+4,Intimate partner violence,bias,2.3535416685707773,0,10
+4,Intimate partner violence,sure,-3.2581469247395534,6,0
+4,Intimate partner violence,clinically,-3.2581469247395534,6,0
+4,Intimate partner violence,centrality,-3.4014493406445663,7,0
+4,Intimate partner violence,physician,-3.4014493406445663,7,0
+4,Intimate partner violence,dominance,-3.4014493406445663,7,0
+4,Intimate partner violence,fm,-3.5268140965024806,8,0
+4,Intimate partner violence,dyad,-3.5268140965024806,8,0
+4,Intimate partner violence,filipina,-3.5268140965024806,8,0
+4,Intimate partner violence,girl,-3.5268140965024806,8,0
+4,Intimate partner violence,animal,-3.6382413851725737,9,0
+4,Intimate partner violence,coordination,-3.6382413851725737,9,0
+4,Intimate partner violence,welfare,-3.7385265379617847,10,0
+4,Intimate partner violence,ce-ipv,-3.7385265379617847,10,0
+4,Intimate partner violence,communication,-3.829700051088511,11,0
+4,Intimate partner violence,vac,-4.129000386544753,15,0
+5,"Injury, Fracture, Infant, Head",radiation,3.2887261420286453,0,17
+5,"Injury, Fracture, Infant, Head",dose,3.2887261420286453,0,17
+5,"Injury, Fracture, Infant, Head",flag,3.1670416342407455,0,15
+5,"Injury, Fracture, Infant, Head",paediatric,3.1001884736229695,0,14
+5,"Injury, Fracture, Infant, Head",red,3.028567749692235,0,13
+5,"Injury, Fracture, Infant, Head",ton,3.028567749692235,0,13
+5,"Injury, Fracture, Infant, Head",hospitalisation,3.028567749692235,0,13
+5,"Injury, Fracture, Infant, Head",uldct,2.951444974769566,0,12
+5,"Injury, Fracture, Infant, Head",lr,2.951444974769566,0,12
+5,"Injury, Fracture, Infant, Head",capnet,2.951444974769566,0,12
+5,"Injury, Fracture, Infant, Head",ce,2.867901658197562,0,11
+5,"Injury, Fracture, Infant, Head",tract,2.867901658197562,0,11
+5,"Injury, Fracture, Infant, Head",emr,2.867901658197562,0,11
+5,"Injury, Fracture, Infant, Head",petechia,2.867901658197562,0,11
+5,"Injury, Fracture, Infant, Head",aor,2.776768198504014,0,10
+5,"Injury, Fracture, Infant, Head",mimic,-3.104274830890084,8,0
+5,"Injury, Fracture, Infant, Head",dancer,-3.104274830890084,8,0
+5,"Injury, Fracture, Infant, Head",le,-3.104274830890084,8,0
+5,"Injury, Fracture, Infant, Head",scd,-3.2157121510137996,9,0
+5,"Injury, Fracture, Infant, Head",secondary,-3.2157121510137996,9,0
+5,"Injury, Fracture, Infant, Head",anemia,-3.2157121510137996,9,0
+5,"Injury, Fracture, Infant, Head",rss,-3.3160073394043064,10,0
+5,"Injury, Fracture, Infant, Head",fatigue,-3.407190892282574,11,0
+5,"Injury, Fracture, Infant, Head",rh,-3.407190892282574,11,0
+5,"Injury, Fracture, Infant, Head",hematuria,-3.4907843207521774,12,0
+5,"Injury, Fracture, Infant, Head",femur,-3.6396280995816346,14,0
+5,"Injury, Fracture, Infant, Head",humerus,-3.706531428298989,15,0
+5,"Injury, Fracture, Infant, Head",spinal,-3.7692637844331207,16,0
+5,"Injury, Fracture, Infant, Head",shaft,-3.93695413634999,19,0
+5,"Injury, Fracture, Infant, Head",bucket,-4.035017009103299,21,0
+6,"Attachment, Attachment Style, Style, Insecure",ace,2.9811174096668145,0,27
+6,"Attachment, Attachment Style, Style, Insecure",mistrust,2.68649507061298,0,20
+6,"Attachment, Attachment Style, Style, Insecure",surgery,2.6363616790593145,0,19
+6,"Attachment, Attachment Style, Style, Insecure",cosmetic,2.5279021978173635,0,17
+6,"Attachment, Attachment Style, Style, Insecure",defense,2.2678993904499514,0,13
+6,"Attachment, Attachment Style, Style, Insecure",often,2.1908154840968113,0,12
+6,"Attachment, Attachment Style, Style, Insecure",self-concept,2.107311025034755,0,11
+6,"Attachment, Attachment Style, Style, Insecure",fad,2.107311025034755,0,11
+6,"Attachment, Attachment Style, Style, Insecure",bdsm,2.107311025034755,0,11
+6,"Attachment, Attachment Style, Style, Insecure",antenatal,2.107311025034755,0,11
+6,"Attachment, Attachment Style, Style, Insecure",beta,2.107311025034755,0,11
+6,"Attachment, Attachment Style, Style, Insecure",oxt,2.107311025034755,0,11
+6,"Attachment, Attachment Style, Style, Insecure",father-child,2.0162164117963224,0,10
+6,"Attachment, Attachment Style, Style, Insecure",functioning,2.0162164117963224,0,10
+6,"Attachment, Attachment Style, Style, Insecure",credulity,2.0162164117963224,0,10
+6,"Attachment, Attachment Style, Style, Insecure",evade,-3.4291476240366743,5,0
+6,"Attachment, Attachment Style, Style, Insecure",same-sex,-3.4291476240366743,5,0
+6,"Attachment, Attachment Style, Style, Insecure",voice,-3.4291476240366743,5,0
+6,"Attachment, Attachment Style, Style, Insecure",etiology,-3.4291476240366743,5,0
+6,"Attachment, Attachment Style, Style, Insecure",lesbian,-3.4291476240366743,5,0
+6,"Attachment, Attachment Style, Style, Insecure",avhs,-3.5965458243260855,6,0
+6,"Attachment, Attachment Style, Style, Insecure",impulsivity,-3.739990902049332,7,0
+6,"Attachment, Attachment Style, Style, Insecure",ca,-3.739990902049332,7,0
+6,"Attachment, Attachment Style, Style, Insecure",outness,-3.739990902049332,7,0
+6,"Attachment, Attachment Style, Style, Insecure",infancy,-3.739990902049332,7,0
+6,"Attachment, Attachment Style, Style, Insecure",connect,-3.8654983976238206,8,0
+6,"Attachment, Attachment Style, Style, Insecure",migraine,-3.8654983976238206,8,0
+6,"Attachment, Attachment Style, Style, Insecure",passion,-4.07749655247247,10,0
+6,"Attachment, Attachment Style, Style, Insecure",pv,-4.252539475931415,12,0
+6,"Attachment, Attachment Style, Style, Insecure",csa,-4.329845463604251,13,0
+7,COVID-19 pandemic impact,student,3.231458973072172,0,24
+7,COVID-19 pandemic impact,substance,3.1001011461662884,0,21
+7,COVID-19 pandemic impact,young,2.9490818423464757,0,18
+7,COVID-19 pandemic impact,cm,2.893266411622651,0,17
+7,COVID-19 pandemic impact,post-covid,2.771414576334309,0,15
+7,COVID-19 pandemic impact,trend,2.632773500510801,0,13
+7,COVID-19 pandemic impact,workplace,2.632773500510801,0,13
+7,COVID-19 pandemic impact,difference,2.632773500510801,0,13
+7,COVID-19 pandemic impact,pre-pandemic,2.632773500510801,0,13
+7,COVID-19 pandemic impact,suicidality,2.471940353797952,0,11
+7,COVID-19 pandemic impact,closure,2.380723417464006,0,10
+7,COVID-19 pandemic impact,maternity,2.380723417464006,0,10
+7,COVID-19 pandemic impact,prior,2.380723417464006,0,10
+7,COVID-19 pandemic impact,mentor,2.380723417464006,0,10
+7,COVID-19 pandemic impact,hope,2.280394860866581,0,9
+7,COVID-19 pandemic impact,reframing,-3.0665257976082723,5,0
+7,COVID-19 pandemic impact,suffer,-3.0665257976082723,5,0
+7,COVID-19 pandemic impact,equipment,-3.0665257976082723,5,0
+7,COVID-19 pandemic impact,sep,-3.0665257976082723,5,0
+7,COVID-19 pandemic impact,death,-3.0665257976082723,5,0
+7,COVID-19 pandemic impact,tweet,-3.0665257976082723,5,0
+7,COVID-19 pandemic impact,depersonalization,-3.2340572092494755,6,0
+7,COVID-19 pandemic impact,chr,-3.2340572092494755,6,0
+7,COVID-19 pandemic impact,cptsd,-3.2340572092494755,6,0
+7,COVID-19 pandemic impact,mitigation,-3.2340572092494755,6,0
+7,COVID-19 pandemic impact,botswana,-3.37763560781804,7,0
+7,COVID-19 pandemic impact,telepsychotherapy,-3.37763560781804,7,0
+7,COVID-19 pandemic impact,quarantine,-3.37763560781804,7,0
+7,COVID-19 pandemic impact,acute,-3.5032765338676137,8,0
+7,COVID-19 pandemic impact,ethical,-3.5032765338676137,8,0
+8,"Worker, Protection, Social Work, Social Worker",labour,3.3468580345049324,0,23
+8,"Worker, Protection, Social Work, Social Worker",hour,3.1069838494126643,0,18
+8,"Worker, Protection, Social Work, Social Worker",healthcare,3.051285148882595,0,17
+8,"Worker, Protection, Social Work, Social Worker",fme,2.791258721853943,0,13
+8,"Worker, Protection, Social Work, Social Worker",mr,2.7141689142999184,0,12
+8,"Worker, Protection, Social Work, Social Worker",barnahus,2.6306585555216264,0,11
+8,"Worker, Protection, Social Work, Social Worker",utilization,2.6306585555216264,0,11
+8,"Worker, Protection, Social Work, Social Worker",africa,2.6306585555216264,0,11
+8,"Worker, Protection, Social Work, Social Worker",sts,2.6306585555216264,0,11
+8,"Worker, Protection, Social Work, Social Worker",nigeria,2.539558044051047,0,10
+8,"Worker, Protection, Social Work, Social Worker",radiographer,2.539558044051047,0,10
+8,"Worker, Protection, Social Work, Social Worker",certificate,2.539558044051047,0,10
+8,"Worker, Protection, Social Work, Social Worker",opposition,2.539558044051047,0,10
+8,"Worker, Protection, Social Work, Social Worker",casats,2.539558044051047,0,10
+8,"Worker, Protection, Social Work, Social Worker",galway,2.539558044051047,0,10
+8,"Worker, Protection, Social Work, Social Worker",geography,-3.0724807196704704,6,0
+8,"Worker, Protection, Social Work, Social Worker",telemedicine,-3.0724807196704704,6,0
+8,"Worker, Protection, Social Work, Social Worker",rcsa,-3.0724807196704704,6,0
+8,"Worker, Protection, Social Work, Social Worker",substantial,-3.0724807196704704,6,0
+8,"Worker, Protection, Social Work, Social Worker",confirm,-3.0724807196704704,6,0
+8,"Worker, Protection, Social Work, Social Worker",seem,-3.215795147250443,7,0
+8,"Worker, Protection, Social Work, Social Worker",poor,-3.215795147250443,7,0
+8,"Worker, Protection, Social Work, Social Worker",custody,-3.215795147250443,7,0
+8,"Worker, Protection, Social Work, Social Worker",suspicion,-3.3411719197715932,8,0
+8,"Worker, Protection, Social Work, Social Worker",identification,-3.3411719197715932,8,0
+8,"Worker, Protection, Social Work, Social Worker",psb,-3.4526112300963057,9,0
+8,"Worker, Protection, Social Work, Social Worker",paediatrician,-3.4526112300963057,9,0
+8,"Worker, Protection, Social Work, Social Worker",household,-3.5529084095346324,10,0
+8,"Worker, Protection, Social Work, Social Worker",recurrence,-3.5529084095346324,10,0
+8,"Worker, Protection, Social Work, Social Worker",cp,-3.644093954308082,11,0
+9,"Offender, Offend, Juvenile, Criminal",cognition,3.3105135447722116,0,19
+9,"Offender, Offend, Juvenile, Criminal",belief,3.080293368986297,0,15
+9,"Offender, Offend, Juvenile, Criminal",discrimination,3.0134406260832076,0,14
+9,"Offender, Offend, Juvenile, Criminal",fantasy,3.0134406260832076,0,14
+9,"Offender, Offend, Juvenile, Criminal",non-violent,2.6900220204741183,0,10
+9,"Offender, Offend, Juvenile, Criminal",district,2.6900220204741183,0,10
+9,"Offender, Offend, Juvenile, Criminal",traffic,2.5897773236065644,0,9
+9,"Offender, Offend, Juvenile, Criminal",exclusive,2.5897773236065644,0,9
+9,"Offender, Offend, Juvenile, Criminal",limited,2.47839047617937,0,8
+9,"Offender, Offend, Juvenile, Criminal",immigrant,2.47839047617937,0,8
+9,"Offender, Offend, Juvenile, Criminal",safeguard,2.47839047617937,0,8
+9,"Offender, Offend, Juvenile, Criminal",paedophile,2.47839047617937,0,8
+9,"Offender, Offend, Juvenile, Criminal",fiqh,2.3530661468936156,0,7
+9,"Offender, Offend, Juvenile, Criminal",celje,2.3530661468936156,0,7
+9,"Offender, Offend, Juvenile, Criminal",hunter,2.3530661468936156,0,7
+9,"Offender, Offend, Juvenile, Criminal",killer,-2.9224410928360074,6,0
+9,"Offender, Offend, Juvenile, Criminal",specificity,-2.9224410928360074,6,0
+9,"Offender, Offend, Juvenile, Criminal",pathways,-2.9224410928360074,6,0
+9,"Offender, Offend, Juvenile, Criminal",africa,-2.9224410928360074,6,0
+9,"Offender, Offend, Juvenile, Criminal",western,-2.9224410928360074,6,0
+9,"Offender, Offend, Juvenile, Criminal",serial,-3.0657721390559667,7,0
+9,"Offender, Offend, Juvenile, Criminal",crop,-3.0657721390559667,7,0
+9,"Offender, Offend, Juvenile, Criminal",user,-3.0657721390559667,7,0
+9,"Offender, Offend, Juvenile, Criminal",elderly,-3.0657721390559667,7,0
+9,"Offender, Offend, Juvenile, Criminal",intergenerational,-3.0657721390559667,7,0
+9,"Offender, Offend, Juvenile, Criminal",csv,-3.0657721390559667,7,0
+9,"Offender, Offend, Juvenile, Criminal",dual,-3.1911655375946877,8,0
+9,"Offender, Offend, Juvenile, Criminal",maternal,-3.3026214813194716,9,0
+9,"Offender, Offend, Juvenile, Criminal",ci,-3.577749571288388,12,0
+9,"Offender, Offend, Juvenile, Criminal",ric,-3.577749571288388,12,0
+10,Epigenetics & DNA methylation,preterm,4.361519886345909,0,27
+10,Epigenetics & DNA methylation,pubertal,3.7852686862691325,0,15
+10,Epigenetics & DNA methylation,exercise,3.7183355907153803,0,14
+10,Epigenetics & DNA methylation,diabetes,3.569432318703565,0,12
+10,Epigenetics & DNA methylation,timing,3.569432318703565,0,12
+10,Epigenetics & DNA methylation,de,3.485809163869619,0,11
+10,Epigenetics & DNA methylation,black,3.485809163869619,0,11
+10,Epigenetics & DNA methylation,skill,3.394595898099328,0,10
+10,Epigenetics & DNA methylation,neonatal,3.294271010279947,0,9
+10,Epigenetics & DNA methylation,mps-gc,3.294271010279947,0,9
+10,Epigenetics & DNA methylation,oprl,3.1828040041813432,0,8
+10,Epigenetics & DNA methylation,dmps,3.1828040041813432,0,8
+10,Epigenetics & DNA methylation,mendelian,3.1828040041813432,0,8
+10,Epigenetics & DNA methylation,reward,3.1828040041813432,0,8
+10,Epigenetics & DNA methylation,cardiometabolic,3.0573995484848533,0,7
+10,Epigenetics & DNA methylation,vitamin,-2.6985635037003295,10,0
+10,Epigenetics & DNA methylation,testosterone,-2.6985635037003295,10,0
+10,Epigenetics & DNA methylation,morc,-2.789705726767556,11,0
+10,Epigenetics & DNA methylation,mouse,-2.789705726767556,11,0
+10,Epigenetics & DNA methylation,face,-2.789705726767556,11,0
+10,Epigenetics & DNA methylation,genotype,-2.8732578096245103,12,0
+10,Epigenetics & DNA methylation,hippocampal,-2.8732578096245103,12,0
+10,Epigenetics & DNA methylation,il,-2.8732578096245103,12,0
+10,Epigenetics & DNA methylation,tph,-2.8732578096245103,12,0
+10,Epigenetics & DNA methylation,attachment,-2.9503893537448542,13,0
+10,Epigenetics & DNA methylation,el,-2.9503893537448542,13,0
+10,Epigenetics & DNA methylation,oxytocin,-3.266323351647652,18,0
+10,Epigenetics & DNA methylation,father,-3.3191377627235212,19,0
+10,Epigenetics & DNA methylation,antidepressant,-3.3191377627235212,19,0
+10,Epigenetics & DNA methylation,gr,-3.8007612495132443,31,0
+11,"Cortisol, Hpa, Axis, Hpa Axis",sa,3.756677898443667,0,17
+11,"Cortisol, Hpa, Axis, Hpa Axis",val,3.6976359479768606,0,16
+11,"Cortisol, Hpa, Axis, Hpa Axis",tinnitus,3.1441583477303414,0,9
+11,"Cortisol, Hpa, Axis, Hpa Axis",kitten,3.1441583477303414,0,9
+11,"Cortisol, Hpa, Axis, Hpa Axis",episode,3.1441583477303414,0,9
+11,"Cortisol, Hpa, Axis, Hpa Axis",small,3.032731586312118,0,8
+11,"Cortisol, Hpa, Axis, Hpa Axis",friendship,3.032731586312118,0,8
+11,"Cortisol, Hpa, Axis, Hpa Axis",ppd,3.032731586312118,0,8
+11,"Cortisol, Hpa, Axis, Hpa Axis",bdnf,3.032731586312118,0,8
+11,"Cortisol, Hpa, Axis, Hpa Axis",elt,2.9073673574937713,0,7
+11,"Cortisol, Hpa, Axis, Hpa Axis",histone,2.9073673574937713,0,7
+11,"Cortisol, Hpa, Axis, Hpa Axis",cort,2.9073673574937713,0,7
+11,"Cortisol, Hpa, Axis, Hpa Axis",volume,2.7640654684161516,0,6
+11,"Cortisol, Hpa, Axis, Hpa Axis",peripartum,2.7640654684161516,0,6
+11,"Cortisol, Hpa, Axis, Hpa Axis",wm,2.7640654684161516,0,6
+11,"Cortisol, Hpa, Axis, Hpa Axis",alcohol,-2.5112932975905844,7,0
+11,"Cortisol, Hpa, Axis, Hpa Axis",hpaa,-2.6366213753956984,8,0
+11,"Cortisol, Hpa, Axis, Hpa Axis",pi,-2.6366213753956984,8,0
+11,"Cortisol, Hpa, Axis, Hpa Axis",ideation,-2.6366213753956984,8,0
+11,"Cortisol, Hpa, Axis, Hpa Axis",avoidance,-2.6366213753956984,8,0
+11,"Cortisol, Hpa, Axis, Hpa Axis",adrenal,-2.748011972565024,9,0
+11,"Cortisol, Hpa, Axis, Hpa Axis",attitude,-2.748011972565024,9,0
+11,"Cortisol, Hpa, Axis, Hpa Axis",internalize,-2.748011972565024,9,0
+11,"Cortisol, Hpa, Axis, Hpa Axis",egg,-2.848260420398078,10,0
+11,"Cortisol, Hpa, Axis, Hpa Axis",ad,-2.848260420398078,10,0
+11,"Cortisol, Hpa, Axis, Hpa Axis",dysfunctional,-2.848260420398078,10,0
+11,"Cortisol, Hpa, Axis, Hpa Axis",foa,-2.848260420398078,10,0
+11,"Cortisol, Hpa, Axis, Hpa Axis",offspring,-2.8829488288837926,32,1
+11,"Cortisol, Hpa, Axis, Hpa Axis",chr,-3.100069979898869,13,0
+11,"Cortisol, Hpa, Axis, Hpa Axis",pituitary,-3.2385505421092624,15,0
+14,Adverse childhood experiences (ACE),self-concept,2.7778713547042075,0,19
+14,Adverse childhood experiences (ACE),temperament,2.6693303038310034,0,17
+14,Adverse childhood experiences (ACE),correlation,2.610326110895608,0,16
+14,Adverse childhood experiences (ACE),prosocial,2.610326110895608,0,16
+14,Adverse childhood experiences (ACE),poly-adversity,2.547642087792796,0,15
+14,Adverse childhood experiences (ACE),cm,2.547642087792796,0,15
+14,Adverse childhood experiences (ACE),self-efficacy,2.547642087792796,0,15
+14,Adverse childhood experiences (ACE),ibs,2.480787073954861,0,14
+14,Adverse childhood experiences (ACE),pea,2.4091644974069064,0,13
+14,Adverse childhood experiences (ACE),highlight,2.4091644974069064,0,13
+14,Adverse childhood experiences (ACE),loneliness,2.3320398704696608,0,12
+14,Adverse childhood experiences (ACE),program,2.24849470248543,0,11
+14,Adverse childhood experiences (ACE),follow-up,2.24849470248543,0,11
+14,Adverse childhood experiences (ACE),left-behind,2.24849470248543,0,11
+14,Adverse childhood experiences (ACE),home,2.24849470248543,0,11
+14,Adverse childhood experiences (ACE),maltreat,-3.288679454399965,5,0
+14,Adverse childhood experiences (ACE),error,-3.288679454399965,5,0
+14,Adverse childhood experiences (ACE),mentalization,-3.4561314698284304,6,0
+14,Adverse childhood experiences (ACE),latinx,-3.4561314698284304,6,0
+14,Adverse childhood experiences (ACE),characteristic,-3.4561314698284304,6,0
+14,Adverse childhood experiences (ACE),cohort,-3.4561314698284304,6,0
+14,Adverse childhood experiences (ACE),migrant,-3.5996304026463353,7,0
+14,Adverse childhood experiences (ACE),disaster,-3.7251917933156804,8,0
+14,Adverse childhood experiences (ACE),ptss,-3.7251917933156804,8,0
+14,Adverse childhood experiences (ACE),fkbp,-3.8368158348056767,9,0
+14,Adverse childhood experiences (ACE),romantic,-3.9372978585333405,10,0
+14,Adverse childhood experiences (ACE),ptg,-3.9372978585333405,10,0
+14,Adverse childhood experiences (ACE),breakup,-4.028668360827284,11,0
+14,Adverse childhood experiences (ACE),hopelessness,-4.112448852898868,12,0
+14,Adverse childhood experiences (ACE),sh,-4.328757837449372,15,0
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",pwh,3.353168845790485,0,17
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",pathway,3.23142590835364,0,15
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",contraceptive,3.092893635369946,0,13
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",phenotype,3.015741681671191,0,12
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",needle,2.9321691966101637,0,11
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",tic,2.9321691966101637,0,11
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",syringe,2.8410065787092007,0,10
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",zimbabwe,2.8410065787092007,0,10
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",victimisation,2.8410065787092007,0,10
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",preventive,2.8410065787092007,0,10
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",intrinsic,2.740732316869823,0,9
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",agency,2.740732316869823,0,9
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",suicide,2.740732316869823,0,9
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",mh,2.740732316869823,0,9
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",pepfar,2.740732316869823,0,9
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",affinity,-2.9151110337978974,7,0
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",bsmm,-2.9151110337978974,7,0
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",pre-exposure,-2.9151110337978974,7,0
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",daily,-2.9151110337978974,7,0
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",material,-3.0405084785336687,8,0
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",homeless,-3.0405084785336687,8,0
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",cp,-3.1519684703358495,9,0
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",rai,-3.1519684703358495,9,0
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",leader,-3.1519684703358495,9,0
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",hivst,-3.2522863405207225,10,0
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",pep,-3.343492585316034,11,0
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",phiv,-3.343492585316034,11,0
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",hiv-positive,-3.427108715832145,12,0
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",ipt,-3.764754386054327,17,0
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",aya,-3.82055908925343,18,0
+16,"Drug, Opioid, Cannabis, Misuse",cud,3.5542226481329564,0,19
+16,"Drug, Opioid, Cannabis, Misuse",methamphetamine,3.4455405148136586,0,17
+16,"Drug, Opioid, Cannabis, Misuse",maternal,3.386465822752185,0,16
+16,"Drug, Opioid, Cannabis, Misuse",problematic,3.3237113285653788,0,15
+16,"Drug, Opioid, Cannabis, Misuse",stigma,3.256785871668634,0,14
+16,"Drug, Opioid, Cannabis, Misuse",reactivity,3.1850928800701626,0,13
+16,"Drug, Opioid, Cannabis, Misuse",latinx,3.1078978660738183,0,12
+16,"Drug, Opioid, Cannabis, Misuse",subjective,2.933076697374493,0,10
+16,"Drug, Opioid, Cannabis, Misuse",revictimization,2.832759430071998,0,9
+16,"Drug, Opioid, Cannabis, Misuse",sdoh,2.832759430071998,0,9
+16,"Drug, Opioid, Cannabis, Misuse",el,2.832759430071998,0,9
+16,"Drug, Opioid, Cannabis, Misuse",iran,2.7213000408700125,0,8
+16,"Drug, Opioid, Cannabis, Misuse",psychoactive,2.7213000408700125,0,8
+16,"Drug, Opioid, Cannabis, Misuse",beta,2.7213000408700125,0,8
+16,"Drug, Opioid, Cannabis, Misuse",contribute,2.7213000408700125,0,8
+16,"Drug, Opioid, Cannabis, Misuse",homeless,-2.8236630748925817,7,0
+16,"Drug, Opioid, Cannabis, Misuse",respondent,-2.8236630748925817,7,0
+16,"Drug, Opioid, Cannabis, Misuse",category,-2.8236630748925817,7,0
+16,"Drug, Opioid, Cannabis, Misuse",rural,-2.9490881350822393,8,0
+16,"Drug, Opioid, Cannabis, Misuse",new,-2.9490881350822393,8,0
+16,"Drug, Opioid, Cannabis, Misuse",pregnancy,-3.0605757560467266,9,0
+16,"Drug, Opioid, Cannabis, Misuse",syndrome,-3.0605757560467266,9,0
+16,"Drug, Opioid, Cannabis, Misuse",reflective,-3.0605757560467266,9,0
+16,"Drug, Opioid, Cannabis, Misuse",trauma-focused,-3.0605757560467266,9,0
+16,"Drug, Opioid, Cannabis, Misuse",coherence,-3.1609212691125457,10,0
+16,"Drug, Opioid, Cannabis, Misuse",dual,-3.1609212691125457,10,0
+16,"Drug, Opioid, Cannabis, Misuse",pregnant,-3.2521551705176766,11,0
+16,"Drug, Opioid, Cannabis, Misuse",sense,-3.2521551705176766,11,0
+16,"Drug, Opioid, Cannabis, Misuse",brief,-3.2521551705176766,11,0
+16,"Drug, Opioid, Cannabis, Misuse",minority,-3.5516973394977853,15,0
+18,Psychosis & psychotic-like experiences,sb,3.3326832242239206,0,18
+18,Psychosis & psychotic-like experiences,causal,3.3326832242239206,0,18
+18,Psychosis & psychotic-like experiences,predictor,3.016494757758778,0,13
+18,Psychosis & psychotic-like experiences,highlight,3.016494757758778,0,13
+18,Psychosis & psychotic-like experiences,narcissism,2.9393123797470233,0,12
+18,Psychosis & psychotic-like experiences,prevention,2.855709482911517,0,11
+18,Psychosis & psychotic-like experiences,cmt,2.855709482911517,0,11
+18,Psychosis & psychotic-like experiences,premorbid,2.855709482911517,0,11
+18,Psychosis & psychotic-like experiences,importance,2.7645164657668344,0,10
+18,Psychosis & psychotic-like experiences,thalamic,2.7645164657668344,0,10
+18,Psychosis & psychotic-like experiences,sf,2.7645164657668344,0,10
+18,Psychosis & psychotic-like experiences,trauma-exposure,2.6642118172067386,0,9
+18,Psychosis & psychotic-like experiences,caes,2.6642118172067386,0,9
+18,Psychosis & psychotic-like experiences,thalamus,2.6642118172067386,0,9
+18,Psychosis & psychotic-like experiences,record,2.6642118172067386,0,9
+18,Psychosis & psychotic-like experiences,loss,-2.848922758028878,6,0
+18,Psychosis & psychotic-like experiences,fusion,-2.848922758028878,6,0
+18,Psychosis & psychotic-like experiences,response,-2.848922758028878,6,0
+18,Psychosis & psychotic-like experiences,cape,-2.848922758028878,6,0
+18,Psychosis & psychotic-like experiences,attribution,-2.848922758028878,6,0
+18,Psychosis & psychotic-like experiences,epicenter,-2.848922758028878,6,0
+18,Psychosis & psychotic-like experiences,homelessness,-2.848922758028878,6,0
+18,Psychosis & psychotic-like experiences,reactivity,-2.992316856803617,7,0
+18,Psychosis & psychotic-like experiences,schema,-2.992316856803617,7,0
+18,Psychosis & psychotic-like experiences,cht,-3.117773340915491,8,0
+18,Psychosis & psychotic-like experiences,homeless,-3.117773340915491,8,0
+18,Psychosis & psychotic-like experiences,external,-3.117773340915491,8,0
+18,Psychosis & psychotic-like experiences,self-disgust,-3.4209347529098917,11,0
+18,Psychosis & psychotic-like experiences,inner,-3.5818648607784382,13,0
+18,Psychosis & psychotic-like experiences,asd,-3.6536176831229676,14,0
+20,"Church, Catholic, Clergy, Religious",sacred,2.740436898972864,0,12
+20,"Church, Catholic, Clergy, Religious",leadership,2.740436898972864,0,12
+20,"Church, Catholic, Clergy, Religious",homosexuality,2.565481555451746,0,10
+20,"Church, Catholic, Clergy, Religious",perspective,2.46509725453389,0,9
+20,"Church, Catholic, Clergy, Religious",project,2.46509725453389,0,9
+20,"Church, Catholic, Clergy, Religious",leisure,2.46509725453389,0,9
+20,"Church, Catholic, Clergy, Religious",sap,2.46509725453389,0,9
+20,"Church, Catholic, Clergy, Religious",violence,2.3535708675416993,0,8
+20,"Church, Catholic, Clergy, Religious",religion-justified,2.3535708675416993,0,8
+20,"Church, Catholic, Clergy, Religious",survey,2.3535708675416993,0,8
+20,"Church, Catholic, Clergy, Religious",faith,2.3535708675416993,0,8
+20,"Church, Catholic, Clergy, Religious",ptsd,2.3535708675416993,0,8
+20,"Church, Catholic, Clergy, Religious",toward,2.3535708675416993,0,8
+20,"Church, Catholic, Clergy, Religious",report,2.3535708675416993,0,8
+20,"Church, Catholic, Clergy, Religious",christ,2.228107063130227,0,7
+20,"Church, Catholic, Clergy, Religious",emptythepews,-2.6812148710708694,4,0
+20,"Church, Catholic, Clergy, Religious",evaluation,-2.824433664865569,15,1
+20,"Church, Catholic, Clergy, Religious",marry,-2.8823724214598716,5,0
+20,"Church, Catholic, Clergy, Religious",governance,-2.8823724214598716,5,0
+20,"Church, Catholic, Clergy, Religious",fact,-2.8823724214598716,5,0
+20,"Church, Catholic, Clergy, Religious",boundary,-2.8823724214598716,5,0
+20,"Church, Catholic, Clergy, Religious",hashtag,-3.0499135981930676,6,0
+20,"Church, Catholic, Clergy, Religious",rf,-3.1935017712780835,7,0
+20,"Church, Catholic, Clergy, Religious",priesthood,-3.3191524812822166,8,0
+20,"Church, Catholic, Clergy, Religious",rorschach,-3.430865921280162,9,0
+20,"Church, Catholic, Clergy, Religious",metoo,-3.5314374227946113,10,0
+20,"Church, Catholic, Clergy, Religious",mmpi,-3.5314374227946113,10,0
+20,"Church, Catholic, Clergy, Religious",lay,-3.62289748226004,11,0
+20,"Church, Catholic, Clergy, Religious",seminary,-3.856165372239891,14,0
+20,"Church, Catholic, Clergy, Religious",applicant,-4.154879769430147,19,0
+21,Borderline personality disorder,dbt,2.9807809702734627,0,15
+21,Borderline personality disorder,improve,2.9807809702734627,0,15
+21,Borderline personality disorder,resilience,2.7650447208173965,0,12
+21,Borderline personality disorder,nss,2.7650447208173965,0,12
+21,Borderline personality disorder,bd,2.7650447208173965,0,12
+21,Borderline personality disorder,structural,2.681454908671264,0,11
+21,Borderline personality disorder,differential,2.681454908671264,0,11
+21,Borderline personality disorder,ace,2.681454908671264,0,11
+21,Borderline personality disorder,eye,2.681454908671264,0,11
+21,Borderline personality disorder,correlation,2.590274970598008,0,10
+21,Borderline personality disorder,self-harming,2.590274970598008,0,10
+21,Borderline personality disorder,ocpd,2.590274970598008,0,10
+21,Borderline personality disorder,tdcs,2.489983395495009,0,9
+21,Borderline personality disorder,nssi,2.489983395495009,0,9
+21,Borderline personality disorder,orientation,2.489983395495009,0,9
+21,Borderline personality disorder,interoception,-2.8558623792021702,5,0
+21,Borderline personality disorder,sbd,-3.0232448710932465,6,0
+21,Borderline personality disorder,discuss,-3.0232448710932465,6,0
+21,Borderline personality disorder,oxtr,-3.0232448710932465,6,0
+21,Borderline personality disorder,transmission,-3.0232448710932465,6,0
+21,Borderline personality disorder,assault,-3.16667422984857,7,0
+21,Borderline personality disorder,gene,-3.16667422984857,7,0
+21,Borderline personality disorder,cd,-3.16667422984857,7,0
+21,Borderline personality disorder,imagery,-3.16667422984857,7,0
+21,Borderline personality disorder,rss,-3.16667422984857,7,0
+21,Borderline personality disorder,genotype,-3.16667422984857,7,0
+21,Borderline personality disorder,malevolence,-3.292165995874873,8,0
+21,Borderline personality disorder,bpts,-3.4037203620860197,9,0
+21,Borderline personality disorder,mother,-4.073162748506358,18,0
+21,Borderline personality disorder,suicidal,-4.356045659459223,24,0
+22,"Rape, Perpetrator, Assault, Myth",victim-survivors,2.9740883864369962,0,12
+22,"Rape, Perpetrator, Assault, Myth",sextortion,2.6988476821710483,0,9
+22,"Rape, Perpetrator, Assault, Myth",bias,2.6988476821710483,0,9
+22,"Rape, Perpetrator, Assault, Myth",torture,2.6988476821710483,0,9
+22,"Rape, Perpetrator, Assault, Myth",communication,2.5873542377394587,0,8
+22,"Rape, Perpetrator, Assault, Myth",outrage,2.5873542377394587,0,8
+22,"Rape, Perpetrator, Assault, Myth",severe,2.5873542377394587,0,8
+22,"Rape, Perpetrator, Assault, Myth",qualitative,2.461923357166718,0,7
+22,"Rape, Perpetrator, Assault, Myth",forensic,2.461923357166718,0,7
+22,"Rape, Perpetrator, Assault, Myth",dynamic,2.461923357166718,0,7
+22,"Rape, Perpetrator, Assault, Myth",instruction,2.461923357166718,0,7
+22,"Rape, Perpetrator, Assault, Myth",australian,2.461923357166718,0,7
+22,"Rape, Perpetrator, Assault, Myth",non-contact,2.461923357166718,0,7
+22,"Rape, Perpetrator, Assault, Myth",reparation,2.318554847571556,0,6
+22,"Rape, Perpetrator, Assault, Myth",fcsa,2.318554847571556,0,6
+22,"Rape, Perpetrator, Assault, Myth",reliability,-2.8150049162697153,6,0
+22,"Rape, Perpetrator, Assault, Myth",afghan,-2.8150049162697153,6,0
+22,"Rape, Perpetrator, Assault, Myth",nonassault,-2.8150049162697153,6,0
+22,"Rape, Perpetrator, Assault, Myth",domestic,-2.958448930812864,7,0
+22,"Rape, Perpetrator, Assault, Myth",ritual,-2.958448930812864,7,0
+22,"Rape, Perpetrator, Assault, Myth",organize,-2.958448930812864,7,0
+22,"Rape, Perpetrator, Assault, Myth",korean,-2.958448930812864,7,0
+22,"Rape, Perpetrator, Assault, Myth",victim-perpetrator,-2.958448930812864,7,0
+22,"Rape, Perpetrator, Assault, Myth",manslaughter,-2.958448930812864,7,0
+22,"Rape, Perpetrator, Assault, Myth",victim-friendly,-3.0839553624760434,8,0
+22,"Rape, Perpetrator, Assault, Myth",bacha,-3.0839553624760434,8,0
+22,"Rape, Perpetrator, Assault, Myth",bazi,-3.0839553624760434,8,0
+22,"Rape, Perpetrator, Assault, Myth",analyse,-3.0839553624760434,8,0
+22,"Rape, Perpetrator, Assault, Myth",intrafamilial,-3.1955244041830486,9,0
+22,"Rape, Perpetrator, Assault, Myth",darvo,-3.1955244041830486,9,0
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",ct,3.5083487901152237,0,50
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",network,2.858994865631205,0,26
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",ctq,2.648962864619519,0,21
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",beta,2.601146881030952,0,20
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",insomnia,2.4981169636973064,0,18
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",target,2.383330990391003,0,16
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",disease,2.3206228752416376,0,15
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",connectivity,2.3206228752416376,0,15
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",fc,2.1820971261510618,0,13
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",neuroticism,2.1820971261510618,0,13
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",putamen,2.1820971261510618,0,13
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",sle,2.1049484325467525,0,12
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",emerge,2.1049484325467525,0,12
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",phq,2.1049484325467525,0,12
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",development,2.1049484325467525,0,12
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",hm,-3.6845612827317726,6,0
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",decision-making,-3.6845612827317726,6,0
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",dm,-3.6845612827317726,6,0
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",helper,-3.6845612827317726,6,0
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",small,-3.6845612827317726,6,0
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",hnk,-3.828235849853473,7,0
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",mentalizing,-3.9539730456361024,8,0
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",circadian,-3.9539730456361024,8,0
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",glutamine,-4.065773063300889,9,0
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",vortioxetine,-4.065773063300889,9,0
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",mg,-4.166431234517368,10,0
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",cd,-4.257978055867175,11,0
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",glutamate,-4.257978055867175,11,0
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",cmt,-4.341935038815196,12,0
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",adherence,-4.491506786070575,14,0
+24,"Interviewer, Forensic Interview, Investigative, Forensic",invitation,3.5517483536110817,0,20
+24,"Interviewer, Forensic Interview, Investigative, Forensic",expert,3.3336450221533553,0,16
+24,"Interviewer, Forensic Interview, Investigative, Forensic",human,3.2708651271482445,0,15
+24,"Interviewer, Forensic Interview, Investigative, Forensic",llm,3.13219591461246,0,13
+24,"Interviewer, Forensic Interview, Investigative, Forensic",suspect,2.97133465957298,0,11
+24,"Interviewer, Forensic Interview, Investigative, Forensic",implicit,2.779761086657678,0,9
+24,"Interviewer, Forensic Interview, Investigative, Forensic",rat,2.6682763841884922,0,8
+24,"Interviewer, Forensic Interview, Investigative, Forensic",program,2.6682763841884922,0,8
+24,"Interviewer, Forensic Interview, Investigative, Forensic",effective,2.6682763841884922,0,8
+24,"Interviewer, Forensic Interview, Investigative, Forensic",confidential,2.6682763841884922,0,8
+24,"Interviewer, Forensic Interview, Investigative, Forensic",direct,2.6682763841884922,0,8
+24,"Interviewer, Forensic Interview, Investigative, Forensic",reluctant,2.5428542409740373,0,7
+24,"Interviewer, Forensic Interview, Investigative, Forensic",indigenous,2.5428542409740373,0,7
+24,"Interviewer, Forensic Interview, Investigative, Forensic",less,2.5428542409740373,0,7
+24,"Interviewer, Forensic Interview, Investigative, Forensic",canadian,2.5428542409740373,0,7
+24,"Interviewer, Forensic Interview, Investigative, Forensic",death,-2.566430943735096,5,0
+24,"Interviewer, Forensic Interview, Investigative, Forensic",function,-2.566430943735096,5,0
+24,"Interviewer, Forensic Interview, Investigative, Forensic",ims,-2.7337910259526685,6,0
+24,"Interviewer, Forensic Interview, Investigative, Forensic",specialist,-2.7337910259526685,6,0
+24,"Interviewer, Forensic Interview, Investigative, Forensic",adaptive,-2.7337910259526685,6,0
+24,"Interviewer, Forensic Interview, Investigative, Forensic",indirect,-2.7337910259526685,6,0
+24,"Interviewer, Forensic Interview, Investigative, Forensic",old,-2.7337910259526685,6,0
+24,"Interviewer, Forensic Interview, Investigative, Forensic",autism,-2.7337910259526685,6,0
+24,"Interviewer, Forensic Interview, Investigative, Forensic",tendency,-2.877197960810914,7,0
+24,"Interviewer, Forensic Interview, Investigative, Forensic",recognition,-3.0026672887030132,8,0
+24,"Interviewer, Forensic Interview, Investigative, Forensic",denial,-3.0026672887030132,8,0
+24,"Interviewer, Forensic Interview, Investigative, Forensic",love,-3.114199202529261,9,0
+24,"Interviewer, Forensic Interview, Investigative, Forensic",clinician,-3.114199202529261,9,0
+24,"Interviewer, Forensic Interview, Investigative, Forensic",speech,-3.5385888556113887,14,0
+24,"Interviewer, Forensic Interview, Investigative, Forensic",yes,-3.60558707270222,15,0
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",multisite,3.1460953863698204,0,21
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",ieq,3.0481162883431026,0,19
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",fm,2.8178609376587618,0,15
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",injustice,2.8178609376587618,0,15
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",hyperalgesia,2.7509994083187737,0,14
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",reactivity,2.6793703184430573,0,13
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",flare,2.6793703184430573,0,13
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",bisexual,2.6793703184430573,0,13
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",inequity,2.6793703184430573,0,13
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",cplbp,2.602239180351255,0,12
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",post-operative,2.602239180351255,0,12
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",peritraumatic,2.602239180351255,0,12
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",social,2.522291245135741,1,34
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",modulation,2.518687503384583,0,11
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",class,2.518687503384583,0,11
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",prenatal,-3.185517358419637,6,0
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",np,-3.185517358419637,6,0
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",removal,-3.185517358419637,6,0
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",act,-3.185517358419637,6,0
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",aud,-3.185517358419637,6,0
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",bone,-3.3289339582991193,7,0
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",vulvodynia,-3.3289339582991193,7,0
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",zip,-3.3289339582991193,7,0
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",broth,-3.3289339582991193,7,0
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",migraine,-3.3289339582991193,7,0
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",postoperative,-3.454412957225429,8,0
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",juvenile,-3.454412957225429,8,0
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",trigeminal,-3.565954548104475,9,0
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",chest,-3.565954548104475,9,0
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",bpd,-3.757641996046768,11,0
+26,"Eat, Ed, Eating, Binge Eat",network,3.193446160213113,0,27
+26,"Eat, Ed, Eating, Binge Eat",trajectory,2.847973759639337,0,19
+26,"Eat, Ed, Eating, Binge Eat",loss,2.7393354112675405,0,17
+26,"Eat, Ed, Eating, Binge Eat",cognition,2.7393354112675405,0,17
+26,"Eat, Ed, Eating, Binge Eat",reflective,2.6175499708793337,0,15
+26,"Eat, Ed, Eating, Binge Eat",beta,2.478975229209122,0,13
+26,"Eat, Ed, Eating, Binge Eat",dissatisfaction,2.478975229209122,0,13
+26,"Eat, Ed, Eating, Binge Eat",comorbid,2.4018020540034666,0,12
+26,"Eat, Ed, Eating, Binge Eat",young,2.4018020540034666,0,12
+26,"Eat, Ed, Eating, Binge Eat",screen,2.4018020540034666,0,12
+26,"Eat, Ed, Eating, Binge Eat",deficit,2.4018020540034666,0,12
+26,"Eat, Ed, Eating, Binge Eat",postpartum,2.318208355986209,0,11
+26,"Eat, Ed, Eating, Binge Eat",shape,2.2270245336745136,0,10
+26,"Eat, Ed, Eating, Binge Eat",cte,2.2270245336745136,0,10
+26,"Eat, Ed, Eating, Binge Eat",cumulative,2.2270245336745136,0,10
+26,"Eat, Ed, Eating, Binge Eat",resumption,-3.2199149959342064,5,0
+26,"Eat, Ed, Eating, Binge Eat",subcategories,-3.2199149959342064,5,0
+26,"Eat, Ed, Eating, Binge Eat",alpha-amylase,-3.2199149959342064,5,0
+26,"Eat, Ed, Eating, Binge Eat",psychopathological,-3.2199149959342064,5,0
+26,"Eat, Ed, Eating, Binge Eat",menses,-3.2199149959342064,5,0
+26,"Eat, Ed, Eating, Binge Eat",attachment,-3.3403909330850805,18,1
+26,"Eat, Ed, Eating, Binge Eat",orientation,-3.3874505442561675,6,0
+26,"Eat, Ed, Eating, Binge Eat",covid,-3.3874505442561675,6,0
+26,"Eat, Ed, Eating, Binge Eat",hormone,-3.3874505442561675,6,0
+26,"Eat, Ed, Eating, Binge Eat",disorganize,-3.531033083474556,7,0
+26,"Eat, Ed, Eating, Binge Eat",lockdown,-3.531033083474556,7,0
+26,"Eat, Ed, Eating, Binge Eat",cell,-3.656678154148733,8,0
+26,"Eat, Ed, Eating, Binge Eat",rom,-3.960406204277133,11,0
+26,"Eat, Ed, Eating, Binge Eat",therapist,-3.960406204277133,11,0
+26,"Eat, Ed, Eating, Binge Eat",sgms,-4.044270671748018,12,0
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",resilience,3.419326685754984,0,27
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",ace,3.2610426536805477,0,23
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",rumination,2.964597699678553,0,17
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",dream,2.7039910638538824,0,13
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",perceive,2.6267563500285798,0,12
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",cluster,2.543101143276605,0,11
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",insufficient,2.543101143276605,0,11
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",postpartum,2.543101143276605,0,11
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",infant,2.4518558420932433,0,10
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",satisfaction,2.4518558420932433,0,10
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",apathy,2.4518558420932433,0,10
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",severity,2.3514989353529865,0,9
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",fnd,2.3514989353529865,0,9
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",pregnant,2.3514989353529865,0,9
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",deprivation,2.3514989353529865,0,9
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",ipv,-3.163319582438171,6,0
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",wisd,-3.163319582438171,6,0
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",covid,-3.163319582438171,6,0
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",few,-3.163319582438171,6,0
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",sic,-3.3069167040046628,7,0
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",rho,-3.3069167040046628,7,0
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",aor,-3.3069167040046628,7,0
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",gun,-3.3069167040046628,7,0
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",pandemic,-3.4325763712985617,8,0
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",nurse,-3.4325763712985617,8,0
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",bruxism,-3.4325763712985617,8,0
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",type,-3.544298777407577,9,0
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",fantasy,-3.644879253867435,10,0
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",eat,-3.7363482971256756,11,0
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",partner,-3.897686219738847,13,0
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",reveal,3.254045976588209,0,13
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",safety,3.254045976588209,0,13
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",positive,3.0018548679472383,0,10
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",sensitive,3.0018548679472383,0,10
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",dystonia,3.0018548679472383,0,10
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",fnd,3.0018548679472383,0,10
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",procrastination,2.9014793533134133,0,9
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",integration,2.9014793533134133,0,9
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",parenting,2.9014793533134133,0,9
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",musician,2.7899617473981957,0,8
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",highlight,2.7899617473981957,0,8
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",cortical,2.7899617473981957,0,8
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",self-control,2.664506718861265,0,7
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",gm-wm-gm,2.664506718861265,0,7
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",tapetum,2.5211140748100007,0,6
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",md,-2.755770601281796,7,0
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",administration,-2.755770601281796,7,0
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",httlpr,-2.755770601281796,7,0
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",script,-2.8812392743328923,8,0
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",genotype,-2.8812392743328923,8,0
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",ed,-2.8812392743328923,8,0
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",cumulative,-2.8812392743328923,8,0
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",frontoamygdala,-2.8812392743328923,8,0
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",fmd,-2.992770532917379,9,0
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",refugee,-2.992770532917379,9,0
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",expression,-3.0931597083828875,10,0
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",bilateral,-3.184437296988551,11,0
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",care,-3.184437296988551,11,0
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",maternal,-3.345391848566684,13,0
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",violence,-4.023833408600411,26,0
+29,"Bd, Bipolar, Mood, Bipolar Bd",ct,4.05306142553619,0,38
+29,"Bd, Bipolar, Mood, Bipolar Bd",psi,3.1367734246998698,0,15
+29,"Bd, Bipolar, Mood, Bipolar Bd",migraine,2.837159516872801,0,11
+29,"Bd, Bipolar, Mood, Bipolar Bd",strategy,2.837159516872801,0,11
+29,"Bd, Bipolar, Mood, Bipolar Bd",polygenic,2.745907705061213,0,10
+29,"Bd, Bipolar, Mood, Bipolar Bd",ace,2.6455442912952343,0,9
+29,"Bd, Bipolar, Mood, Bipolar Bd",lurasidone,2.6455442912952343,0,9
+29,"Bd, Bipolar, Mood, Bipolar Bd",mitochondrial,2.6455442912952343,0,9
+29,"Bd, Bipolar, Mood, Bipolar Bd",stabilizer,2.6455442912952343,0,9
+29,"Bd, Bipolar, Mood, Bipolar Bd",cptsd,2.6455442912952343,0,9
+29,"Bd, Bipolar, Mood, Bipolar Bd",rc-bd,2.5340387793289993,0,8
+29,"Bd, Bipolar, Mood, Bipolar Bd",ea,2.5340387793289993,0,8
+29,"Bd, Bipolar, Mood, Bipolar Bd",predictor,2.5340387793289993,0,8
+29,"Bd, Bipolar, Mood, Bipolar Bd",ndp,2.5340387793289993,0,8
+29,"Bd, Bipolar, Mood, Bipolar Bd",combination,2.5340387793289993,0,8
+29,"Bd, Bipolar, Mood, Bipolar Bd",bp,-2.8686272678405373,6,0
+29,"Bd, Bipolar, Mood, Bipolar Bd",mirnas,-2.8686272678405373,6,0
+29,"Bd, Bipolar, Mood, Bipolar Bd",polymorphism,-2.8686272678405373,6,0
+29,"Bd, Bipolar, Mood, Bipolar Bd",pth,-2.8686272678405373,6,0
+29,"Bd, Bipolar, Mood, Bipolar Bd",gene,-2.8686272678405373,6,0
+29,"Bd, Bipolar, Mood, Bipolar Bd",survey,-2.8686272678405373,6,0
+29,"Bd, Bipolar, Mood, Bipolar Bd",gmv,-3.0121064694123234,7,0
+29,"Bd, Bipolar, Mood, Bipolar Bd",inflammatory,-3.1376481135063514,8,0
+29,"Bd, Bipolar, Mood, Bipolar Bd",infliximab,-3.1376481135063514,8,0
+29,"Bd, Bipolar, Mood, Bipolar Bd",calcium,-3.1376481135063514,8,0
+29,"Bd, Bipolar, Mood, Bipolar Bd",u,-3.2492523930739585,9,0
+29,"Bd, Bipolar, Mood, Bipolar Bd",current,-3.2492523930739585,9,0
+29,"Bd, Bipolar, Mood, Bipolar Bd",te,-3.2492523930739585,9,0
+29,"Bd, Bipolar, Mood, Bipolar Bd",theta,-3.349714639514258,10,0
+29,"Bd, Bipolar, Mood, Bipolar Bd",offspring,-3.741075500890312,15,0
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",men,2.8769644213496868,0,20
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",borderline,2.718168224625761,0,17
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",network,2.718168224625761,0,17
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",ace,2.6591370668329457,0,16
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",personality,2.5295441288296923,0,14
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",depress,2.4578946160664827,0,13
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",inhibition,2.297170977321108,0,11
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",mood,2.297170977321108,0,11
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",self-perceived,2.206008759198599,0,10
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",birth,2.206008759198599,0,10
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",deaf,2.206008759198599,0,10
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",suppression,2.1435955228139756,1,29
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",path,2.1057348969852905,0,9
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",emerge,2.1057348969852905,0,9
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",developmental,2.1057348969852905,0,9
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",extinction,-3.240515944872045,5,0
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",past,-3.240515944872045,5,0
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",non-affective,-3.240515944872045,5,0
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",consumption,-3.408011530646135,6,0
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",hrv,-3.408011530646135,6,0
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",cathinone,-3.5515540704070636,7,0
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",client,-3.5515540704070636,7,0
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",psychosis,-3.5515540704070636,7,0
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",self-esteem,-3.6771591046630023,8,0
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",synthetic,-3.6771591046630023,8,0
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",paranoia,-3.6771591046630023,8,0
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",pnes,-3.7888268264294096,9,0
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",representation,-3.88935256716963,10,0
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",cd,-4.064591105954409,12,0
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",premenstrual,-4.141995016894056,13,0
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",profile,2.4544353938428785,0,15
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",memory,2.3158468912625985,0,13
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",cyber,2.238666840051132,0,12
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",traum,2.1550662689916527,0,11
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",ace,2.1550662689916527,0,11
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",substance,2.1550662689916527,0,11
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",approach,2.1550662689916527,0,11
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",posttraumatic,2.1550662689916527,0,11
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",medium,2.1550662689916527,0,11
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",metacognitive,2.063875576599412,0,10
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",functional,2.063875576599412,0,10
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",metacognition,2.063875576599412,0,10
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",connectivity,2.063875576599412,0,10
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",structural,2.063875576599412,0,10
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",rorschach,2.063875576599412,0,10
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",disaster,-3.3836509137908104,5,0
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",user,-3.551290478564378,6,0
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",ssd,-3.551290478564378,6,0
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",lifetime,-3.551290478564378,6,0
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",disaster-related,-3.551290478564378,6,0
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",expose,-3.551290478564378,6,0
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",dsh,-3.694977145303235,7,0
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",shopping,-3.694977145303235,7,0
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",incest,-3.694977145303235,7,0
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",eat,-3.694977145303235,7,0
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",psychogenic,-3.8207264547453024,8,0
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",penn,-3.8207264547453024,8,0
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",mass,-3.8207264547453024,8,0
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",illness,-3.9325386001362688,9,0
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",delusional,-4.0332089131701885,10,0
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",highlight,2.775253396106372,0,11
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",survivor,2.583563540886698,0,9
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",deaf,2.583563540886698,0,9
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",depressive,2.583563540886698,0,9
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",uk,2.583563540886698,0,9
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",anonymity,2.583563540886698,0,9
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",ptss,2.583563540886698,0,9
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",firearm,2.4720207475118423,0,8
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",cultural,2.3465405468506777,0,7
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",firearm-involved,2.3465405468506777,0,7
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",item,2.3465405468506777,0,7
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",disease,2.3465405468506777,0,7
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",content,2.3465405468506777,0,7
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",firearm-related,2.2031227459965743,0,6
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",emerge,2.2031227459965743,0,6
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",drawing,-2.931409715101341,6,0
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",subjection,-2.931409715101341,6,0
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",food,-2.931409715101341,6,0
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",delinquency,-2.931409715101341,6,0
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",fsws,-3.0749669713469254,7,0
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",haitian,-3.0749669713469254,7,0
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",security,-3.0749669713469254,7,0
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",curriculum,-3.200586735313431,8,0
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",unaccompanied,-3.200586735313431,8,0
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",etv,-3.200586735313431,8,0
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",reception,-3.3122692000341587,9,0
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",learning,-3.3122692000341587,9,0
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",sexualize,-3.3122692000341587,9,0
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",gang,-3.5042387225748426,11,0
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",ard,-3.5880777880635,12,0
+35,"Disability, Intellectual, Intellectual Disability, Id",crime,2.981776986060689,0,14
+35,"Disability, Intellectual, Intellectual Disability, Id",mate,2.832659509248927,0,12
+35,"Disability, Intellectual, Intellectual Disability, Id",cameroon,2.5571773672847415,0,9
+35,"Disability, Intellectual, Intellectual Disability, Id",obesity,2.4456035427559577,0,8
+35,"Disability, Intellectual, Intellectual Disability, Id",visit,2.4456035427559577,0,8
+35,"Disability, Intellectual, Intellectual Disability, Id",person,2.4456035427559577,0,8
+35,"Disability, Intellectual, Intellectual Disability, Id",adjustment,2.320092331577066,0,7
+35,"Disability, Intellectual, Intellectual Disability, Id",everyday,2.320092331577066,0,7
+35,"Disability, Intellectual, Intellectual Disability, Id",teacher,2.320092331577066,0,7
+35,"Disability, Intellectual, Intellectual Disability, Id",cultural,2.320092331577066,0,7
+35,"Disability, Intellectual, Intellectual Disability, Id",imrs,2.320092331577066,0,7
+35,"Disability, Intellectual, Intellectual Disability, Id",tip,2.320092331577066,0,7
+35,"Disability, Intellectual, Intellectual Disability, Id",perpetrator,2.320092331577066,0,7
+35,"Disability, Intellectual, Intellectual Disability, Id",scoping,2.320092331577066,0,7
+35,"Disability, Intellectual, Intellectual Disability, Id",aim,2.1766435408208435,0,6
+35,"Disability, Intellectual, Intellectual Disability, Id",botswana,-2.790854288375007,5,0
+35,"Disability, Intellectual, Intellectual Disability, Id",idea,-2.790854288375007,5,0
+35,"Disability, Intellectual, Intellectual Disability, Id",ci,-2.790854288375007,5,0
+35,"Disability, Intellectual, Intellectual Disability, Id",trauma-responsive,-2.790854288375007,5,0
+35,"Disability, Intellectual, Intellectual Disability, Id",gate,-2.790854288375007,5,0
+35,"Disability, Intellectual, Intellectual Disability, Id",intensive,-2.9584227763416964,6,0
+35,"Disability, Intellectual, Intellectual Disability, Id",dsarss,-2.9584227763416964,6,0
+35,"Disability, Intellectual, Intellectual Disability, Id",section,-2.9584227763416964,6,0
+35,"Disability, Intellectual, Intellectual Disability, Id",disable,-3.102038288032846,7,0
+35,"Disability, Intellectual, Intellectual Disability, Id",mother,-3.102038288032846,7,0
+35,"Disability, Intellectual, Intellectual Disability, Id",cp,-3.227716364056932,8,0
+35,"Disability, Intellectual, Intellectual Disability, Id",dpos,-3.227716364056932,8,0
+35,"Disability, Intellectual, Intellectual Disability, Id",disabled,-3.339457197529917,9,0
+35,"Disability, Intellectual, Intellectual Disability, Id",adulthood,-3.339457197529917,9,0
+35,"Disability, Intellectual, Intellectual Disability, Id",menstrual,-3.5315436279906036,11,0
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",attribution,2.8724683782307086,0,14
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",online,2.8007361155313664,0,13
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",campaign,2.6398470919963444,0,11
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",childcare,2.6398470919963444,0,11
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",self-efficacy,2.548602238966419,0,10
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",attach,2.448245780134741,0,9
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",parentification,2.448245780134741,0,9
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",tm,2.448245780134741,0,9
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",agreement,2.448245780134741,0,9
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",interview,2.448245780134741,0,9
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",efficacy,2.33674721925863,0,8
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",subsidy,2.33674721925863,0,8
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",collective,2.33674721925863,0,8
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",effective,2.33674721925863,0,8
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",resilience,2.33674721925863,0,8
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",activity,-2.8987862923904943,5,0
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",parent-headed,-3.066289815263474,6,0
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",d-w,-3.066289815263474,6,0
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",non-criterion,-3.066289815263474,6,0
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",manipulation,-3.066289815263474,6,0
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",triad,-3.2098402991994925,7,0
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",dark,-3.2098402991994925,7,0
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",programme,-3.2098402991994925,7,0
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",pediatrician,-3.2098402991994925,7,0
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",grandparent,-3.2098402991994925,7,0
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",social-emotional,-3.2098402991994925,7,0
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",clcs,-3.2098402991994925,7,0
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",judicial,-3.3354532847161895,8,0
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",ace,-3.3354532847161895,8,0
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",aboriginal,-3.5476626710392996,10,0
+38,"Sport, Athlete, Coach, Harassment",positive,3.0464698228932026,0,21
+38,"Sport, Athlete, Coach, Harassment",interaction,2.998589121047627,0,20
+38,"Sport, Athlete, Coach, Harassment",eat,2.895429852694697,0,18
+38,"Sport, Athlete, Coach, Harassment",safety,2.8396075400389247,0,17
+38,"Sport, Athlete, Coach, Harassment",safeguard,2.8396075400389247,0,17
+38,"Sport, Athlete, Coach, Harassment",anxiety,2.780514642235752,0,16
+38,"Sport, Athlete, Coach, Harassment",depression,2.7177419511627425,0,15
+38,"Sport, Athlete, Coach, Harassment",sextortion,2.650798306228828,0,14
+38,"Sport, Athlete, Coach, Harassment",disorder,2.4182402624833923,0,11
+38,"Sport, Athlete, Coach, Harassment",safe,2.4182402624833923,0,11
+38,"Sport, Athlete, Coach, Harassment",class,2.22668105695608,0,9
+38,"Sport, Athlete, Coach, Harassment",toxic,2.22668105695608,0,9
+38,"Sport, Athlete, Coach, Harassment",football,2.22668105695608,0,9
+38,"Sport, Athlete, Coach, Harassment",ethic,2.22668105695608,0,9
+38,"Sport, Athlete, Coach, Harassment",self-harm,2.22668105695608,0,9
+38,"Sport, Athlete, Coach, Harassment",society,-3.1205032335096234,5,0
+38,"Sport, Athlete, Coach, Harassment",reserve,-3.1205032335096234,5,0
+38,"Sport, Athlete, Coach, Harassment",expert,-3.1205032335096234,5,0
+38,"Sport, Athlete, Coach, Harassment",men,-3.1205032335096234,5,0
+38,"Sport, Athlete, Coach, Harassment",fig,-3.1205032335096234,5,0
+38,"Sport, Athlete, Coach, Harassment",core,-3.2880751845748346,6,0
+38,"Sport, Athlete, Coach, Harassment",zealand,-3.2880751845748346,6,0
+38,"Sport, Athlete, Coach, Harassment",violation,-3.2880751845748346,6,0
+38,"Sport, Athlete, Coach, Harassment",administrator,-3.2880751845748346,6,0
+38,"Sport, Athlete, Coach, Harassment",ltd,-3.2880751845748346,6,0
+38,"Sport, Athlete, Coach, Harassment",self-evaluations,-3.2880751845748346,6,0
+38,"Sport, Athlete, Coach, Harassment",expression,-3.2880751845748346,6,0
+38,"Sport, Athlete, Coach, Harassment",outside,-3.431694162942126,7,0
+38,"Sport, Athlete, Coach, Harassment",position,-3.7697224164748,10,0
+38,"Sport, Athlete, Coach, Harassment",statement,-3.7697224164748,10,0
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",left-behind,3.433513931602522,0,16
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",perceive,3.3035096500513097,0,14
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",appraisal,2.9791530395671915,0,10
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",cumulative,2.9791530395671915,0,10
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",suicidality,2.9791530395671915,0,10
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",set,2.8786741677982555,0,9
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",setting,2.8786741677982555,0,9
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",boy,2.8786741677982555,0,9
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",autism,2.8786741677982555,0,9
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",proximal,2.8786741677982555,0,9
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",chinese,2.767053275765889,0,8
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",discrimination,2.767053275765889,0,8
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",distal,2.767053275765889,0,8
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",ea,2.767053275765889,0,8
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",motivation,2.767053275765889,0,8
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",chronic,-2.7803265461534874,7,0
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",headache,-2.7803265461534874,7,0
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",bdi,-2.905913238457324,8,0
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",feature,-2.905913238457324,8,0
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",syndrome,-2.905913238457324,8,0
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",receptor,-2.905913238457324,8,0
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",temperament,-3.0175626023874473,9,0
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",self-efficacy,-3.0175626023874473,9,0
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",cat,-3.0175626023874473,9,0
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",overlap,-3.0175626023874473,9,0
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",client,-3.0175626023874473,9,0
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",mr,-3.0175626023874473,9,0
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",attachment,-3.118069969386556,10,0
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",fgid,-3.4425407946903137,14,0
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",tinnitus,-3.740932461974225,19,0
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",connectedness,3.0096351787229816,0,16
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",adulthood,2.8080163163124245,0,13
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",psb,2.8080163163124245,0,13
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",dysregulation,2.730739419203993,0,12
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",ptsd,2.730739419203993,0,12
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",network,2.647042054026133,0,11
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",mcers,2.555754619252128,0,10
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",rv,2.555754619252128,0,10
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",mother,2.555754619252128,0,10
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",parentification,2.555754619252128,0,10
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",temperamental,2.555754619252128,0,10
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",grandparental,2.555754619252128,0,10
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",attrition,2.455355603734496,0,9
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",cognition,2.455355603734496,0,9
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",nacc,2.3438145112084063,0,8
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",detour,-2.89239018206385,5,0
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",sbsk,-2.89239018206385,5,0
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",self-representations,-2.89239018206385,5,0
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",duration,-3.059960262610498,6,0
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",ela,-3.059960262610498,6,0
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",cve,-3.2035773685238667,7,0
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",adaptive,-3.2035773685238667,7,0
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",sr,-3.2035773685238667,7,0
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",poverty,-3.2035773685238667,7,0
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",hospitalization,-3.3292570404149764,8,0
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",academic,-3.4409994714023364,9,0
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",performance,-3.4409994714023364,9,0
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",sbp,-3.4409994714023364,9,0
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",ext,-3.6330891018440363,11,0
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",dp,-3.716988309138328,12,0
+42,College students & campus prevention,nursing,2.7712912003242547,0,18
+42,College students & campus prevention,persistence,2.6564323683676063,0,16
+42,College students & campus prevention,verbal,2.593687846399904,0,15
+42,College students & campus prevention,adjustment,2.593687846399904,0,15
+42,College students & campus prevention,mistreatment,2.5267723571535434,0,14
+42,College students & campus prevention,solution-focused,2.3779042731658935,0,12
+42,College students & campus prevention,impairment,2.3779042731658935,0,12
+42,College students & campus prevention,betrayal,2.3779042731658935,0,12
+42,College students & campus prevention,find,2.3779042731658935,0,12
+42,College students & campus prevention,test,2.3779042731658935,0,12
+42,College students & campus prevention,enhance,2.294298700060173,0,11
+42,College students & campus prevention,men,2.294298700060173,0,11
+42,College students & campus prevention,incontinence,2.2031030078364937,0,10
+42,College students & campus prevention,descriptive,2.2031030078364937,0,10
+42,College students & campus prevention,urinary,2.2031030078364937,0,10
+42,College students & campus prevention,chicago,-3.0429599374055316,4,0
+42,College students & campus prevention,improvement,-3.0429599374055316,4,0
+42,College students & campus prevention,dilemma,-3.0429599374055316,4,0
+42,College students & campus prevention,york,-3.0429599374055316,4,0
+42,College students & campus prevention,quit,-3.244151195086622,5,0
+42,College students & campus prevention,psu,-3.244151195086622,5,0
+42,College students & campus prevention,gene,-3.244151195086622,5,0
+42,College students & campus prevention,notice,-3.244151195086622,5,0
+42,College students & campus prevention,meditation,-3.244151195086622,5,0
+42,College students & campus prevention,cpt,-3.411726113094895,6,0
+42,College students & campus prevention,maoa,-3.555348061489414,7,0
+42,College students & campus prevention,normative,-3.555348061489414,7,0
+42,College students & campus prevention,neuroticism,-3.681032580889016,8,0
+42,College students & campus prevention,title,-3.8933852436569305,10,0
+42,College students & campus prevention,ix,-3.8933852436569305,10,0
+44,"Elder, Mistreatment, Elderly, Financial",police,3.3937969452478045,0,15
+44,"Elder, Mistreatment, Elderly, Financial",em,3.093729463156542,0,11
+44,"Elder, Mistreatment, Elderly, Financial",age,3.0023644486107113,0,10
+44,"Elder, Mistreatment, Elderly, Financial",economic,2.9018879082876605,0,9
+44,"Elder, Mistreatment, Elderly, Financial",china,2.9018879082876605,0,9
+44,"Elder, Mistreatment, Elderly, Financial",court,2.9018879082876605,0,9
+44,"Elder, Mistreatment, Elderly, Financial",beta,2.7902693458639334,0,8
+44,"Elder, Mistreatment, Elderly, Financial",stressor,2.7902693458639334,0,8
+44,"Elder, Mistreatment, Elderly, Financial",problem-solving,2.6647134299276587,0,7
+44,"Elder, Mistreatment, Elderly, Financial",prevalent,2.6647134299276587,0,7
+44,"Elder, Mistreatment, Elderly, Financial",cop,2.6647134299276587,0,7
+44,"Elder, Mistreatment, Elderly, Financial",enforcement,2.6647134299276587,0,7
+44,"Elder, Mistreatment, Elderly, Financial",familism,2.6647134299276587,0,7
+44,"Elder, Mistreatment, Elderly, Financial",thailand,2.6647134299276587,0,7
+44,"Elder, Mistreatment, Elderly, Financial",ed,2.5212199675147646,0,6
+44,"Elder, Mistreatment, Elderly, Financial",home,-2.4501684790722704,16,1
+44,"Elder, Mistreatment, Elderly, Financial",communication,-2.613494789489075,6,0
+44,"Elder, Mistreatment, Elderly, Financial",neuroticism,-2.613494789489075,6,0
+44,"Elder, Mistreatment, Elderly, Financial",refer,-2.613494789489075,6,0
+44,"Elder, Mistreatment, Elderly, Financial",style,-2.613494789489075,6,0
+44,"Elder, Mistreatment, Elderly, Financial",practitioner,-2.613494789489075,6,0
+44,"Elder, Mistreatment, Elderly, Financial",student,-2.7570068173460687,7,0
+44,"Elder, Mistreatment, Elderly, Financial",india,-2.7570068173460687,7,0
+44,"Elder, Mistreatment, Elderly, Financial",conscientiousness,-2.7570068173460687,7,0
+44,"Elder, Mistreatment, Elderly, Financial",doctor,-2.882581313658405,8,0
+44,"Elder, Mistreatment, Elderly, Financial",attachment,-2.882581313658405,8,0
+44,"Elder, Mistreatment, Elderly, Financial",intention,-2.882581313658405,8,0
+44,"Elder, Mistreatment, Elderly, Financial",ea,-2.994218471408182,9,0
+44,"Elder, Mistreatment, Elderly, Financial",recognize,-2.994218471408182,9,0
+44,"Elder, Mistreatment, Elderly, Financial",nursing,-3.347264144406757,13,0
+45,Adverse childhood experiences (ACE),pattern,3.308564388717424,0,22
+45,Adverse childhood experiences (ACE),theory,3.2149548222263853,0,20
+45,Adverse childhood experiences (ACE),disadvantage,3.2149548222263853,0,20
+45,Adverse childhood experiences (ACE),ouml,3.164684930970455,0,19
+45,Adverse childhood experiences (ACE),narrative,3.1117817941113346,0,18
+45,Adverse childhood experiences (ACE),aring,3.1117817941113346,0,18
+45,Adverse childhood experiences (ACE),homelessness,2.996852837969289,0,16
+45,Adverse childhood experiences (ACE),removal,2.934073279327614,0,15
+45,Adverse childhood experiences (ACE),auml,2.934073279327614,0,15
+45,Adverse childhood experiences (ACE),asian,2.8671227703366906,0,14
+45,Adverse childhood experiences (ACE),cardiovascular,2.7954047389955843,0,13
+45,Adverse childhood experiences (ACE),adoption,2.718184697599008,0,12
+45,Adverse childhood experiences (ACE),cps,2.5433135110899094,0,10
+45,Adverse childhood experiences (ACE),exit,2.5433135110899094,0,10
+45,Adverse childhood experiences (ACE),eviction,2.44297125335964,0,9
+45,Adverse childhood experiences (ACE),safety-to-others,-3.214839405784298,7,0
+45,Adverse childhood experiences (ACE),self-representations,-3.214839405784298,7,0
+45,Adverse childhood experiences (ACE),household,-3.214839405784298,7,0
+45,Adverse childhood experiences (ACE),triple,-3.340431181406675,8,0
+45,Adverse childhood experiences (ACE),hya,-3.340431181406675,8,0
+45,Adverse childhood experiences (ACE),srp,-3.4520856329900234,9,0
+45,Adverse childhood experiences (ACE),volunteer,-3.4520856329900234,9,0
+45,Adverse childhood experiences (ACE),alcohol,-3.4520856329900234,9,0
+45,Adverse childhood experiences (ACE),cost,-3.5525980919825857,10,0
+45,Adverse childhood experiences (ACE),hostility,-3.6439990547442562,11,0
+45,Adverse childhood experiences (ACE),perception,-3.6439990547442562,11,0
+45,Adverse childhood experiences (ACE),affective,-3.877089328773729,14,0
+45,Adverse childhood experiences (ACE),aggressive,-4.0071610904077986,16,0
+45,Adverse childhood experiences (ACE),aggression,-4.066431883036339,17,0
+45,Adverse childhood experiences (ACE),touch,-4.066431883036339,17,0
+46,"Perceive Social, Role Social, Support Depressive, Buffer",network,2.903723201166068,0,21
+46,"Perceive Social, Role Social, Support Depressive, Buffer",growth,2.6968755028224205,0,17
+46,"Perceive Social, Role Social, Support Depressive, Buffer",bruxism,2.6968755028224205,0,17
+46,"Perceive Social, Role Social, Support Depressive, Buffer",avoidance,2.6377862465792985,0,16
+46,"Perceive Social, Role Social, Support Depressive, Buffer",intervention,2.436369653519164,0,13
+46,"Perceive Social, Role Social, Support Depressive, Buffer",dysregulation,2.3591601034354346,0,12
+46,"Perceive Social, Role Social, Support Depressive, Buffer",md,2.275530047290136,0,11
+46,"Perceive Social, Role Social, Support Depressive, Buffer",form,2.1843098835888455,0,10
+46,"Perceive Social, Role Social, Support Depressive, Buffer",regression,2.1843098835888455,0,10
+46,"Perceive Social, Role Social, Support Depressive, Buffer",core,2.1843098835888455,0,10
+46,"Perceive Social, Role Social, Support Depressive, Buffer",cm,2.1843098835888455,0,10
+46,"Perceive Social, Role Social, Support Depressive, Buffer",self-evaluations,2.1843098835888455,0,10
+46,"Perceive Social, Role Social, Support Depressive, Buffer",generativity,2.083978101216333,0,9
+46,"Perceive Social, Role Social, Support Depressive, Buffer",complex,2.083978101216333,0,9
+46,"Perceive Social, Role Social, Support Depressive, Buffer",trajectory,2.083978101216333,0,9
+46,"Perceive Social, Role Social, Support Depressive, Buffer",exp,-3.0622684670351186,4,0
+46,"Perceive Social, Role Social, Support Depressive, Buffer",shoot,-3.2635277440328014,5,0
+46,"Perceive Social, Role Social, Support Depressive, Buffer",appraisal,-3.2635277440328014,5,0
+46,"Perceive Social, Role Social, Support Depressive, Buffer",romantic,-3.2635277440328014,5,0
+46,"Perceive Social, Role Social, Support Depressive, Buffer",amygdala,-3.2635277440328014,5,0
+46,"Perceive Social, Role Social, Support Depressive, Buffer",hippocampal,-3.4311707568637555,6,0
+46,"Perceive Social, Role Social, Support Depressive, Buffer",post-shooting,-3.4311707568637555,6,0
+46,"Perceive Social, Role Social, Support Depressive, Buffer",volume,-3.4311707568637555,6,0
+46,"Perceive Social, Role Social, Support Depressive, Buffer",polyvictimization,-3.5748608757129947,7,0
+46,"Perceive Social, Role Social, Support Depressive, Buffer",morbidity,-3.5748608757129947,7,0
+46,"Perceive Social, Role Social, Support Depressive, Buffer",moral,-3.7006136413255923,8,0
+46,"Perceive Social, Role Social, Support Depressive, Buffer",decision,-3.8124292469544043,9,0
+46,"Perceive Social, Role Social, Support Depressive, Buffer",partner,-3.913103024300667,10,0
+46,"Perceive Social, Role Social, Support Depressive, Buffer",abortion,-4.088638095482508,12,0
+46,"Perceive Social, Role Social, Support Depressive, Buffer",oxytocin,-4.1661905026914585,13,0
+51,"Disclosure, Disclose, Csa, Tell",peer,3.266399786476006,0,19
+51,"Disclosure, Disclose, Csa, Tell",institutional,2.7354675378434745,0,11
+51,"Disclosure, Disclose, Csa, Tell",victim-survivors,2.64413823371331,0,10
+51,"Disclosure, Disclose, Csa, Tell",online,2.584822280751376,1,29
+51,"Disclosure, Disclose, Csa, Tell",solicitation,2.543697377010994,0,9
+51,"Disclosure, Disclose, Csa, Tell",masculinity,2.543697377010994,0,9
+51,"Disclosure, Disclose, Csa, Tell",victimisation,2.432114471443236,0,8
+51,"Disclosure, Disclose, Csa, Tell",self-disclosure,2.432114471443236,0,8
+51,"Disclosure, Disclose, Csa, Tell",partner,2.306594185628291,0,7
+51,"Disclosure, Disclose, Csa, Tell",non-disclosure,2.306594185628291,0,7
+51,"Disclosure, Disclose, Csa, Tell",almost,2.306594185628291,0,7
+51,"Disclosure, Disclose, Csa, Tell",witness,2.306594185628291,0,7
+51,"Disclosure, Disclose, Csa, Tell",challenge,2.306594185628291,0,7
+51,"Disclosure, Disclose, Csa, Tell",proxy,2.306594185628291,0,7
+51,"Disclosure, Disclose, Csa, Tell",care,2.1631363266321655,0,6
+51,"Disclosure, Disclose, Csa, Tell",decision,-2.8045186649938003,5,0
+51,"Disclosure, Disclose, Csa, Tell",predictor,-2.8045186649938003,5,0
+51,"Disclosure, Disclose, Csa, Tell",allege,-2.8045186649938003,5,0
+51,"Disclosure, Disclose, Csa, Tell",jersey,-2.8045186649938003,5,0
+51,"Disclosure, Disclose, Csa, Tell",lyon,-2.8045186649938003,5,0
+51,"Disclosure, Disclose, Csa, Tell",counselor,-2.972107795148596,6,0
+51,"Disclosure, Disclose, Csa, Tell",conjunctivitis,-2.972107795148596,6,0
+51,"Disclosure, Disclose, Csa, Tell",indicator,-2.972107795148596,6,0
+51,"Disclosure, Disclose, Csa, Tell",infection,-3.115743970707836,7,0
+51,"Disclosure, Disclose, Csa, Tell",bias,-3.115743970707836,7,0
+51,"Disclosure, Disclose, Csa, Tell",cpa,-3.115743970707836,7,0
+51,"Disclosure, Disclose, Csa, Tell",sa,-3.115743970707836,7,0
+51,"Disclosure, Disclose, Csa, Tell",juror,-3.2414427323141757,8,0
+51,"Disclosure, Disclose, Csa, Tell",trachomatis,-3.353204273117826,9,0
+51,"Disclosure, Disclose, Csa, Tell",crisis,-3.6292505612270842,12,0
+53,"Adverse Event, Growth, Mortality, Trajectory",negative,3.2732596054067535,0,19
+53,"Adverse Event, Growth, Mortality, Trajectory",dementia,3.042088675696162,0,15
+53,"Adverse Event, Growth, Mortality, Trajectory",quality,2.9749985771092726,0,14
+53,"Adverse Event, Growth, Mortality, Trajectory",ibs,2.9031410479564475,0,13
+53,"Adverse Event, Growth, Mortality, Trajectory",music,2.9031410479564475,0,13
+53,"Adverse Event, Growth, Mortality, Trajectory",flexibility,2.825781600440547,0,12
+53,"Adverse Event, Growth, Mortality, Trajectory",survival,2.7420017437861572,0,11
+53,"Adverse Event, Growth, Mortality, Trajectory",ptg,2.7420017437861572,0,11
+53,"Adverse Event, Growth, Mortality, Trajectory",sm,2.6506318764031986,0,10
+53,"Adverse Event, Growth, Mortality, Trajectory",prosocial,2.6506318764031986,0,10
+53,"Adverse Event, Growth, Mortality, Trajectory",interpersonal,2.6506318764031986,0,10
+53,"Adverse Event, Growth, Mortality, Trajectory",welfare,2.5501504870809173,0,9
+53,"Adverse Event, Growth, Mortality, Trajectory",neet,2.5501504870809173,0,9
+53,"Adverse Event, Growth, Mortality, Trajectory",leave,2.5501504870809173,0,9
+53,"Adverse Event, Growth, Mortality, Trajectory",stature,2.5501504870809173,0,9
+53,"Adverse Event, Growth, Mortality, Trajectory",muscle,-2.9663592698636787,6,0
+53,"Adverse Event, Growth, Mortality, Trajectory",infant,-2.9663592698636787,6,0
+53,"Adverse Event, Growth, Mortality, Trajectory",bmi,-2.9663592698636787,6,0
+53,"Adverse Event, Growth, Mortality, Trajectory",familial,-2.9663592698636787,6,0
+53,"Adverse Event, Growth, Mortality, Trajectory",war,-3.11005253058329,7,0
+53,"Adverse Event, Growth, Mortality, Trajectory",practice,-3.11005253058329,7,0
+53,"Adverse Event, Growth, Mortality, Trajectory",grip,-3.235808441782276,8,0
+53,"Adverse Event, Growth, Mortality, Trajectory",yoga,-3.34762719672009,9,0
+53,"Adverse Event, Growth, Mortality, Trajectory",recovery,-3.4483041271045805,10,0
+53,"Adverse Event, Growth, Mortality, Trajectory",predict,-3.539869729555785,11,0
+53,"Adverse Event, Growth, Mortality, Trajectory",discrimination,-3.539869729555785,11,0
+53,"Adverse Event, Growth, Mortality, Trajectory",onset,-3.6238455155770826,12,0
+53,"Adverse Event, Growth, Mortality, Trajectory",strength,-3.6238455155770826,12,0
+53,"Adverse Event, Growth, Mortality, Trajectory",asthma,-3.701401087051769,13,0
+53,"Adverse Event, Growth, Mortality, Trajectory",line,-3.701401087051769,13,0
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",lifestyle,2.853962152692052,0,15
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",expectation,2.786966456827672,0,14
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",plb,2.5542524339479256,0,11
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",speech,2.5542524339479256,0,11
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",attention,2.4629767043720774,0,10
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",connectedness,2.4629767043720774,0,10
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",cluster,2.3625893868033376,0,9
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",perfectionism,2.3625893868033376,0,9
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",derailment,2.3625893868033376,0,9
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",aaes,2.3625893868033376,0,9
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",ml,2.251059984983609,0,8
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",hazard,2.251059984983609,0,8
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",ahr,2.251059984983609,0,8
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",ketamine,2.251059984983609,0,8
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",belief,2.251059984983609,0,8
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",hypomentalizing,-2.7839816255281553,4,0
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",girl,-2.9851972801318585,5,0
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",break-up,-2.9851972801318585,5,0
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",trauma-related,-2.9851972801318585,5,0
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",srp,-2.9851972801318585,5,0
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",disorder-specific,-2.9851972801318585,5,0
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",sensitization,-2.9851972801318585,5,0
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",posttraumatic,-3.1527966210789806,6,0
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",pdd,-3.296443018470228,7,0
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",mentalizing,-3.296443018470228,7,0
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",mbct,-3.296443018470228,7,0
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",cbt,-3.296443018470228,7,0
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",appraisal,-3.634553704392986,10,0
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",sp,-4.0898238023465705,16,0
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",cbasp,-4.530089657200025,25,0
+58,"Inflammation, Il, Inflammatory, Cytokine",mtbi,3.291628548378542,0,13
+58,"Inflammation, Il, Inflammatory, Cytokine",potential,3.2143176122073536,0,12
+58,"Inflammation, Il, Inflammatory, Cytokine",pacap,3.1305862306169567,0,11
+58,"Inflammation, Il, Inflammatory, Cytokine",oxidative,3.1305862306169567,0,11
+58,"Inflammation, Il, Inflammatory, Cytokine",methamphetamine,3.0392648020580175,0,10
+58,"Inflammation, Il, Inflammatory, Cytokine",neuropsychiatric,3.0392648020580175,0,10
+58,"Inflammation, Il, Inflammatory, Cytokine",ambivalence,2.9388318153604622,0,9
+58,"Inflammation, Il, Inflammatory, Cytokine",pi,2.9388318153604622,0,9
+58,"Inflammation, Il, Inflammatory, Cytokine",epigenetic,2.9388318153604622,0,9
+58,"Inflammation, Il, Inflammatory, Cytokine",dog,2.9388318153604622,0,9
+58,"Inflammation, Il, Inflammatory, Cytokine",cluster,2.8272567742368997,0,8
+58,"Inflammation, Il, Inflammatory, Cytokine",ptsd,2.701744347311476,0,7
+58,"Inflammation, Il, Inflammatory, Cytokine",recent,2.701744347311476,0,7
+58,"Inflammation, Il, Inflammatory, Cytokine",lifetime,2.701744347311476,0,7
+58,"Inflammation, Il, Inflammatory, Cytokine",onset,2.701744347311476,0,7
+58,"Inflammation, Il, Inflammatory, Cytokine",people,-2.5758076077517416,6,0
+58,"Inflammation, Il, Inflammatory, Cytokine",cd,-2.5758076077517416,6,0
+58,"Inflammation, Il, Inflammatory, Cytokine",csa,-2.719260688099121,7,0
+58,"Inflammation, Il, Inflammatory, Cytokine",provide,-2.719260688099121,7,0
+58,"Inflammation, Il, Inflammatory, Cytokine",behavior,-2.719260688099121,7,0
+58,"Inflammation, Il, Inflammatory, Cytokine",predict,-2.8447761918742502,8,0
+58,"Inflammation, Il, Inflammatory, Cytokine",comorbid,-2.9563543120075106,9,0
+58,"Inflammation, Il, Inflammatory, Cytokine",trust,-2.9563543120075106,9,0
+58,"Inflammation, Il, Inflammatory, Cytokine",ssrd,-2.9563543120075106,9,0
+58,"Inflammation, Il, Inflammatory, Cytokine",metabolic,-2.9563543120075106,9,0
+58,"Inflammation, Il, Inflammatory, Cytokine",cardiometabolic,-3.0567903798770324,10,0
+58,"Inflammation, Il, Inflammatory, Cytokine",sli,-3.148114891772483,11,0
+58,"Inflammation, Il, Inflammatory, Cytokine",eca,-3.148114891772483,11,0
+58,"Inflammation, Il, Inflammatory, Cytokine",ng,-3.309163382709859,13,0
+58,"Inflammation, Il, Inflammatory, Cytokine",ml,-3.4480200606161233,15,0
+63,"Executive, Executive Function, Ef, Work Memory",attachment,3.078034438158716,0,12
+63,"Executive, Executive Function, Ef, Work Memory",burnout,3.078034438158716,0,12
+63,"Executive, Executive Function, Ef, Work Memory",work-related,2.9942710040909333,0,11
+63,"Executive, Executive Function, Ef, Work Memory",alpha,2.9029175464912598,0,10
+63,"Executive, Executive Function, Ef, Work Memory",maternal,2.802452554163911,0,9
+63,"Executive, Executive Function, Ef, Work Memory",pathway,2.690845530795822,0,8
+63,"Executive, Executive Function, Ef, Work Memory",power,2.690845530795822,0,8
+63,"Executive, Executive Function, Ef, Work Memory",capacity,2.690845530795822,0,8
+63,"Executive, Executive Function, Ef, Work Memory",cross-sectional,2.5653011449855017,0,7
+63,"Executive, Executive Function, Ef, Work Memory",alexithymia,2.5653011449855017,0,7
+63,"Executive, Executive Function, Ef, Work Memory",rumination,2.5653011449855017,0,7
+63,"Executive, Executive Function, Ef, Work Memory",model,2.5653011449855017,0,7
+63,"Executive, Executive Function, Ef, Work Memory",mediation,2.5653011449855017,0,7
+63,"Executive, Executive Function, Ef, Work Memory",linear,2.5653011449855017,0,7
+63,"Executive, Executive Function, Ef, Work Memory",serial,2.42181920377924,0,6
+63,"Executive, Executive Function, Ef, Work Memory",alcohol,-2.7130044795283794,6,0
+63,"Executive, Executive Function, Ef, Work Memory",right,-2.7130044795283794,6,0
+63,"Executive, Executive Function, Ef, Work Memory",cbf,-2.7130044795283794,6,0
+63,"Executive, Executive Function, Ef, Work Memory",thickness,-2.7130044795283794,6,0
+63,"Executive, Executive Function, Ef, Work Memory",men,-2.7130044795283794,6,0
+63,"Executive, Executive Function, Ef, Work Memory",symptomatology,-2.8565462402837793,7,0
+63,"Executive, Executive Function, Ef, Work Memory",resilient,-2.8565462402837793,7,0
+63,"Executive, Executive Function, Ef, Work Memory",jso,-2.8565462402837793,7,0
+63,"Executive, Executive Function, Ef, Work Memory",victim,-2.8565462402837793,7,0
+63,"Executive, Executive Function, Ef, Work Memory",perfusion,-2.8565462402837793,7,0
+63,"Executive, Executive Function, Ef, Work Memory",structure,-2.8565462402837793,7,0
+63,"Executive, Executive Function, Ef, Work Memory",activity,-2.9821504948461737,8,0
+63,"Executive, Executive Function, Ef, Work Memory",offend,-3.0938174362301085,9,0
+63,"Executive, Executive Function, Ef, Work Memory",expose,-3.1943423958980155,10,0
+63,"Executive, Executive Function, Ef, Work Memory",ip-elt,-3.5188837444226753,14,0
+66,"Aud, Drinking, Drink, Alcoholrelated",burden,2.9716309868616912,0,16
+66,"Aud, Drinking, Drink, Alcoholrelated",hct,2.7699398831477344,0,13
+66,"Aud, Drinking, Drink, Alcoholrelated",initiation,2.6089175389087496,0,11
+66,"Aud, Drinking, Drink, Alcoholrelated",disease,2.6089175389087496,0,11
+66,"Aud, Drinking, Drink, Alcoholrelated",r,2.6089175389087496,0,11
+66,"Aud, Drinking, Drink, Alcoholrelated",regression,2.5176060867867136,0,10
+66,"Aud, Drinking, Drink, Alcoholrelated",future,2.5176060867867136,0,10
+66,"Aud, Drinking, Drink, Alcoholrelated",eft,2.5176060867867136,0,10
+66,"Aud, Drinking, Drink, Alcoholrelated",problematic,2.5176060867867136,0,10
+66,"Aud, Drinking, Drink, Alcoholrelated",ne,2.417183069652615,0,9
+66,"Aud, Drinking, Drink, Alcoholrelated",demand,2.417183069652615,0,9
+66,"Aud, Drinking, Drink, Alcoholrelated",liver,2.417183069652615,0,9
+66,"Aud, Drinking, Drink, Alcoholrelated",alcohol-associated,2.417183069652615,0,9
+66,"Aud, Drinking, Drink, Alcoholrelated",immunoglobulin,2.305617991226164,0,8
+66,"Aud, Drinking, Drink, Alcoholrelated",comorbid,2.305617991226164,0,8
+66,"Aud, Drinking, Drink, Alcoholrelated",attachment,-2.9310822184590224,5,0
+66,"Aud, Drinking, Drink, Alcoholrelated",greenland,-2.9310822184590224,5,0
+66,"Aud, Drinking, Drink, Alcoholrelated",lifetime,-2.9310822184590224,5,0
+66,"Aud, Drinking, Drink, Alcoholrelated",cu,-3.0987133371832085,6,0
+66,"Aud, Drinking, Drink, Alcoholrelated",impaired,-3.0987133371832085,6,0
+66,"Aud, Drinking, Drink, Alcoholrelated",alcoholic,-3.0987133371832085,6,0
+66,"Aud, Drinking, Drink, Alcoholrelated",ptss,-3.242391548045463,7,0
+66,"Aud, Drinking, Drink, Alcoholrelated",depressive,-3.3681323917665473,8,0
+66,"Aud, Drinking, Drink, Alcoholrelated",motif,-3.3681323917665473,8,0
+66,"Aud, Drinking, Drink, Alcoholrelated",mindfulness,-3.3681323917665473,8,0
+66,"Aud, Drinking, Drink, Alcoholrelated",eeg,-3.4799360615749464,9,0
+66,"Aud, Drinking, Drink, Alcoholrelated",recognition,-3.4799360615749464,9,0
+66,"Aud, Drinking, Drink, Alcoholrelated",alpha,-3.580597889147474,10,0
+66,"Aud, Drinking, Drink, Alcoholrelated",asymmetry,-3.580597889147474,10,0
+66,"Aud, Drinking, Drink, Alcoholrelated",cm,-3.672148371073054,11,0
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",aggression,3.675876798620412,0,24
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",cm,3.39248220002605,0,18
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",somatic,3.3364975832078896,0,17
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",network,3.3364975832078896,0,17
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",overt,3.07532904323737,0,13
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",schizophrenia,3.07532904323737,0,13
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",insomnia,2.9979540948105647,0,12
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",si,2.9979540948105647,0,12
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",psychotic,2.9141587498292028,0,11
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",bias,2.9141587498292028,0,11
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",crave,2.8227734066878876,0,10
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",flexibility,2.72227655416057,0,9
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",bad,2.72227655416057,0,9
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",ca,2.6106376959039697,0,8
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",nu,2.6106376959039697,0,8
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",pce,-2.793926237141,6,0
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",adoptee,-2.793926237141,6,0
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",burnout,-2.793926237141,6,0
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",reappraisal,-2.793926237141,6,0
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",follow,-2.793926237141,6,0
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",defense,-2.937544947183718,7,0
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",capital,-2.937544947183718,7,0
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",past,-2.937544947183718,7,0
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",person,-3.0632262248643416,8,0
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",state,-3.1749702633039574,9,0
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",memory,-3.2755723940717374,10,0
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",fatigue,-3.450963933399036,12,0
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",hopelessness,-3.6004231695799236,14,0
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",ptsd,-3.667634564891147,15,0
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",alcohol,-3.667634564891147,15,0
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",parent,2.629220088736691,0,10
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",shelter,2.629220088736691,0,10
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",different,2.5287565465567363,0,9
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",old,2.5287565465567363,0,9
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",edv,2.417150972232215,0,8
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",temperature,2.2916080343628957,0,7
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",interest,2.2916080343628957,0,7
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",heat,2.2916080343628957,0,7
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",escape,2.2916080343628957,0,7
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",later,2.2916080343628957,0,7
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",segment,2.1481275399963256,0,6
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",collect,2.1481275399963256,0,6
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",region,2.1481275399963256,0,6
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",p-value,2.1481275399963256,0,6
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",event,2.1481275399963256,0,6
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",father,-2.762768417302129,15,1
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",ir,-2.8198754811028826,5,0
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",spv,-2.8198754811028826,5,0
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",arabia,-2.8198754811028826,5,0
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",welfare,-2.8198754811028826,5,0
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",synergy,-2.8198754811028826,5,0
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",metaphor,-2.8198754811028826,5,0
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",saudi,-2.987507266533126,6,0
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",outpatient,-2.987507266533126,6,0
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",synergistic,-2.987507266533126,6,0
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",airr,-3.1311861448719753,7,0
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",wdv,-3.1311861448719753,7,0
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",metoo,-3.1311861448719753,7,0
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",substantiate,-3.2569276568415253,8,0
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",ftp,-3.56094564553808,11,0
+80,College students & campus prevention,digital,3.2886767665679217,0,20
+80,College students & campus prevention,online,2.8680644574303393,0,13
+80,College students & campus prevention,marsha-sf,2.51502621754881,0,9
+80,College students & campus prevention,dda,2.51502621754881,0,9
+80,College students & campus prevention,ara,2.51502621754881,0,9
+80,College students & campus prevention,belief,2.4033909142640724,0,8
+80,College students & campus prevention,response,2.4033909142640724,0,8
+80,College students & campus prevention,animal,2.2778182708948433,0,7
+80,College students & campus prevention,small,2.2778182708948433,0,7
+80,College students & campus prevention,monitoring,2.2778182708948433,0,7
+80,College students & campus prevention,motif,2.2778182708948433,0,7
+80,College students & campus prevention,protective,2.2778182708948433,0,7
+80,College students & campus prevention,cat,2.2778182708948433,0,7
+80,College students & campus prevention,ada,2.2778182708948433,0,7
+80,College students & campus prevention,intention,2.1343080944608985,0,6
+80,College students & campus prevention,take,-2.8341416078983057,5,0
+80,College students & campus prevention,co-occurrence,-2.8341416078983057,5,0
+80,College students & campus prevention,punishment,-2.8341416078983057,5,0
+80,College students & campus prevention,china,-2.8341416078983057,5,0
+80,College students & campus prevention,psycho-emotional,-2.8341416078983057,5,0
+80,College students & campus prevention,chilean,-2.8341416078983057,5,0
+80,College students & campus prevention,respondent,-3.001827404521835,6,0
+80,College students & campus prevention,severity,-3.1455603594351365,7,0
+80,College students & campus prevention,spank,-3.2713560134791733,8,0
+80,College students & campus prevention,teenage,-3.2713560134791733,8,0
+80,College students & campus prevention,loss,-3.38321456000293,9,0
+80,College students & campus prevention,later,-3.4839313308040065,10,0
+80,College students & campus prevention,teenager,-3.5755368225924116,11,0
+80,College students & campus prevention,disengagement,-3.7371481058856295,13,0
+80,College students & campus prevention,moral,-3.7371481058856295,13,0
+87,Psychosis & psychotic-like experiences,woman,3.25366988136874,0,13
+87,Psychosis & psychotic-like experiences,prolactin,3.1761928443491305,0,12
+87,Psychosis & psychotic-like experiences,spd,2.900209606586632,0,9
+87,Psychosis & psychotic-like experiences,mind,2.900209606586632,0,9
+87,Psychosis & psychotic-like experiences,tom,2.788469038406327,0,8
+87,Psychosis & psychotic-like experiences,resilience,2.788469038406327,0,8
+87,Psychosis & psychotic-like experiences,sz,2.788469038406327,0,8
+87,Psychosis & psychotic-like experiences,filicide,2.788469038406327,0,8
+87,Psychosis & psychotic-like experiences,update,2.662791227401846,0,7
+87,Psychosis & psychotic-like experiences,mm,2.662791227401846,0,7
+87,Psychosis & psychotic-like experiences,theory,2.662791227401846,0,7
+87,Psychosis & psychotic-like experiences,causal,2.662791227401846,0,7
+87,Psychosis & psychotic-like experiences,volatility,2.519175980457648,0,6
+87,Psychosis & psychotic-like experiences,task,2.519175980457648,0,6
+87,Psychosis & psychotic-like experiences,fedn,2.519175980457648,0,6
+87,Psychosis & psychotic-like experiences,schizophrenic,-2.4494449445748394,5,0
+87,Psychosis & psychotic-like experiences,cbt,-2.4494449445748394,5,0
+87,Psychosis & psychotic-like experiences,insulin,-2.4494449445748394,5,0
+87,Psychosis & psychotic-like experiences,expert,-2.61703898605458,6,0
+87,Psychosis & psychotic-like experiences,qol,-2.76068007822271,7,0
+87,Psychosis & psychotic-like experiences,es-scz,-2.76068007822271,7,0
+87,Psychosis & psychotic-like experiences,adaptive,-2.76068007822271,7,0
+87,Psychosis & psychotic-like experiences,delusion,-2.76068007822271,7,0
+87,Psychosis & psychotic-like experiences,prs-scz,-2.76068007822271,7,0
+87,Psychosis & psychotic-like experiences,delusional,-2.8863837617304178,8,0
+87,Psychosis & psychotic-like experiences,twin,-2.9981502297364644,9,0
+87,Psychosis & psychotic-like experiences,mood,-3.0987748138477764,10,0
+87,Psychosis & psychotic-like experiences,salience,-3.423715641258985,14,0
+87,Psychosis & psychotic-like experiences,double,-3.423715641258985,14,0
+87,Psychosis & psychotic-like experiences,parricide,-3.6133965376170485,17,0
+97,"Cop Strategy, Cop Style, Style, Religious",street,2.9873493922709002,0,15
+97,"Cop Strategy, Cop Style, Style, Religious",trait,2.848425508982608,0,13
+97,"Cop Strategy, Cop Style, Style, Religious",moral,2.771077919716425,0,12
+97,"Cop Strategy, Cop Style, Style, Religious",parental,2.6873099120090416,0,11
+97,"Cop Strategy, Cop Style, Style, Religious",personality,2.6873099120090416,0,11
+97,"Cop Strategy, Cop Style, Style, Religious",injury,2.6873099120090416,0,11
+97,"Cop Strategy, Cop Style, Style, Religious",shame,2.6873099120090416,0,11
+97,"Cop Strategy, Cop Style, Style, Religious",medication,2.595951884281325,0,10
+97,"Cop Strategy, Cop Style, Style, Religious",prophylactic,2.595951884281325,0,10
+97,"Cop Strategy, Cop Style, Style, Religious",unpredictability,2.595951884281325,0,10
+97,"Cop Strategy, Cop Style, Style, Religious",aggression,2.4954823253334455,0,9
+97,"Cop Strategy, Cop Style, Style, Religious",conspiracy,2.4954823253334455,0,9
+97,"Cop Strategy, Cop Style, Style, Religious",impulsivity,2.4954823253334455,0,9
+97,"Cop Strategy, Cop Style, Style, Religious",mindfulness,2.4954823253334455,0,9
+97,"Cop Strategy, Cop Style, Style, Religious",mechanisms,2.4954823253334455,0,9
+97,"Cop Strategy, Cop Style, Style, Religious",characteristic,-2.8533486081103545,5,0
+97,"Cop Strategy, Cop Style, Style, Religious",social-ecological,-2.8533486081103545,5,0
+97,"Cop Strategy, Cop Style, Style, Religious",efficacy,-2.8533486081103545,5,0
+97,"Cop Strategy, Cop Style, Style, Religious",elderly,-2.8533486081103545,5,0
+97,"Cop Strategy, Cop Style, Style, Religious",authenticity,-3.0210094889086436,6,0
+97,"Cop Strategy, Cop Style, Style, Religious",maternal,-3.0210094889086436,6,0
+97,"Cop Strategy, Cop Style, Style, Religious",even,-3.164717497109561,7,0
+97,"Cop Strategy, Cop Style, Style, Religious",prostate,-3.164717497109561,7,0
+97,"Cop Strategy, Cop Style, Style, Religious",nrc,-3.164717497109561,7,0
+97,"Cop Strategy, Cop Style, Style, Religious",class,-3.164717497109561,7,0
+97,"Cop Strategy, Cop Style, Style, Religious",hippocampal,-3.164717497109561,7,0
+97,"Cop Strategy, Cop Style, Style, Religious",whole,-3.164717497109561,7,0
+97,"Cop Strategy, Cop Style, Style, Religious",morning,-3.164717497109561,7,0
+97,"Cop Strategy, Cop Style, Style, Religious",ptg,-3.290488173496591,8,0
+97,"Cop Strategy, Cop Style, Style, Religious",cancer,-3.503013442442919,10,0

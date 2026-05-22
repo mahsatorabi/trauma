@@ -1,0 +1,739 @@
+Topic,Words,Frequency,Timestamp
+100,"drama, television, serial, feminist, medium",1,2019
+-1,"intimate, partner violence, intimate partner, ipv, attitude",458,2020
+0,"rat, maternal separation, mouse, separation, expression",141,2020
+1,"ace, experience ace, household dysfunction, ace exposure, relationship ace",76,2020
+2,"emdr, posttraumatic ptsd, traumafocused, tfcbt, ptsd severity",68,2020
+3,"csa, csa survivor, history csa, survivor csa, experience csa",40,2020
+4,"ipv, intimate partner, intimate, partner violence, violence ipv",40,2020
+5,"injury, fracture, head, infant, pediatric",44,2020
+6,"attachment, attachment style, insecure, style, insecure attachment",29,2020
+7,"covid, pandemic, covid pandemic, coronavirus, lockdown",17,2020
+8,"worker, protection, migrant, social work, professional",41,2020
+9,"offender, offend, juvenile, crime, justice",43,2020
+10,"methylation, dna, dna methylation, gene, epigenetic",43,2020
+11,"cortisol, hpa, axis, hpa axis, hair",47,2020
+12,"attempt, suicide attempt, suicidal, attempt suicide, ideation",34,2020
+13,"cm, cm type, cm exposure, mitochondrial, history cm",14,2020
+14,"role resilience, breakup, trait, connordavidson, connordavidson resilience",23,2020
+15,"hiv, msm, infection, syndemic, adherence",35,2020
+16,"drug, opioid, misuse, cannabis, recovery",35,2020
+17,"nssi, selfinjury, nonsuicidal, nonsuicidal selfinjury, selfinjury nssi",15,2020
+18,"psychosis, psychotic, fep, firstepisode psychosis, hallucination",32,2020
+19,"class, latent class, latent, lca, ace",25,2020
+20,"church, catholic, clergy, religious, crisis",21,2020
+21,"bpd, borderline, borderline personality, personality bpd, facial",29,2020
+22,"rape, assault, perpetrator, myth, assault victim",28,2020
+23,"mdd, major depressive, depressive mdd, medication adherence, glutamate",15,2020
+24,"interviewer, forensic interview, forensic, investigative, allege",30,2020
+25,"pain, chronic pain, opioid, fibromyalgia, sensitization",26,2020
+26,"eat, ed, nervosa, eating, binge",19,2020
+27,"sleep, sleep quality, sleep disturbance, disturbance, sleep problem",18,2020
+28,"connectivity, functional, functional connectivity, amygdala, cortex",24,2020
+29,"bd, bipolar, mood, bipolar bd, episode",24,2020
+30,"emotion regulation, emotion dysregulation, dysregulation, difficulty emotion, regulation difficulty",20,2020
+31,"suicidal ideation, suicidal, ideation, suicidal thought, internet addiction",18,2020
+32,"psychometric, psychometric property, property, internal consistency, consistency",22,2020
+33,"dissociation, dissociative, dissociative experience, somatoform, dissociative identity",17,2020
+34,"violence exposure, experience violence, genderbased, genderbased violence, family violence",18,2020
+35,"disability, intellectual, intellectual disability, sexuality, id",16,2020
+36,"nonconsensual, imagebased, porn, pornography, revenge",5,2020
+37,"parentchild, aboriginal, parenting, caregiver, parentchild interaction",18,2020
+38,"sport, athlete, coach, leadership, harassment",19,2020
+39,"mother, maternal, intergenerational, maternal depression, motherchild",14,2020
+40,"depression anxiety, anxiety depression, negative event, depressive anxiety, recent stressor",21,2020
+41,"externalize, internalize, internalize externalize, externalize problem, internalize problem",19,2020
+42,"college, college student, title, teach, student experience",17,2020
+43,"traumainformed, traumainformed care, consumer, classroom, tie",11,2020
+44,"elder, elderly, mistreatment, financial, old person",24,2020
+45,"foster, foster care, placement, residential, residential care",19,2020
+46,"perceive social, support positive, abortion, positive coping, oxytocin",16,2020
+47,"memory, autobiographical, false, autobiographical memory, intrusive",14,2020
+48,"teacher, classroom, climate, knowledge attitude, parent teacher",14,2020
+49,"coercion, vaginal, microbiome, choice, automatic thought",12,2020
+50,"trait, personality function, narcissism, narcissistic, pd",13,2020
+51,"disclosure, disclose, tell, csa, delay",18,2020
+52,"selfesteem, depression selfesteem, pride, malicious, benign",13,2020
+53,"adverse event, asthma, growth, earthquake, trajectory",16,2020
+54,"military, veteran, combat, personnel, deployment",13,2020
+55,"psychotherapy, sp, antidepressant, recurrence, major depression",17,2020
+56,"polyvictimization, type victimization, victimization experience, attractiveness, illicit drug",11,2020
+57,"young people, masculinity, people experience, qualitative, island",13,2020
+58,"inflammation, il, inflammatory, crp, creactive",23,2020
+59,"intimate partner, partner violence, intimate, economic, violence woman",12,2020
+60,"cardiovascular, disease, cvd, autonomic, cardiovascular disease",13,2020
+61,"subjective wellbeing, wellbeing adulthood, identity development, subjective, identity",7,2020
+62,"mindfulness, relationship quality, couple, satisfaction, romantic",10,2020
+63,"executive, executive function, ef, neuropsychological, deficit",21,2020
+64,"csam, law, law enforcement, enforcement, pornography",11,2020
+65,"ct, psychosis, god, schizophrenia, religiosity",13,2020
+66,"aud, alcoholrelated, drink, alcohol misuse, drinking",15,2020
+67,"alexithymia, toronto, toronto alexithymia, feeling, difficulty identify",17,2020
+68,"pregnancy, postpartum, perinatal, unintended, unintended pregnancy",20,2020
+69,"prevention program, ge, skill, curriculum, schoolbased",14,2020
+70,"ptg, posttraumatic growth, revictimization, growth, assumption",11,2020
+71,"domestic, domestic violence, coercive, dv, father",16,2020
+72,"aggression, aggressive, selfcontrol, anger, trait",11,2020
+73,"caregiver, caregiver support, baby, caregiver experience, anger hostility",9,2020
+74,"infant, motherinfant, maternal, mother, postpartum",14,2020
+75,"family member, social withdrawal, incest, incarceration, family dynamic",11,2020
+76,"writer, character, fiction, transformation, conversation",7,2020
+77,"aor, aor ci, ethiopia, ci aor, migrant",11,2020
+78,"selfcompassion, sc, compassion, ptsd alcohol, alcohol misuse",4,2020
+79,"latent profile, latent, kinship, cancer, normative",4,2020
+80,"date violence, perpetration, dv, moral disengagement, violence victimization",15,2020
+81,"childbirth, maternity, respectful, birth, facility",13,2020
+82,"cptsd, ptsd cptsd, icd, complex ptsd, ptsd complex",7,2020
+83,"dementia, experience adverse, complaint, deviant, experience substance",9,2020
+84,"cortical, thickness, cortical thickness, matter, insular",13,2020
+85,"homosexual, men woman, gay, msm, nonconsensual",10,2020
+86,"selfharm, deliberate selfharm, deliberate, parental death, criminality",6,2020
+87,"schizophrenia, schizophrenia spectrum, spectrum, psychosis, severe illness",16,2020
+88,"node, social network, framing, energy, network approach",7,2020
+89,"bully, bullying, bully victimization, workplace, peer bully",12,2020
+90,"gut, ibs, axis, bowel, bowel syndrome",9,2020
+91,"workplace, nurse, healthcare, staff, worker",8,2020
+92,"genetic, polymorphism, gene, geneenvironment, maoa",16,2020
+93,"ocd, obsessivecompulsive, obsessive compulsive, obsessive, compulsive",15,2020
+94,"reward, biological, processing, affective anxiety, externalize",2,2020
+95,"sibling, ssa, chronic disease, cac, incest",5,2020
+96,"addiction, internet, internet addiction, smartphone, game",6,2020
+97,"cop strategy, cop style, style, coping, religious",16,2020
+98,"vaccination, infection, acquire, genital, rash",7,2020
+99,"adhd, hyperactivity, deficit hyperactivity, attentiondeficit, hyperactivity adhd",9,2020
+100,"medium, social medium, metoo, sentiment, cyberbullying",6,2020
+101,"job, overprotection, paternal, parental overprotection, parental care",7,2020
+102,"deprivation, ela, threat deprivation, deprivationrelated, pubertal",6,2020
+103,"racial, african american, black, american, african",10,2020
+104,"ci ci, mortality, hr ci, migraine, hr",10,2020
+-1,"partner violence, intimate partner, ipv, intimate, mother",579,2021
+0,"rat, mouse, maternal separation, separation, el",163,2021
+1,"ace, experience ace, ace exposure, ace ace, household dysfunction",99,2021
+2,"posttraumatic ptsd, emdr, traumafocused, ptsd severity, complex ptsd",84,2021
+3,"csa, survivor csa, experience csa, csa survivor, csa experience",64,2021
+4,"ipv, intimate partner, intimate, partner violence, violence ipv",55,2021
+5,"injury, fracture, infant, head, pediatric",59,2021
+6,"attachment, attachment style, style, insecure, insecure attachment",46,2021
+7,"covid, pandemic, covid pandemic, lockdown, coronavirus",50,2021
+8,"worker, protection, social worker, professional, contraceptive",45,2021
+9,"offender, offend, juvenile, criminal, justice",41,2021
+10,"methylation, dna, dna methylation, gene, epigenetic",46,2021
+11,"cortisol, axis, hpa, hpa axis, hair",61,2021
+12,"attempt, suicide attempt, suicidal, ideation, attempt suicide",41,2021
+13,"cm, mdd, distrust, ssd, experience cm",21,2021
+14,"app, role resilience, connordavidson, resilience depression, connordavidson resilience",37,2021
+15,"hiv, live hiv, infection, adherence, antiretroviral",36,2021
+16,"drug, misuse, cannabis, opioid, parental substance",41,2021
+17,"nssi, selfinjury, nonsuicidal, nonsuicidal selfinjury, selfinjury nssi",15,2021
+18,"psychosis, psychotic, hallucination, fep, firstepisode psychosis",30,2021
+19,"class, latent class, latent, membership, lca",25,2021
+20,"church, catholic, clergy, religious, crisis",40,2021
+21,"bpd, borderline, borderline personality, personality bpd, impulsivity",32,2021
+22,"rape, perpetrator, assault, myth, tonic",31,2021
+23,"mdd, major depressive, sic, depressive mdd, antidepressant",21,2021
+24,"interviewer, forensic interview, investigative, forensic, rapport",31,2021
+25,"pain, chronic pain, pelvic pain, pelvic, catastrophizing",24,2021
+26,"eat, ed, eating, binge eat, binge",34,2021
+27,"sleep, sleep quality, sleep disturbance, disturbance, sleep problem",28,2021
+28,"connectivity, functional, functional connectivity, restingstate, amygdala",33,2021
+29,"bd, bipolar, mood, bipolar bd, affective lability",25,2021
+30,"emotion regulation, emotion dysregulation, dysregulation, er, regulation strategy",20,2021
+31,"suicidal ideation, ideation, suicidal, relationship suicidal, rd",23,2021
+32,"psychometric, psychometric property, property, internal consistency, consistency",20,2021
+33,"dissociative, dissociation, dissociative experience, dissociative identity, identity",19,2021
+34,"violence exposure, exposure violence, genderbased, experience violence, firearm",28,2021
+35,"disability, intellectual, intellectual disability, id, sexuality",23,2021
+36,"imagebased, sexting, image, nonconsensual, revenge",16,2021
+37,"parentchild, parentchild relationship, parent parent, parenting, parentchild interaction",25,2021
+38,"sport, athlete, coach, interpersonal violence, official",6,2021
+39,"mother, maternal, intergenerational, motherchild, dialogue",25,2021
+40,"depression anxiety, anxiety depression, migraine, headache, trait anxiety",21,2021
+41,"externalize, internalize, internalize externalize, externalize problem, internalize problem",23,2021
+42,"college, college student, betrayal, campus, academic",19,2021
+43,"traumainformed, traumainformed care, traumainformed practice, traumainformed approach, healthcare",25,2021
+44,"elder, mistreatment, elderly, financial, ea",23,2021
+45,"foster care, foster, outofhome, outofhome care, placement",19,2021
+46,"perceive social, role social, support depressive, perfectionism, previous experience",18,2021
+47,"memory, autobiographical, false, autobiographical memory, recover",21,2021
+48,"teacher, learner, attitude, parent teacher, preschool",16,2021
+49,"smi, family plan, planning, reproductive, slum",22,2021
+50,"trait, personality trait, personality function, rf, maladaptive personality",11,2021
+51,"disclosure, disclose, csa, tell, recipient",21,2021
+52,"selfesteem, rosenberg, substance dependence, role selfesteem, momentary",15,2021
+53,"frailty, gd, survival, healthy age, tone",18,2021
+54,"veteran, military, combat, military veteran, attempt",25,2021
+55,"psychotherapy, aggressive behavior, antidepressant, major depression, ketamine",19,2021
+56,"polyvictimization, violent victimization, type victimization, minority, victimization experience",25,2021
+57,"young people, residential, residential care, safety, barrier",12,2021
+58,"il, inflammation, inflammatory, cytokine, immune",25,2021
+59,"intimate, intimate partner, partner violence, economic, coercive",25,2021
+60,"disease, cardiovascular, heart, cardiovascular disease, cardiovascular reactivity",15,2021
+61,"resilience wellbeing, satisfaction, subjective wellbeing, biopsychosocial, affect wellbeing",8,2021
+62,"mindfulness, satisfaction, relationship satisfaction, couple, romantic relationship",21,2021
+63,"executive, executive function, ef, performance, work memory",16,2021
+64,"csam, company, pornography, material csam, earn",8,2021
+65,"ct, schizophrenia, history ct, psychosis, episode",13,2021
+66,"drinking, drink, aud, alcohol problem, ai",15,2021
+67,"alexithymia, toronto, toronto alexithymia, ta, pnes",15,2021
+68,"pregnancy, postpartum, perinatal, pregnant, ppd",14,2021
+69,"schoolbased, prevention program, curriculum, skill, knowledge skill",12,2021
+70,"recovery, spirituality, discourse, heal, saint",12,2021
+71,"domestic, domestic violence, witness domestic, witness, defendant",14,2021
+72,"aggression, aggressive, reactive, plasma oxytocin, partner aggression",14,2021
+73,"caregiver, caregiver support, nonoffending, moderator, caregiverchild",12,2021
+74,"infant, motherinfant, maternal, postpartum, mother",19,2021
+75,"family function, poor family, family friend, homicide, friend",5,2021
+76,"narrative, voice, story, writing, write",17,2021
+77,"aor ci, aor, ethiopia, ci aor, bpd",11,2021
+78,"selfcompassion, compassion, shame, posttraumatic growth, growth",17,2021
+79,"latent profile, latent, fatigue, positive affect, puerto",9,2021
+80,"date violence, perpetration, cyber, bystander, warn",11,2021
+81,"childbirth, delivery, mistreatment, facility, birth",10,2021
+82,"cptsd, icd, ptsd cptsd, complex ptsd, dso",11,2021
+83,"social capital, capital, experience adverse, diabetes, dementia",14,2021
+84,"cortical, thickness, cortical thickness, matter, volume",15,2021
+85,"men woman, masculinity, gay, woman men, msm",24,2021
+86,"selfharm, repetition, deliberate selfharm, deliberate, admission",11,2021
+87,"schizophrenia, tom, cognition, social cognition, psychosis",10,2021
+88,"mistrust, centrality, node, central, social network",7,2021
+89,"bully, bullying, bully victimization, perpetration, experience bully",12,2021
+90,"gut, microbiome, gut microbiome, axis, composition",16,2021
+91,"workplace, nurse, emergency, employee, resident",9,2021
+92,"genetic, gene, geneenvironment, polymorphism, fkbp",16,2021
+93,"ocd, obsessivecompulsive, social phobia, compulsive, obsessive compulsive",9,2021
+94,"reward, neural, anticipation, task, monetary",16,2021
+95,"sibling, incest, ssa, intrafamilial, forensic interview",15,2021
+96,"addiction, internet addiction, internet, addictive, problematic",5,2021
+97,"cop style, religious, cop strategy, style, coping",11,2021
+98,"infection, sti, genital, rare, vaginal",13,2021
+99,"adhd, hyperactivity, attentiondeficit, attentiondeficit hyperactivity, hyperactivity adhd",9,2021
+100,"medium, social medium, metoo, news, discourse",8,2021
+101,"violence parental, family violence, alienation, pbi, sexism",12,2021
+102,"deprivation, threat deprivation, deprivation threat, dimensional, st",5,2021
+103,"racial, black, american, race, african american",12,2021
+104,"difference ci, schoolchildren, irr ci, arthritis, irr",12,2021
+-1,"intimate partner, intimate, ipv, partner violence, attitude",611,2022
+0,"rat, mouse, maternal separation, el, separation",124,2022
+1,"ace, experience ace, household dysfunction, ace ace, relationship ace",110,2022
+2,"emdr, posttraumatic ptsd, traumafocused, randomize, ptsd depression",72,2022
+3,"csa, experience csa, csa survivor, survivor csa, peritraumatic",58,2022
+4,"ipv, intimate partner, intimate, partner violence, violence ipv",52,2022
+5,"injury, fracture, infant, skeletal, head",53,2022
+6,"attachment, attachment style, style, insecure, insecure attachment",51,2022
+7,"covid, pandemic, covid pandemic, lockdown, impact covid",60,2022
+8,"worker, protection, decision, social worker, barrier",30,2022
+9,"offender, crime, criminal, offend, juvenile",43,2022
+10,"methylation, dna, dna methylation, epigenetic, gene",48,2022
+11,"cortisol, hpa, axis, hpa axis, diurnal",29,2022
+12,"attempt, suicide attempt, suicidal, ideation, attempt suicide",46,2022
+13,"cm, history cm, cm type, mdd, cm history",31,2022
+14,"cdrisc, resilience depression, role resilience, connordavidson, connordavidson resilience",42,2022
+15,"hiv, live hiv, hiv aid, aid, msm",34,2022
+16,"drug, sud, cannabis, opioid, marijuana",30,2022
+17,"nssi, selfinjury, nonsuicidal, nonsuicidal selfinjury, selfinjury nssi",25,2022
+18,"psychosis, psychotic, chr, fep, schizophrenia",33,2022
+19,"class, latent class, latent, lca, ace",36,2022
+20,"church, catholic, clergy, religious, spiritual",40,2022
+21,"bpd, borderline, borderline personality, personality bpd, trait",29,2022
+22,"rape, rape myth, assault, myth, perpetrator",39,2022
+23,"mdd, major depressive, depressive mdd, gyrus, magnetic",30,2022
+24,"interviewer, forensic interview, forensic, investigative, police",31,2022
+25,"pain, chronic pain, pelvic, fm, pelvic pain",30,2022
+26,"eat, binge eat, binge, ed, nervosa",26,2022
+27,"sleep, sleep quality, sleep disturbance, disturbance, insomnia",28,2022
+28,"connectivity, functional, functional connectivity, amygdala, restingstate",27,2022
+29,"bd, bipolar, mood, bipolar bd, episode",32,2022
+30,"emotion regulation, emotion dysregulation, dysregulation, regulation strategy, suppression",29,2022
+31,"suicidal ideation, ideation, suicidal, depression suicidal, relationship suicidal",21,2022
+32,"psychometric, psychometric property, property, internal consistency, consistency",27,2022
+33,"dissociative, dissociation, amnesia, dissociative experience, dissociative identity",28,2022
+34,"violence exposure, genderbased, genderbased violence, gbv, exposure violence",23,2022
+35,"disability, intellectual, intellectual disability, id, sexuality",27,2022
+36,"imagebased, nonconsensual, image, sexting, pornography",21,2022
+37,"parentchild, parentchild relationship, mindful, parenting, parentchild interaction",16,2022
+38,"sport, athlete, coach, harassment, safeguard",35,2022
+39,"mother, maternal, intergenerational, motherchild, transmission",34,2022
+40,"depression anxiety, anxiety depression, trait anxiety, malicious, benign",17,2022
+41,"externalize, internalize, internalize externalize, externalize problem, internalize problem",25,2022
+42,"college, college student, faculty, preclinical, vignette",22,2022
+43,"traumainformed, traumainformed care, staff, principle, yoga",22,2022
+44,"elder, mistreatment, elderly, financial, dementia",29,2022
+45,"foster, foster care, placement, welfare, outofhome",17,2022
+46,"perceive social, forum, ptes, paranoia, need care",22,2022
+47,"memory, false, autobiographical, autobiographical memory, amnesia",24,2022
+48,"teacher, classroom, climate, educator, preschool",20,2022
+49,"epilepsy, woman experience, transport, involuntary, menopause",19,2022
+50,"trait, personality trait, personality function, pd, personality pathology",26,2022
+51,"disclosure, disclose, csa, reaction, tell",18,2022
+52,"selfesteem, rosenberg, rosenberg selfesteem, cyberbullying, chinese",15,2022
+53,"disadvantage, poverty, mortality, adverse event, trajectory",20,2022
+54,"veteran, military, combat, military service, military veteran",28,2022
+55,"psychotherapy, rumination, invasive, blend, remission",14,2022
+56,"polyvictimization, assault, type victimization, revictimization, victimization experience",23,2022
+57,"young people, people experience, autistic, helpseeking, hurt",18,2022
+58,"il, inflammation, inflammatory, cytokine, crp",14,2022
+59,"intimate partner, intimate, partner violence, economic, dependence",17,2022
+60,"disease, cardiovascular, diabetes, heart, cardiovascular disease",21,2022
+61,"subjective wellbeing, subjective, satisfaction, wellbeing young, experience homelessness",21,2022
+62,"mindfulness, relationship satisfaction, satisfaction, relationship quality, couple",13,2022
+63,"executive, executive function, ef, performance, work memory",21,2022
+64,"csam, material csam, technology, pornography, investigator",11,2022
+65,"ct, relationship ct, block, schizophrenia, antipsychotic",15,2022
+66,"drink, drinking, aud, problematic alcohol, alcoholrelated",17,2022
+67,"alexithymia, toronto, toronto alexithymia, feeling, subjectively",12,2022
+68,"pregnancy, postpartum, perinatal, pregnant, prenatal",18,2022
+69,"prevention program, schoolbased, curriculum, safety, skill",17,2022
+70,"redress, scheme, experience survivor, heal, intrafamilial",18,2022
+71,"domestic, domestic violence, dv, victim domestic, witness",22,2022
+72,"aggression, aggressive, cyber, subordinate, fluoxetine",23,2022
+73,"caregiver, caregiver support, caregiver history, caregiver experience, nonoffending",19,2022
+74,"infant, motherinfant, maternal, mother, postpartum",15,2022
+75,"latinx, family member, academic achievement, family environment, family function",21,2022
+76,"narrative, definition, adoption, organisational, epistemic",16,2022
+77,"aor ci, aor, ci aor, ethiopia, concussion",18,2022
+78,"selfcompassion, shame, selfcriticism, compassion, cyberbullying victimization",14,2022
+79,"latent profile, latent, lpa, distinct profile, variant",15,2022
+80,"date violence, perpetration, cyber, dv, violence perpetration",20,2022
+81,"childbirth, birth, obstetric, maternity, respectful",16,2022
+82,"cptsd, icd, ptsd cptsd, complex posttraumatic, dso",15,2022
+83,"capital, deviant, human capital, severe anxiety, experience adverse",19,2022
+84,"cortical, thickness, cortical thickness, matter, volume",11,2022
+85,"masculinity, gay men, masochism, debut, gay",11,2022
+86,"selfharm, harm, selfharm suicide, attempt, suicide attempt",18,2022
+87,"schizophrenia, psychotic, psychosis, social functioning, deficit",21,2022
+88,"neural network, node, helpseeking, network approach, edge",7,2022
+89,"bully, bully victimization, bullying, chr, cyberbullying",11,2022
+90,"gut, microbiome, axis, visceral, ibs",13,2022
+91,"nurse, workplace, burnout, healthcare, worker",8,2022
+92,"genetic, gene, val, polymorphism, genotype",19,2022
+93,"ocd, obsessivecompulsive, oxtr, thalamic, obsessive compulsive",8,2022
+94,"reward, decisionmaking, striatum, task, reward sensitivity",18,2022
+95,"sibling, ssa, incest, intrafamilial, disclosure",8,2022
+96,"addiction, internet addiction, internet, smartphone, ia",7,2022
+97,"cop strategy, cop style, symptomology, religious, style",6,2022
+98,"genital, infection, lesion, rare, transmission",13,2022
+99,"adhd, hyperactivity, attentiondeficit, deficit hyperactivity, attentiondeficit hyperactivity",12,2022
+100,"medium, social medium, coverage, metoo, news",12,2022
+101,"pa, alienation, parental education, divorce, parental marital",14,2022
+102,"deprivation, threat deprivation, deprivation threat, reproductive strategy, dimensional",11,2022
+103,"racial, black, racial discrimination, discrimination, american",8,2022
+104,"hr ci, hr, medicaid, ci ci, apr ci",12,2022
+-1,"attitude, shame, intimate, intimate partner, partner violence",588,2023
+0,"mouse, rat, el, maternal separation, separation",130,2023
+1,"ace, experience ace, household dysfunction, ace exposure, aceiq",119,2023
+2,"posttraumatic ptsd, emdr, traumafocused, ptsd severity, reprocess",61,2023
+3,"csa, csa survivor, survivor csa, experience csa, csa experience",63,2023
+4,"ipv, intimate partner, intimate, partner violence, violence ipv",49,2023
+5,"injury, fracture, infant, head, pediatric",59,2023
+6,"attachment, attachment style, style, insecure, insecure attachment",58,2023
+7,"covid, pandemic, covid pandemic, lockdown, impact covid",64,2023
+8,"worker, protection, social work, welfare, barrier",47,2023
+9,"offender, criminal, crime, offend, juvenile",35,2023
+10,"methylation, dna, dna methylation, epigenetic, gene",37,2023
+11,"cortisol, axis, hpa, hpa axis, hair",43,2023
+12,"attempt, suicide attempt, suicidal, ideation, suicidal thought",35,2023
+13,"cm, relationship cm, cm exposure, form cm, history cm",40,2023
+14,"connordavidson, connordavidson resilience, relationship resilience, grandparent, cdrisc",30,2023
+15,"hiv, live hiv, adherence, hiv aid, aid",26,2023
+16,"cannabis, drug, opioid, prescription, sud",25,2023
+17,"nssi, selfinjury, nonsuicidal, nonsuicidal selfinjury, selfinjury nssi",33,2023
+18,"psychosis, psychotic, fep, firstepisode psychosis, firstepisode",36,2023
+19,"class, latent class, latent, lca, ace",40,2023
+20,"church, catholic, clergy, religious, crisis",23,2023
+21,"bpd, borderline, borderline personality, personality bpd, impulsivity",28,2023
+22,"rape, perpetrator, myth, rape myth, assault",30,2023
+23,"mdd, major depressive, depressive mdd, gyrus, hcs",38,2023
+24,"interviewer, investigative, forensic interview, forensic, feedback",29,2023
+25,"pain, chronic pain, pelvic pain, pelvic, catastrophizing",30,2023
+26,"eat, ed, binge eat, binge, eating",31,2023
+27,"sleep, sleep quality, sleep disturbance, disturbance, sleep duration",26,2023
+28,"connectivity, functional, functional connectivity, restingstate, restingstate functional",25,2023
+29,"bd, bipolar, mood, bipolar bd, episode",31,2023
+30,"emotion regulation, dysregulation, emotion dysregulation, regulation strategy, suppression",29,2023
+31,"suicidal ideation, suicidal, ideation, character, relationship suicidal",23,2023
+32,"psychometric, psychometric property, property, internal consistency, convergent",22,2023
+33,"dissociation, dissociative, dissociative experience, depersonalization, dissociative identity",25,2023
+34,"violence exposure, genderbased, genderbased violence, exposure violence, family violence",29,2023
+35,"disability, intellectual, intellectual disability, disabled, id",22,2023
+36,"imagebased, nonconsensual, image, revenge, pornography",27,2023
+37,"parentchild, autistic, foster parent, parenting, foster",20,2023
+38,"sport, athlete, coach, harassment, organization",18,2023
+39,"mother, maternal, intergenerational, transmission, maternal depression",27,2023
+40,"depression anxiety, anxiety depression, separation anxiety, gad, anxiety depressive",27,2023
+41,"internalize, externalize, externalize problem, internalize externalize, internalize problem",15,2023
+42,"college, college student, exchange, academic, leftbehind experience",10,2023
+43,"traumainformed, traumainformed care, traumainformed practice, professional, educator",20,2023
+44,"elder, mistreatment, elderly, financial, caregiver",19,2023
+45,"foster, foster care, outofhome, placement, outofhome care",16,2023
+46,"perceive social, pollution, cumulative event, social relationship, role social",15,2023
+47,"memory, false, autobiographical, verbal memory, autobiographical memory",17,2023
+48,"teacher, attitude, classroom, pupil, educator",22,2023
+49,"contraception, gynecological, woman experience, reserve, menopausal",23,2023
+50,"personality trait, trait, personality pathology, pathology, personality traits",13,2023
+51,"disclosure, disclose, csa, delay, tell",23,2023
+52,"selfesteem, rosenberg, rosenberg selfesteem, role selfesteem, jealousy",23,2023
+53,"growth, mortality, ptg, adverse event, asthma",25,2023
+54,"veteran, military, combat, military veteran, military service",21,2023
+55,"psychotherapy, family history, pet, history depression, benzodiazepine",16,2023
+56,"cyberbullying victimization, polyvictimization, cyberbullying, victimization experience, type victimization",24,2023
+57,"young people, ownership, gun, people experience, friend",24,2023
+58,"inflammation, il, inflammatory, cytokine, interleukin",17,2023
+59,"intimate partner, intimate, partner violence, coercive, dot",22,2023
+60,"cardiovascular, disease, reactivity, diabetes, type diabetes",23,2023
+61,"subjective wellbeing, hedonic, cse, subjective, resilience wellbeing",16,2023
+62,"mindfulness, satisfaction, couple, relationship satisfaction, relationship quality",23,2023
+63,"executive, executive function, memory, work memory, ef",16,2023
+64,"csam, material csam, digital, dark, exploitation",18,2023
+65,"ct, comt, cortical, cortical thickness, thickness",15,2023
+66,"drink, drinking, aud, consumption, fasd",17,2023
+67,"alexithymia, toronto, toronto alexithymia, feeling, difficulty identify",14,2023
+68,"pregnancy, pregnant, teenage pregnancy, postpartum, teenage",19,2023
+69,"prevention program, schoolbased, skill, implementation, programme",15,2023
+70,"ptg, inquiry, reintegration, growth, incest",18,2023
+71,"domestic, domestic violence, care program, witness domestic, witness",13,2023
+72,"aggression, relational aggression, aggressive, gaslighting, relational",15,2023
+73,"caregiver, caregiver support, family caregiver, caregiver experience, caregiverchild",19,2023
+74,"infant, maternal, motherinfant, mother, bonding",15,2023
+75,"family member, incest, family function, family environment, family structure",17,2023
+76,"narrative, autonomy, conception, lawyer, story",19,2023
+77,"aor ci, aor, ci aor, ethiopia, housing",10,2023
+78,"selfcompassion, compassion, shame, mindfulness, harsh parent",17,2023
+79,"latent profile, latent, profile identify, subgroup, gang",20,2023
+80,"date violence, perpetration, dv, violence victimization, couple",15,2023
+81,"childbirth, maternity, mistreatment, obstetric, facility",23,2023
+82,"cptsd, icd, ptsd cptsd, dso, complex posttraumatic",14,2023
+83,"frailty, allostatic load, allostatic, load, experience adverse",16,2023
+84,"cortical, matter, thickness, cortical thickness, gray matter",15,2023
+85,"stigma, men woman, msm, provider, methamphetamine",13,2023
+86,"selfharm, harm, dual, autistic trait, autistic",13,2023
+87,"schizophrenia, separation anxiety, schizophrenia spectrum, aggressive, whoqolbref",8,2023
+88,"insomnia, node, social network, neural network, central",14,2023
+89,"bully, bullying, bully victimization, perpetration, workplace",17,2023
+90,"gut, microbiome, gut microbiome, ibs, axis",11,2023
+91,"workplace, nurse, healthcare, healthcare worker, worker",14,2023
+92,"genetic, gene, polymorphism, aspd, variation",7,2023
+93,"ocd, obsessivecompulsive, contamination, compulsive, obsessive compulsive",16,2023
+94,"reward, task, neural, processing, responsiveness",16,2023
+95,"sibling, ssa, incest, intrafamilial, harmful",15,2023
+96,"addiction, internet, internet addiction, game, ia",17,2023
+97,"cop style, religious, cop strategy, style, anger",9,2023
+98,"vaginal, infection, visit, sti, genital",11,2023
+99,"adhd, hyperactivity, deficit hyperactivity, attention deficit, hyperactivity adhd",11,2023
+100,"medium, social medium, news, echo, metoo",9,2023
+101,"sickness, absence, dysfunctional, ego, responsiveness",6,2023
+102,"deprivation, threat deprivation, dimensional, deprivation threat, mindset",15,2023
+103,"racial, black, racial ethnic, ethnic, white",13,2023
+104,"multitype, rr ci, rr, mortality, australian",8,2023
+-1,"ipv, intimate, attitude, partner violence, intimate partner",651,2024
+0,"mouse, el, rat, maternal separation, separation",114,2024
+1,"ace, experience ace, household dysfunction, ace exposure, relationship ace",151,2024
+2,"emdr, traumafocused, posttraumatic ptsd, tfcbt, psychotherapy",66,2024
+3,"csa, csa survivor, survivor csa, experience csa, perpetrator",54,2024
+4,"ipv, intimate partner, intimate, partner violence, violence ipv",47,2024
+5,"injury, fracture, head, infant, pediatric",50,2024
+6,"attachment, insecure, attachment style, style, insecure attachment",51,2024
+7,"covid, pandemic, covid pandemic, lockdown, pandemicrelated",45,2024
+8,"worker, social worker, social work, welfare, protection",44,2024
+9,"offender, offend, juvenile, offense, crime",40,2024
+10,"methylation, dna, dna methylation, epigenetic, gene",41,2024
+11,"cortisol, hpa, axis, hpa axis, hair",26,2024
+12,"attempt, suicide attempt, suicidal, ideation, attempt suicide",38,2024
+13,"cm, cm experience, mdd, cm exposure, history cm",56,2024
+14,"role resilience, family resilience, resilience depression, connordavidson, connordavidson resilience",32,2024
+15,"hiv, live hiv, hiv aid, infection, aid",37,2024
+16,"drug, cannabis, opioid, misuse, psychoactive substance",35,2024
+17,"nssi, selfinjury, nonsuicidal, nonsuicidal selfinjury, selfinjury nssi",54,2024
+18,"psychosis, psychotic, hallucination, fep, premorbid",27,2024
+19,"class, latent class, latent, ace, membership",28,2024
+20,"church, catholic, religious, clergy, religion",35,2024
+21,"bpd, borderline personality, borderline, personality bpd, personality feature",33,2024
+22,"rape, myth, rape myth, perpetrator, assault",22,2024
+23,"mdd, major depressive, depressive mdd, gyrus, connectivity",40,2024
+24,"interviewer, forensic interview, investigative, forensic, rapport",28,2024
+25,"pain, chronic pain, fibromyalgia, fm, pelvic",31,2024
+26,"eat, ed, nervosa, eating, anorexia",30,2024
+27,"sleep, sleep quality, sleep disturbance, disturbance, sleep problem",39,2024
+28,"connectivity, functional, functional connectivity, restingstate, fc",34,2024
+29,"bd, bipolar, bipolar bd, mood, mania",23,2024
+30,"emotion regulation, emotion dysregulation, dysregulation, difficulty emotion, er",24,2024
+31,"suicidal ideation, ideation, suicidal, relationship suicidal, selfevaluation",28,2024
+32,"ctqsf, psychometric, psychometric property, internal consistency, property",26,2024
+33,"dissociation, dissociative, dissociative experience, somatoform, psychotic",18,2024
+34,"violence exposure, genderbased, genderbased violence, experience violence, exposure violence",18,2024
+35,"disability, intellectual, intellectual disability, sexuality, id",30,2024
+36,"imagebased, sexting, nonconsensual, image, revenge",21,2024
+37,"parentchild, foster parent, parenting, parentchild relationship, parentchild interaction",28,2024
+38,"sport, athlete, coach, iv, safeguard",23,2024
+39,"mother, maternal, intergenerational, transmission, offspring",19,2024
+40,"depression anxiety, anxiety depression, anxiety depressive, migraine, anxiety mood",25,2024
+41,"externalize, internalize, internalize externalize, internalize problem, externalize problem",20,2024
+42,"college, college student, intimidation, title, harassment",26,2024
+43,"traumainformed, traumainformed care, skill, educator, traumainformed practice",18,2024
+44,"elder, mistreatment, elderly, home, nursing",16,2024
+45,"foster, foster care, outofhome, outofhome care, placement",25,2024
+46,"perceive social, role social, appreciation, cm, dream",21,2024
+47,"memory, false, recover, repress, autobiographical",19,2024
+48,"teacher, kindergarten, arab, learner, teach",20,2024
+49,"shadow, woman experience, family plan, prostitution, theme",18,2024
+50,"trait, personality trait, personality function, pd, personality pathology",31,2024
+51,"disclosure, disclose, delay, tell, csa",13,2024
+52,"selfesteem, rosenberg, rosenberg selfesteem, momentary, subjective social",24,2024
+53,"adverse event, growth, trajectory, latinx, probability",18,2024
+54,"veteran, military, military veteran, combat, military service",14,2024
+55,"psychotherapy, chronic depression, rumination, cea, relationship depression",25,2024
+56,"polyvictimization, victimization experience, lifetime victimization, shyness, type victimization",11,2024
+57,"young people, people experience, conversation, app, aboriginal",28,2024
+58,"inflammation, il, inflammatory, crp, immune",17,2024
+59,"intimate, intimate partner, partner violence, coercive, stalk",24,2024
+60,"disease, cardiovascular, heart, diabetes, lifestyle",21,2024
+61,"subjective wellbeing, satisfaction, subjective, chaos, wellbeing resilience",25,2024
+62,"mindfulness, satisfaction, relationship satisfaction, couple, relationship quality",18,2024
+63,"executive, executive function, work memory, task, memory",14,2024
+64,"csam, material csam, enforcement, user, platform",31,2024
+65,"ct, fep, sz, schizophrenia, psychosis",20,2024
+66,"aud, fasd, drinking, drink, consumption",15,2024
+67,"alexithymia, toronto, toronto alexithymia, somatic, ta",19,2024
+68,"pregnancy, postpartum, teenage pregnancy, teenage, unintended",17,2024
+69,"prevention program, schoolbased, skill, effectiveness, curriculum",23,2024
+70,"heal, ptg, redress, reintegration, narrative",16,2024
+71,"domestic, domestic violence, dv, dementia, highincome",9,2024
+72,"aggression, relational aggression, reactive, aggressive, partner aggression",11,2024
+73,"caregiver, srh, caregiverchild, caregiver support, avoidance",14,2024
+74,"infant, motherinfant, maternal, mother, postpartum",15,2024
+75,"family function, family origin, leisure, origin, transgression",20,2024
+76,"narrative, story, embody, choice, limb",15,2024
+77,"aor ci, aor, ci aor, elimination, ethiopia",16,2024
+78,"selfcompassion, compassion, shame, forgiveness, selfcriticism",14,2024
+79,"latent profile, latent, morning, distinct profile, profile identify",23,2024
+80,"date violence, perpetration, victimization perpetration, sexism, violence perpetration",7,2024
+81,"maternity, mistreatment, childbirth, obstetric, respectful",11,2024
+82,"cptsd, ptsd cptsd, complex posttraumatic, icd, dso",19,2024
+83,"psilocybin, nonresponse, displacement, care need, module",16,2024
+84,"thickness, matter, cortical thickness, cortical, white matter",9,2024
+85,"men woman, prescription, gay, cv, injustice",14,2024
+86,"selfharm, harm, selfharm suicide, quality anxiety, deliberate",12,2024
+87,"schizophrenia, oxytocin, social functioning, plasma oxytocin, psychotic",11,2024
+88,"node, network structure, bridge, ela, bodily",17,2024
+89,"bully, bullying, bully victimization, cyber bully, skin",14,2024
+90,"gut, microbiome, composition, axis, mouse",15,2024
+91,"workplace, nurse, healthcare, healthcare worker, worker",17,2024
+92,"genetic, polygenic, polymorphism, genotype, gene",9,2024
+93,"ocd, obsessivecompulsive, obsessive, obsessive compulsive, compulsive",15,2024
+94,"reward, reward sensitivity, task, neural, monetary",14,2024
+95,"sibling, ssa, incest, closeness, victimperpetrator relationship",9,2024
+96,"addiction, internet addiction, internet, game, smartphone",12,2024
+97,"cop style, cop strategy, religious, style, trainee",9,2024
+98,"infection, genital, lesion, sti, rectal",9,2024
+99,"adhd, hyperactivity, deficit hyperactivity, hyperactivity adhd, attentiondeficit",8,2024
+100,"medium, social medium, metoo, news, nonprofit",12,2024
+101,"divorce, parental divorce, selfefficacy, pt, competence",11,2024
+102,"deprivation, threat deprivation, anticipation, confusion, identity",8,2024
+103,"black, racial, white, discrimination, black white",7,2024
+104,"hr ci, hr, schoolchildren, healthcare utilization, bereavement",10,2024
+-1,"ipv, intimate, partner violence, intimate partner, attitude",769,2025
+0,"mouse, rat, el, maternal separation, separation",160,2025
+1,"ace, experience ace, ace exposure, relationship ace, household dysfunction",183,2025
+2,"posttraumatic ptsd, emdr, traumafocused, ptsd severity, tfcbt",87,2025
+3,"csa, csa survivor, experience csa, perpetrator, history csa",59,2025
+4,"ipv, partner violence, intimate partner, intimate, violence ipv",73,2025
+5,"injury, fracture, infant, head, cpa",41,2025
+6,"attachment, attachment style, style, insecure, insecure attachment",70,2025
+7,"covid, pandemic, covid pandemic, lockdown, coronavirus",30,2025
+8,"social work, worker, protection, social worker, professional",53,2025
+9,"offender, offend, criminal, offense, justice",52,2025
+10,"methylation, dna, dna methylation, epigenetic, gene",28,2025
+11,"cortisol, hpa, axis, hpa axis, hair",32,2025
+12,"attempt, suicide attempt, suicidal, ideation, attempt suicide",42,2025
+13,"cm, mdd, history cm, relationship cm, couple",58,2025
+14,"role resilience, family resilience, connordavidson, connordavidson resilience, selfconcept",52,2025
+15,"hiv, live hiv, adherence, syndemic, aid",38,2025
+16,"drug, cannabis, opioid, misuse, substance misuse",32,2025
+17,"nssi, selfinjury, nonsuicidal, nonsuicidal selfinjury, selfinjury nssi",49,2025
+18,"psychosis, fep, psychotic, chr, cannabis",35,2025
+19,"class, latent class, latent, ace, lca",37,2025
+20,"church, catholic, clergy, religious, religion",31,2025
+21,"bpd, borderline, borderline personality, personality bpd, impulsivity",37,2025
+22,"rape, perpetrator, assault, myth, rape myth",32,2025
+23,"mdd, major depressive, depressive mdd, ct, recurrence",32,2025
+24,"interviewer, forensic interview, investigative, forensic, witness",30,2025
+25,"pain, chronic pain, fibromyalgia, catastrophizing, fm",38,2025
+26,"eat, eating, ed, disorder, nervosa",34,2025
+27,"sleep, sleep quality, sleep disturbance, disturbance, sleep duration",28,2025
+28,"connectivity, functional, functional connectivity, restingstate, fc",22,2025
+29,"bd, bipolar, mood, bipolar bd, episode",28,2025
+30,"emotion regulation, dysregulation, emotion dysregulation, regulation strategy, er",39,2025
+31,"suicidal ideation, ideation, suicidal, relationship suicidal, thought",38,2025
+32,"psychometric, internal consistency, internal, consistency, psychometric property",36,2025
+33,"dissociative, dissociation, dissociative experience, identity, dissociative identity",33,2025
+34,"genderbased, genderbased violence, exposure violence, violence exposure, experience violence",29,2025
+35,"disability, intellectual, intellectual disability, sexuality, developmental disability",23,2025
+36,"imagebased, nonconsensual, image, revenge, pornography",41,2025
+37,"parentchild, parentchild relationship, parenting, parentchild interaction, attribution",30,2025
+38,"sport, athlete, coach, safeguard, harassment",28,2025
+39,"mother, intergenerational, intergenerational transmission, transmission, maternal",12,2025
+40,"depression anxiety, anxiety depression, leftbehind, trait anxiety, anxiety sensitivity",21,2025
+41,"externalize, internalize, internalize externalize, externalize problem, internalize problem",27,2025
+42,"college, college student, student experience, nursing student, nursing",32,2025
+43,"traumainformed, traumainformed care, sense, implementation, safety",33,2025
+44,"elder, mistreatment, financial, elderly, dementia",17,2025
+45,"outofhome, outofhome care, foster, foster care, placement",27,2025
+46,"perceive social, support depressive, role social, buffer, support social",31,2025
+47,"memory, false, autobiographical, autobiographical memory, recall",26,2025
+48,"teacher, educator, parent teacher, communication, csa",28,2025
+49,"reproductive, premenstrual, woman experience, mate, woman reproductive",24,2025
+50,"trait, personality trait, personality pathology, pathology, personality function",24,2025
+51,"disclosure, disclose, csa, reaction, recipient",24,2025
+52,"selfesteem, aversion, happiness, perfectionism, rosenberg",27,2025
+53,"mortality, event adulthood, music, dementia, growth",21,2025
+54,"veteran, military, combat, military veteran, military service",14,2025
+55,"psychotherapy, antidepressant, relationship depression, severe depression, treatmentresistant",25,2025
+56,"polyvictimization, cyberbullying victimization, minority, cyberbullying, form victimization",22,2025
+57,"young people, advisory, app, engagement, advertisement",18,2025
+58,"inflammation, il, inflammatory, immune, marker",18,2025
+59,"intimate, intimate partner, partner violence, freedom, south",12,2025
+60,"disease, cardiovascular, diabetes, cardiovascular disease, hr",18,2025
+61,"subjective wellbeing, subjective, relational need, satisfaction, financial",31,2025
+62,"mindfulness, satisfaction, couple, relationship satisfaction, romantic",24,2025
+63,"executive, executive function, ef, performance, deficit",20,2025
+64,"csam, material csam, technology, enforcement, law",26,2025
+65,"ct, schizophrenia, relationship ct, psychosis, lifestyle",27,2025
+66,"aud, hazardous alcohol, hazardous, drinking, drink",20,2025
+67,"alexithymia, toronto, toronto alexithymia, overt, somatic",20,2025
+68,"pregnancy, postpartum, ppd, unintended pregnancy, unintended",12,2025
+69,"prevention program, schoolbased, skill, implementation, safety",15,2025
+70,"ptg, inquiry, selfconcept, torture, digital",19,2025
+71,"domestic, domestic violence, dv, text, witness",22,2025
+72,"aggression, aggressive, ear, reactive, proactive",20,2025
+73,"caregiver, anticipatory, change family, caregiver experience, family relationship",15,2025
+74,"infant, maternal, motherinfant, mother, postpartum",14,2025
+75,"family member, family cohesion, cohesion, grandparent, family relationship",18,2025
+76,"psychoanalysis, narrative, masson, film, unconscious",15,2025
+77,"aor, aor ci, ethiopia, ci aor, adjust aor",24,2025
+78,"selfcompassion, compassion, gratitude, mindfulness, shame",21,2025
+79,"latent profile, latent, distinct profile, fatigue, smartphone",16,2025
+80,"date violence, perpetration, dv, digital, violence perpetration",19,2025
+81,"childbirth, obstetric, maternity, mistreatment, respectful",15,2025
+82,"cptsd, complex posttraumatic, ptsd cptsd, dso, icd",20,2025
+83,"household dysfunction, healthrelated behavior, firm, anxiety adulthood, family function",12,2025
+84,"matter, white matter, gray, gray matter, fa",22,2025
+85,"masculinity, hegemonic, men woman, homosexuality, woman men",11,2025
+86,"selfharm, harm, selfharm suicide, ideation, attempt",20,2025
+87,"schizophrenia, schizophrenia spectrum, social functioning, spectrum, psychosis",15,2025
+88,"node, bridge, central, network structure, centrality",28,2025
+89,"bully, bullying, bully victimization, peer bully, moral disengagement",15,2025
+90,"gut, ibs, microbiome, bowel, irritable bowel",16,2025
+91,"workplace, nurse, healthcare, occupational, verbal",21,2025
+92,"genetic, environmental, gene, genotype, genetic environmental",10,2025
+93,"ocd, obsessivecompulsive, tom, ritual, compulsion",11,2025
+94,"reward, decisionmaking, processing, task, ofc",8,2025
+95,"sibling, ssa, incest, psb, professional",16,2025
+96,"addiction, internet addiction, internet, game, mobile phone",24,2025
+97,"cop strategy, cop style, style, coping, religious",18,2025
+98,"infection, genital, yearold, lesion, vaginal",15,2025
+99,"adhd, hyperactivity, deficit hyperactivity, hyperactivity adhd, attentiondeficit",16,2025
+100,"medium, social medium, commission, video, discourse",17,2025
+101,"addictive, smartphone, parental education, parental monitoring, divorce",16,2025
+102,"deprivation, threat deprivation, ela, dimensional, unpredictability",20,2025
+103,"black, racial, racial discrimination, discrimination, white",12,2025
+104,"intercourse, discontinuation, hr ci, hr, ci ci",9,2025
+-1,"cp, attitude, trajectory, helpseeking, loneliness",88,2026
+0,"maternal separation, separation, rat, mouse, earlylife",11,2026
+1,"ace, experience ace, ctes, aceq, relationship ace",20,2026
+2,"emdr, combat, eye movement, eye, desensitization",4,2026
+3,"csa, assertiveness, perpetrator, history csa, allege",9,2026
+4,"ipv, intimate, partner violence, intimate partner, ipv victimization",7,2026
+5,"injury, skeletal, flag, red, burn",7,2026
+6,"paranoid, defense, defense mechanism, thinking, think",1,2026
+7,"covid, pandemic, covid pandemic, pastyear, cope",4,2026
+8,"social work, street, social worker, training need, worker",6,2026
+9,"offender, offend, justice, criminal, offense",12,2026
+10,"methylation, preterm, epigenetic, dna, dna methylation",4,2026
+11,"cortisol, hpa, axis, hair, hpa axis",5,2026
+12,"attempt, suicide attempt, rejection, ideation, suicidal",4,2026
+13,"cm, productivity, cost, pces, sud",7,2026
+14,"personnel, compassion, burnout, professional, compassion satisfaction",2,2026
+15,"hiv, south africa, africa, woman hiv, south",1,2026
+16,"latinx, stigma, drug, maladjustment, polysubstance",6,2026
+17,"nssi, selfinjury, nonsuicidal, nonsuicidal selfinjury, selfinjury nssi",8,2026
+18,"psychosis, need care, parietal, fep, firstepisode psychosis",4,2026
+19,"class, latent class, latent, traumarelated psychopathology, subgroup",4,2026
+20,"church, catholic, clergy, religious, power",4,2026
+21,"bpd, borderline personality, borderline, asd, impulsivity",3,2026
+22,"rape, noncontact, perpetrator, victimsurvivors, mock",5,2026
+23,"mdd, major depressive, putamen, depressive mdd, fc",10,2026
+24,"interviewer, reluctance, investigative, protocol, forensic interview",6,2026
+25,"pain, chronic pain, pelvic pain, pelvic, sensitization",4,2026
+26,"eat, ed, compulsivity, eating, nervosa",5,2026
+27,"sleep, sleep quality, sleep problem, distant, negative event",3,2026
+28,"connectivity, functional connectivity, functional, restingstate, salience network",2,2026
+29,"bd, bipolar, mdd bd, mdd, wm",2,2026
+30,"emotion regulation, emotion dysregulation, dysregulation, regulation difficulty, trait anger",4,2026
+31,"suicidal ideation, ideation, suicidal, nightmare, anhedonia",6,2026
+32,"polyvictimization, consistency, internal consistency, ctq, internal",3,2026
+33,"dissociation, dissociative, delusion, hallucination, intrusion",6,2026
+34,"inclusivity, sensitive topic, interview young, marginalize, family violence",1,2026
+35,"disability, intellectual disability, intellectual, tip, learn disability",3,2026
+36,"imagebased, image, nonconsensual, bystander, revenge",10,2026
+37,"social desirability, desirability, leader, ptss, distress posttraumatic",3,2026
+38,"sport, athlete, coach, harassment, sham",7,2026
+39,"mother, intergenerational continuity, continuity, intergenerational, asylum",4,2026
+40,"anxiety depression, bis, iu, intolerance uncertainty, intolerance",2,2026
+41,"internalize, internalize problem, externalize, externalize problem, posttraumatic cognition",4,2026
+42,"career, latine, friendship quality, friendship, college",6,2026
+43,"traumainformed, traumainformed care, religion, integrative, residential",3,2026
+44,"elder, ed, elderly, mistreatment, montreal",2,2026
+45,"placement, foster care, foster, cardiovascular, instability",3,2026
+46,"posttraumatic growth, lung, support cop, perceive social, growth",3,2026
+47,"memory, accuracy, autobiographical, autobiographical memory, cluster",3,2026
+48,"teacher, arab, external, parent teacher, learner",2,2026
+49,"border, young woman, criminal, experience young, spiral",3,2026
+50,"guilt, em, mat, trait, epistemic",2,2026
+51,"disclosure, institutional, disclose, disclose experience, witness",3,2026
+52,"selfesteem, esteem, eta, desire, dyadic",2,2026
+53,"social welfare, longterm social, dependence, welfare, partly mediate",1,2026
+54,"military, veteran, military service, combat, lifetime history",4,2026
+55,"healthy lifestyle, psychoticism, lifestyle, depression later, relationship depression",3,2026
+56,"violent victimization, victimization substance, substance misuse, violent, misuse",2,2026
+57,"young people, gamble, cse, educator, police",5,2026
+58,"il, ambivalence, inflammation, interleukin, endocannabinoid",3,2026
+59,"intimate, ipa, intimate partner, partner violence, violence perpetration",3,2026
+60,"disease, gastrointestinal, mortality, allcause mortality, hr ci",3,2026
+61,"heavy, authentic, leadership, coach, competition",6,2026
+62,"couple, mindfulness, touch, relationship quality, satisfaction",4,2026
+63,"executive, executive function, rumination, speed, midlife",2,2026
+64,"csam, material csam, platform, digital, preference",3,2026
+65,"ct, maladaptive, offspring, parental attachment, interoception",2,2026
+66,"aud, drinking, alcohol dependence, sri lanka, lanka",4,2026
+67,"alexithymia, facet, difficulty identify, identify feeling, ders",3,2026
+69,"schoolbased, prevention program, cse, attitude behavior, quasiexperimental",2,2026
+70,"holocaust, immigrant, heal, israel, ni",3,2026
+71,"domestic, domestic violence, witness domestic, depressive strong, difference statistically",1,2026
+72,"aggression, forensic psychiatry, distortion, psychiatry, precuneus",2,2026
+73,"caregiver, caregiver support, conjoint, pt, dosage",7,2026
+74,"infant, maternal, temperament, oscillation, maternal distress",2,2026
+75,"rkiye, relationship family, neglectful, identity, power",2,2026
+76,"gaslighting, book, writing, write, picture",4,2026
+77,"aor ci, aor, seizure, report history, private",1,2026
+78,"selfcompassion, surgery, marital quality, acceptance, marital",4,2026
+79,"latent profile, latent, social competence, profile identify, distinct profile",4,2026
+80,"date violence, perpetration, dv, iv, victimization perpetration",2,2026
+82,"cptsd, serious illness, smi, class, ptsd cptsd",1,2026
+83,"audit, psychosis, different setting, support adverse, least adverse",1,2026
+84,"internalize, cortical, internalize psychopathology, cortical thickness, thickness",1,2026
+85,"seek support, experience harm, preference, men experience, harm",2,2026
+86,"selfharm, digital, explanation, dark triad, triad",3,2026
+87,"schizophrenia, sz, schizotypal, schizophrenia spectrum, severity positive",2,2026
+88,"negative state, paranoid, rejection sensitivity, rejection, comorbid anxiety",2,2026
+89,"bully, sz, bp, pfdr, hc",1,2026
+90,"ibs, hypersensitivity, sn, visceral, sympathetic",1,2026
+91,"nurse, negative cop, shift, workplace, univariate",1,2026
+93,"ocd, contamination, obsessivecompulsive, sle, sad",2,2026
+94,"sensory, sensory processing, processing, sensory process, chart",1,2026
+95,"sibling, incest, twin, ssa, strain",6,2026
+96,"addiction, internet addiction, internet, dysregulation depression, game",2,2026
+97,"cop style, cop strategy, style, medication, shame",4,2026
+99,"adhd, se, hyperactivity, attentiondeficit, attentiondeficit hyperactivity",2,2026
+100,"medium, taboo, news, social medium, discourse",2,2026
+101,"stranger, danger, teach, independence, balance",1,2026
+102,"deprivation, material deprivation, worry, depression link, complete semistructured",1,2026
+103,"black, racial, race, native, white",3,2026

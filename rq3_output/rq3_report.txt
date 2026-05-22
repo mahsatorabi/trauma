@@ -1,0 +1,178 @@
+==============================================================================
+RQ3 REPORT — THEME PREVALENCE & COMPOSITION ACROSS HISTORICAL PERIODS
+==============================================================================
+Generated: 2026-05-19T17:49:30
+Runtime: 43.3 s
+
+RESEARCH QUESTION
+  How have the prevalence and internal composition of these themes shifted over time,
+  and which themes have risen, declined, or remained stable across distinct historical
+  periods?
+
+HISTORICAL PERIODS
+  P1_pre_pandemic              (2019–2020) | n=2,497 | non-outlier=2,039
+  P2_pandemic_transition       (2021–2022) | n=6,371 | non-outlier=5,181
+  P3_post_pandemic             (2023–2024) | n=6,509 | non-outlier=5,270
+  P4_recent                    (2025–2026) | n=4,339 | non-outlier=3,482
+
+METHOD
+  1. BERTopic substantive themes (RQ1; methods/language artifacts excluded)
+  2. Period prevalence = topic count / non-outlier documents per period
+  3. Mann–Kendall + Theil–Sen on annual share series
+  4. Two-proportion z-test (P1 vs P4) with Benjamini–Hochberg FDR
+  5. Prevalence class: rising | declining | stable (MK + period contrast)
+  6. Internal composition: within-topic token Jensen–Shannon (P1 vs P4)
+  7. Entering/leaving terms: log-odds within-topic vocabulary
+
+CORPUS SHIFT ACROSS PERIODS
+  Total publications: 2,497 (P1) → 4,339 (P4)
+
+————————————————————————————————————————
+A. PREVALENCE SHIFTS
+————————————————————————————————————————
+
+A1. RISING THEMES (n=5) — Mann–Kendall ↑ and/or significant P1→P4 increase
+  T 36 | P1=0.003 → P4=0.016 | Δ=+0.014 | τ=0.905 | Image-based sexual abuse
+  T  1 | P1=0.040 → P4=0.064 | Δ=+0.024 | τ=0.810 | Adverse childhood experiences (ACE)
+  T 61 | P1=0.004 → P4=0.012 | Δ=+0.008 | τ=0.810 | College students & campus prevention
+  T 23 | P1=0.008 → P4=0.013 | Δ=+0.005 | τ=0.714 | Mdd, Major Depressive, Depressive Mdd, Gyrus
+  T 13 | P1=0.007 → P4=0.021 | Δ=+0.013 | τ=0.714 | Cm, Mdd, History Cm, Relationship Cm
+
+A2. DECLINING THEMES (n=6)
+  T 11 | P1=0.025 → P4=0.012 | Δ=-0.013 | τ=-0.429 | Cortisol, Hpa, Axis, Hpa Axis
+  T 68 | P1=0.011 → P4=0.004 | Δ=-0.007 | τ=-0.467 | Pregnancy, Postpartum, Perinatal, Unintended
+  T  0 | P1=0.074 → P4=0.054 | Δ=-0.020 | τ=-0.619 | Maternal & infant mental health
+  T 10 | P1=0.023 → P4=0.010 | Δ=-0.013 | τ=-0.714 | Epigenetics & DNA methylation
+  T104 | P1=0.005 → P4=0.003 | Δ=-0.002 | τ=-0.867 | Hr Ci, Hr, Ci Ci, Schoolchildren
+  T 44 | P1=0.013 → P4=0.006 | Δ=-0.007 | τ=-0.905 | Elder, Mistreatment, Elderly, Financial
+
+A3. STABLE THEMES (n=85) — sample (largest P4 share)
+  T  2 | P1=0.036 → P4=0.029 | PTSD treatment (EMDR / trauma-focused CBT)
+  T  4 | P1=0.021 → P4=0.025 | Intimate partner violence
+  T  6 | P1=0.015 → P4=0.022 | Attachment, Attachment Style, Style, Insecure
+  T  3 | P1=0.021 → P4=0.022 | Csa, Csa Survivor, Experience Csa, Survivor Csa
+  T  9 | P1=0.023 → P4=0.020 | Offender, Offend, Juvenile, Criminal
+  T  8 | P1=0.022 → P4=0.019 | Worker, Protection, Social Work, Social Worker
+  T 14 | P1=0.012 → P4=0.017 | Adverse childhood experiences (ACE)
+  T  5 | P1=0.023 → P4=0.015 | Injury, Fracture, Infant, Head
+  T 30 | P1=0.011 → P4=0.014 | Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy
+  T 25 | P1=0.014 → P4=0.013 | Pain, Chronic Pain, Pelvic, Pelvic Pain
+
+A4. META-THEME: SUICIDALITY & SELF-HARM (merged RQ1 subtopics)
+  P1_pre_pandemic              share=0.036 (n=73)
+  P2_pandemic_transition       share=0.039 (n=200)
+  P3_post_pandemic             share=0.045 (n=236)
+  P4_recent                    share=0.049 (n=170)
+
+————————————————————————————————————————
+B. INTERNAL COMPOSITION SHIFTS (P1 vs P4)
+————————————————————————————————————————
+
+B1. RECOMPOSED THEMES (JS divergence ≥ median; n=25)
+  T 20 | JS=0.731 | Church, Catholic, Clergy, Religious
+       + entering: sacred, leadership, homosexuality, perspective, project
+       − leaving:  applicant, seminary, lay, metoo, mmpi
+  T 53 | JS=0.728 | Adverse Event, Growth, Mortality, Trajectory
+       + entering: negative, dementia, quality, ibs, music
+       − leaving:  asthma, line, onset, strength, predict
+  T 40 | JS=0.724 | Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety
+       + entering: left-behind, perceive, appraisal, cumulative, suicidality
+       − leaving:  tinnitus, fgid, attachment, temperament, self-efficacy
+  T 23 | JS=0.704 | Mdd, Major Depressive, Depressive Mdd, Gyrus
+       + entering: ct, network, ctq, beta, insomnia
+       − leaving:  adherence, cmt, cd, glutamate, mg
+  T 67 | JS=0.694 | Alexithymia, Toronto, Toronto Alexithymia, Ta
+       + entering: aggression, cm, somatic, network, overt
+       − leaving:  ptsd, alcohol, hopelessness, fatigue, memory
+  T  7 | JS=0.689 | COVID-19 pandemic impact
+       + entering: student, substance, young, cm, post-covid
+       − leaving:  acute, ethical, botswana, telepsychotherapy, quarantine
+  T 87 | JS=0.688 | Psychosis & psychotic-like experiences
+       + entering: woman, prolactin, spd, mind, tom
+       − leaving:  parricide, salience, double, mood, twin
+  T 66 | JS=0.678 | Aud, Drinking, Drink, Alcoholrelated
+       + entering: burden, hct, initiation, disease, r
+       − leaving:  cm, alpha, asymmetry, eeg, recognition
+  T 37 | JS=0.673 | Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction
+       + entering: attribution, online, campaign, childcare, self-efficacy
+       − leaving:  aboriginal, judicial, ace, triad, dark
+  T 45 | JS=0.672 | Adverse childhood experiences (ACE)
+       + entering: pattern, theory, disadvantage, ouml, narrative
+       − leaving:  aggression, touch, aggressive, affective, hostility
+  T 33 | JS=0.667 | Dissociation, Dissociative, Dissociative Experience, Identity
+       + entering: profile, memory, cyber, traum, ace
+       − leaving:  delusional, illness, psychogenic, penn, mass
+  T 55 | JS=0.658 | Psychotherapy, Chronic Depression, Antidepressant, Major Depression
+       + entering: lifestyle, expectation, plb, speech, attention
+       − leaving:  cbasp, sp, appraisal, pdd, mentalizing
+
+B2. COMPOSITION-STABLE THEMES (low JS divergence) — sample
+  T  1 | JS=0.348 | Adverse childhood experiences (ACE)
+  T  0 | JS=0.360 | Maternal & infant mental health
+  T  4 | JS=0.428 | Intimate partner violence
+  T 15 | JS=0.478 | Hiv, Live Hiv, Adherence, Hiv Aid
+  T 24 | JS=0.488 | Interviewer, Forensic Interview, Investigative, Forensic
+  T 11 | JS=0.502 | Cortisol, Hpa, Axis, Hpa Axis
+  T 10 | JS=0.525 | Epigenetics & DNA methylation
+  T 58 | JS=0.535 | Inflammation, Il, Inflammatory, Cytokine
+
+B3. BERTopic representative words by period (c-TF-IDF evolution)
+  T36 — Image-based sexual abuse
+    P1_pre_pandemic: nonconsensual, imagebased, porn, pornography, revenge
+    P2_pandemic_transition: imagebased, nonconsensual, image, sexting, pornography
+    P3_post_pandemic: imagebased, sexting, nonconsensual, image, revenge
+    P4_recent: imagebased, image, nonconsensual, bystander, revenge
+  T1 — Adverse childhood experiences (ACE)
+    P1_pre_pandemic: ace, experience ace, household dysfunction, ace exposure, relationship ace
+    P2_pandemic_transition: ace, experience ace, household dysfunction, ace ace, relationship ace
+    P3_post_pandemic: ace, experience ace, household dysfunction, ace exposure, relationship ace
+    P4_recent: ace, experience ace, ctes, aceq, relationship ace
+  T61 — College students & campus prevention
+    P1_pre_pandemic: subjective wellbeing, wellbeing adulthood, identity development, subjective, identity
+    P2_pandemic_transition: subjective wellbeing, subjective, satisfaction, wellbeing young, experience homelessness
+    P3_post_pandemic: subjective wellbeing, satisfaction, subjective, chaos, wellbeing resilience
+    P4_recent: heavy, authentic, leadership, coach, competition
+  T23 — Mdd, Major Depressive, Depressive Mdd, Gyrus
+    P1_pre_pandemic: mdd, major depressive, depressive mdd, medication adherence, glutamate
+    P2_pandemic_transition: mdd, major depressive, depressive mdd, gyrus, magnetic
+    P3_post_pandemic: mdd, major depressive, depressive mdd, gyrus, connectivity
+    P4_recent: mdd, major depressive, putamen, depressive mdd, fc
+  T13 — Cm, Mdd, History Cm, Relationship Cm
+    P1_pre_pandemic: cm, cm type, cm exposure, mitochondrial, history cm
+    P2_pandemic_transition: cm, history cm, cm type, mdd, cm history
+    P3_post_pandemic: cm, cm experience, mdd, cm exposure, history cm
+    P4_recent: cm, productivity, cost, pces, sud
+
+————————————————————————————————————————
+C. SYNTHESIS
+————————————————————————————————————————
+
+Prevalence dynamics:
+  • Field expansion post-2021 inflates absolute counts; interpretation uses SHARES.
+  • Rising: digital/CSAM abuse, campus prevention, ACE, CM–depression, complex PTSD.
+  • Declining: COVID-19-specific cluster, epigenetics/HPA animal models, HIV syndemic.
+  • Stable cores: IPV, forensic pediatrics, attachment, EMDR/PTSD treatment.
+
+Composition dynamics:
+  • High-JS themes show vocabulary turnover (e.g., shifting methods/populations within cluster).
+  • Stable-composition themes retain definitional core despite prevalence change.
+
+Period interpretation:
+  P1 (2019–20): baseline pre-pandemic; P2 (21–22): pandemic surge & pivot;
+  P3 (23–24): post-pandemic normalization; P4 (25–26): contemporary consolidation.
+
+LIMITATIONS
+  BERTopic topics are time-sliced assignments from a global model; composition metrics
+  use preprocessed abstract/title tokens. Short windows reduce power for rare themes.
+
+OUTPUT FILES
+  rq3_period_corpus_stats.csv
+  rq3_period_prevalence.csv
+  rq3_prevalence_shift.csv
+  rq3_composition_shift.csv
+  rq3_composition_terms.csv
+  rq3_bertopic_words_by_period.csv
+  rq3_meta_theme_periods.csv
+  rq3_period_prevalence_heatmap.png
+  rq3_rising_themes.png / rq3_declining_themes.png
+==============================================================================

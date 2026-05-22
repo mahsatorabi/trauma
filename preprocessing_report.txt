@@ -1,0 +1,117 @@
+========================================================================
+SCOPUS CHILDHOOD TRAUMA CORPUS — PREPROCESSING REPORT
+========================================================================
+Generated: 2026-05-16T21:11:00
+Input file: data.csv
+Records (after filtering): 19,799
+Runtime: 125.5 seconds
+
+--- RECORD FILTERING (INCOMPLETE TEXT REMOVED) ---
+  Input records: 20,150
+  Removed — empty title: 0
+  Removed — empty abstract: 228
+  Removed — empty keywords (both Author Keywords & Keywords Plus): 181
+  Total removed: 351
+  Records kept: 19,799
+  Rule: keep only records with non-empty title, abstract, and at least one keyword field
+
+--- SEARCH QUERY (SOURCE) ---
+TS=("childhood trauma" OR "childhood maltreatment" OR "childhood adversity" OR "early life stress" OR "childhood abuse" OR "childhood neglect" OR "physical abuse" OR "sexual abuse" OR "emotional abuse" OR "psychological abuse" OR "physical neglect" OR "emotional neglect")
+
+--- TEXT FIELDS COMBINED ---
+  - Article Title: 19,799 non-empty
+  - Abstract: 19,799 non-empty
+  - Author Keywords: 18,082 non-empty
+  - Keywords Plus: 18,696 non-empty
+  Combined column: combined_text (raw) -> preprocessed_text (cleaned)
+
+--- PREPROCESSING STEPS APPLIED ---
+1. Filter: drop records with empty title, abstract, or both keyword fields
+2. Field combination: Article Title + Abstract + Author Keywords + Keywords Plus
+3. Unicode normalization (NFKC)
+4. HTML tag removal (BeautifulSoup)
+5. Lowercasing
+6. URL, email, and DOI pattern removal
+7. Non-alphabetic character removal (hyphens retained for tokenization)
+8. Whitespace normalization
+9. NLTK word_tokenize
+10. Token length filter: keep 2–40 characters
+11. Numeric-only token removal
+12. Stopword removal (NLTK English + manual domain list)
+13. POS-aware WordNet lemmatization
+
+--- STOPWORDS ---
+  NLTK English stopwords: 198
+  Manual stopwords: 328
+  Total unique stopwords: 543
+  Exported list: all_stopwords_used.txt
+
+--- CORPUS STATISTICS ---
+  Empty combined_text: 0
+  Empty preprocessed_text: 0
+  Mean tokens per document: 119.0
+  Median tokens per document: 115
+  Min tokens: 12
+  Max tokens: 892
+  Total tokens (corpus): 2,356,007
+  Unique lemmas (corpus): 63,140
+
+--- TOP 30 UNIGRAMS (after preprocessing) ---
+  experience                  27,528
+  violence                    17,707
+  depression                  14,624
+  woman                       13,544
+  relationship                12,295
+  social                      12,278
+  ace                         10,261
+  exposure                     9,511
+  anxiety                      8,700
+  support                      8,683
+  examine                      8,550
+  impact                       8,159
+  adverse                      8,146
+  ptsd                         7,884
+  family                       7,753
+  role                         6,917
+  history                      6,888
+  depressive                   6,791
+  ci                           6,672
+  care                         6,664
+  identify                     6,453
+  parent                       6,391
+  need                         5,659
+  young                        5,659
+  problem                      5,615
+  development                  5,598
+  suggest                      5,510
+  student                      5,445
+  mediate                      5,384
+  partner                      5,372
+
+--- TOP 20 BIGRAMS ---
+  adverse experience                   6,237
+  intimate partner                     3,556
+  partner violence                     3,421
+  social support                       2,583
+  emotion regulation                   2,185
+  suicidal ideation                    1,975
+  domestic violence                    1,911
+  logistic regression                  1,887
+  experience ace                       1,815
+  depression anxiety                   1,811
+  suicide attempt                      1,392
+  college student                      1,288
+  major depressive                     1,286
+  mediate role                         1,188
+  maternal separation                  1,142
+  anxiety depression                   1,135
+  aor ci                               1,094
+  young people                         1,045
+  borderline personality                 975
+  mediate relationship                   926
+
+--- OUTPUT FILES ---
+  data_preprocessed.csv — full metadata + combined/preprocessed text
+  data_preprocessed_tokens.csv — UT ID + preprocessed text + token list (compact)
+  preprocessing_stats.json — machine-readable summary statistics
+========================================================================

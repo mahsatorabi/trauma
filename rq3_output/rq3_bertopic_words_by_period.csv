@@ -1,0 +1,421 @@
+topic,period,representative_words,mean_frequency
+0,P1_pre_pandemic,"rat, maternal separation, mouse, separation, expression",141.0
+0,P2_pandemic_transition,"rat, mouse, maternal separation, el, separation",143.5
+0,P3_post_pandemic,"mouse, el, rat, maternal separation, separation",122.0
+0,P4_recent,"maternal separation, separation, rat, mouse, earlylife",85.5
+1,P1_pre_pandemic,"ace, experience ace, household dysfunction, ace exposure, relationship ace",76.0
+1,P2_pandemic_transition,"ace, experience ace, household dysfunction, ace ace, relationship ace",104.5
+1,P3_post_pandemic,"ace, experience ace, household dysfunction, ace exposure, relationship ace",135.0
+1,P4_recent,"ace, experience ace, ctes, aceq, relationship ace",101.5
+2,P1_pre_pandemic,"emdr, posttraumatic ptsd, traumafocused, tfcbt, ptsd severity",68.0
+2,P2_pandemic_transition,"emdr, posttraumatic ptsd, traumafocused, randomize, ptsd depression",78.0
+2,P3_post_pandemic,"emdr, traumafocused, posttraumatic ptsd, tfcbt, psychotherapy",63.5
+2,P4_recent,"emdr, combat, eye movement, eye, desensitization",45.5
+3,P1_pre_pandemic,"csa, csa survivor, history csa, survivor csa, experience csa",40.0
+3,P2_pandemic_transition,"csa, experience csa, csa survivor, survivor csa, peritraumatic",61.0
+3,P3_post_pandemic,"csa, csa survivor, survivor csa, experience csa, perpetrator",58.5
+3,P4_recent,"csa, assertiveness, perpetrator, history csa, allege",34.0
+4,P1_pre_pandemic,"ipv, intimate partner, intimate, partner violence, violence ipv",40.0
+4,P2_pandemic_transition,"ipv, intimate partner, intimate, partner violence, violence ipv",53.5
+4,P3_post_pandemic,"ipv, intimate partner, intimate, partner violence, violence ipv",48.0
+4,P4_recent,"ipv, intimate, partner violence, intimate partner, ipv victimization",40.0
+5,P1_pre_pandemic,"injury, fracture, head, infant, pediatric",44.0
+5,P2_pandemic_transition,"injury, fracture, infant, skeletal, head",56.0
+5,P3_post_pandemic,"injury, fracture, head, infant, pediatric",54.5
+5,P4_recent,"injury, skeletal, flag, red, burn",24.0
+6,P1_pre_pandemic,"attachment, attachment style, insecure, style, insecure attachment",29.0
+6,P2_pandemic_transition,"attachment, attachment style, style, insecure, insecure attachment",48.5
+6,P3_post_pandemic,"attachment, insecure, attachment style, style, insecure attachment",54.5
+6,P4_recent,"paranoid, defense, defense mechanism, thinking, think",35.5
+7,P1_pre_pandemic,"covid, pandemic, covid pandemic, coronavirus, lockdown",17.0
+7,P2_pandemic_transition,"covid, pandemic, covid pandemic, lockdown, impact covid",55.0
+7,P3_post_pandemic,"covid, pandemic, covid pandemic, lockdown, pandemicrelated",54.5
+7,P4_recent,"covid, pandemic, covid pandemic, pastyear, cope",17.0
+8,P1_pre_pandemic,"worker, protection, migrant, social work, professional",41.0
+8,P2_pandemic_transition,"worker, protection, decision, social worker, barrier",37.5
+8,P3_post_pandemic,"worker, social worker, social work, welfare, protection",45.5
+8,P4_recent,"social work, street, social worker, training need, worker",29.5
+9,P1_pre_pandemic,"offender, offend, juvenile, crime, justice",43.0
+9,P2_pandemic_transition,"offender, crime, criminal, offend, juvenile",42.0
+9,P3_post_pandemic,"offender, offend, juvenile, offense, crime",37.5
+9,P4_recent,"offender, offend, justice, criminal, offense",32.0
+10,P1_pre_pandemic,"methylation, dna, dna methylation, gene, epigenetic",43.0
+10,P2_pandemic_transition,"methylation, dna, dna methylation, epigenetic, gene",47.0
+10,P3_post_pandemic,"methylation, dna, dna methylation, epigenetic, gene",39.0
+10,P4_recent,"methylation, preterm, epigenetic, dna, dna methylation",16.0
+11,P1_pre_pandemic,"cortisol, hpa, axis, hpa axis, hair",47.0
+11,P2_pandemic_transition,"cortisol, hpa, axis, hpa axis, diurnal",45.0
+11,P3_post_pandemic,"cortisol, hpa, axis, hpa axis, hair",34.5
+11,P4_recent,"cortisol, hpa, axis, hair, hpa axis",18.5
+12,P1_pre_pandemic,"attempt, suicide attempt, suicidal, attempt suicide, ideation",34.0
+12,P2_pandemic_transition,"attempt, suicide attempt, suicidal, ideation, attempt suicide",43.5
+12,P3_post_pandemic,"attempt, suicide attempt, suicidal, ideation, attempt suicide",36.5
+12,P4_recent,"attempt, suicide attempt, rejection, ideation, suicidal",23.0
+13,P1_pre_pandemic,"cm, cm type, cm exposure, mitochondrial, history cm",14.0
+13,P2_pandemic_transition,"cm, history cm, cm type, mdd, cm history",26.0
+13,P3_post_pandemic,"cm, cm experience, mdd, cm exposure, history cm",48.0
+13,P4_recent,"cm, productivity, cost, pces, sud",32.5
+14,P1_pre_pandemic,"role resilience, breakup, trait, connordavidson, connordavidson resilience",23.0
+14,P2_pandemic_transition,"cdrisc, resilience depression, role resilience, connordavidson, connordavidson resilience",39.5
+14,P3_post_pandemic,"role resilience, family resilience, resilience depression, connordavidson, connordavidson resilience",31.0
+14,P4_recent,"personnel, compassion, burnout, professional, compassion satisfaction",27.0
+15,P1_pre_pandemic,"hiv, msm, infection, syndemic, adherence",35.0
+15,P2_pandemic_transition,"hiv, live hiv, hiv aid, aid, msm",35.0
+15,P3_post_pandemic,"hiv, live hiv, hiv aid, infection, aid",31.5
+15,P4_recent,"hiv, south africa, africa, woman hiv, south",19.5
+16,P1_pre_pandemic,"drug, opioid, misuse, cannabis, recovery",35.0
+16,P2_pandemic_transition,"drug, sud, cannabis, opioid, marijuana",35.5
+16,P3_post_pandemic,"drug, cannabis, opioid, misuse, psychoactive substance",30.0
+16,P4_recent,"latinx, stigma, drug, maladjustment, polysubstance",19.0
+17,P1_pre_pandemic,"nssi, selfinjury, nonsuicidal, nonsuicidal selfinjury, selfinjury nssi",15.0
+17,P2_pandemic_transition,"nssi, selfinjury, nonsuicidal, nonsuicidal selfinjury, selfinjury nssi",20.0
+17,P3_post_pandemic,"nssi, selfinjury, nonsuicidal, nonsuicidal selfinjury, selfinjury nssi",43.5
+17,P4_recent,"nssi, selfinjury, nonsuicidal, nonsuicidal selfinjury, selfinjury nssi",28.5
+18,P1_pre_pandemic,"psychosis, psychotic, fep, firstepisode psychosis, hallucination",32.0
+18,P2_pandemic_transition,"psychosis, psychotic, chr, fep, schizophrenia",31.5
+18,P3_post_pandemic,"psychosis, psychotic, hallucination, fep, premorbid",31.5
+18,P4_recent,"psychosis, need care, parietal, fep, firstepisode psychosis",19.5
+19,P1_pre_pandemic,"class, latent class, latent, lca, ace",25.0
+19,P2_pandemic_transition,"class, latent class, latent, lca, ace",30.5
+19,P3_post_pandemic,"class, latent class, latent, ace, membership",34.0
+19,P4_recent,"class, latent class, latent, traumarelated psychopathology, subgroup",20.5
+20,P1_pre_pandemic,"church, catholic, clergy, religious, crisis",21.0
+20,P2_pandemic_transition,"church, catholic, clergy, religious, spiritual",40.0
+20,P3_post_pandemic,"church, catholic, religious, clergy, religion",29.0
+20,P4_recent,"church, catholic, clergy, religious, power",17.5
+21,P1_pre_pandemic,"bpd, borderline, borderline personality, personality bpd, facial",29.0
+21,P2_pandemic_transition,"bpd, borderline, borderline personality, personality bpd, trait",30.5
+21,P3_post_pandemic,"bpd, borderline personality, borderline, personality bpd, personality feature",30.5
+21,P4_recent,"bpd, borderline personality, borderline, asd, impulsivity",20.0
+22,P1_pre_pandemic,"rape, assault, perpetrator, myth, assault victim",28.0
+22,P2_pandemic_transition,"rape, rape myth, assault, myth, perpetrator",35.0
+22,P3_post_pandemic,"rape, myth, rape myth, perpetrator, assault",26.0
+22,P4_recent,"rape, noncontact, perpetrator, victimsurvivors, mock",18.5
+23,P1_pre_pandemic,"mdd, major depressive, depressive mdd, medication adherence, glutamate",15.0
+23,P2_pandemic_transition,"mdd, major depressive, depressive mdd, gyrus, magnetic",25.5
+23,P3_post_pandemic,"mdd, major depressive, depressive mdd, gyrus, connectivity",39.0
+23,P4_recent,"mdd, major depressive, putamen, depressive mdd, fc",21.0
+24,P1_pre_pandemic,"interviewer, forensic interview, forensic, investigative, allege",30.0
+24,P2_pandemic_transition,"interviewer, forensic interview, forensic, investigative, police",31.0
+24,P3_post_pandemic,"interviewer, forensic interview, investigative, forensic, rapport",28.5
+24,P4_recent,"interviewer, reluctance, investigative, protocol, forensic interview",18.0
+25,P1_pre_pandemic,"pain, chronic pain, opioid, fibromyalgia, sensitization",26.0
+25,P2_pandemic_transition,"pain, chronic pain, pelvic, fm, pelvic pain",27.0
+25,P3_post_pandemic,"pain, chronic pain, fibromyalgia, fm, pelvic",30.5
+25,P4_recent,"pain, chronic pain, pelvic pain, pelvic, sensitization",21.0
+26,P1_pre_pandemic,"eat, ed, nervosa, eating, binge",19.0
+26,P2_pandemic_transition,"eat, binge eat, binge, ed, nervosa",30.0
+26,P3_post_pandemic,"eat, ed, nervosa, eating, anorexia",30.5
+26,P4_recent,"eat, ed, compulsivity, eating, nervosa",19.5
+27,P1_pre_pandemic,"sleep, sleep quality, sleep disturbance, disturbance, sleep problem",18.0
+27,P2_pandemic_transition,"sleep, sleep quality, sleep disturbance, disturbance, insomnia",28.0
+27,P3_post_pandemic,"sleep, sleep quality, sleep disturbance, disturbance, sleep problem",32.5
+27,P4_recent,"sleep, sleep quality, sleep problem, distant, negative event",15.5
+28,P1_pre_pandemic,"connectivity, functional, functional connectivity, amygdala, cortex",24.0
+28,P2_pandemic_transition,"connectivity, functional, functional connectivity, amygdala, restingstate",30.0
+28,P3_post_pandemic,"connectivity, functional, functional connectivity, restingstate, fc",29.5
+28,P4_recent,"connectivity, functional connectivity, functional, restingstate, salience network",12.0
+29,P1_pre_pandemic,"bd, bipolar, mood, bipolar bd, episode",24.0
+29,P2_pandemic_transition,"bd, bipolar, mood, bipolar bd, episode",28.5
+29,P3_post_pandemic,"bd, bipolar, bipolar bd, mood, mania",27.0
+29,P4_recent,"bd, bipolar, mdd bd, mdd, wm",15.0
+30,P1_pre_pandemic,"emotion regulation, emotion dysregulation, dysregulation, difficulty emotion, regulation difficulty",20.0
+30,P2_pandemic_transition,"emotion regulation, emotion dysregulation, dysregulation, regulation strategy, suppression",24.5
+30,P3_post_pandemic,"emotion regulation, emotion dysregulation, dysregulation, difficulty emotion, er",26.5
+30,P4_recent,"emotion regulation, emotion dysregulation, dysregulation, regulation difficulty, trait anger",21.5
+31,P1_pre_pandemic,"suicidal ideation, suicidal, ideation, suicidal thought, internet addiction",18.0
+31,P2_pandemic_transition,"suicidal ideation, ideation, suicidal, depression suicidal, relationship suicidal",22.0
+31,P3_post_pandemic,"suicidal ideation, ideation, suicidal, relationship suicidal, selfevaluation",25.5
+31,P4_recent,"suicidal ideation, ideation, suicidal, nightmare, anhedonia",22.0
+32,P1_pre_pandemic,"psychometric, psychometric property, property, internal consistency, consistency",22.0
+32,P2_pandemic_transition,"psychometric, psychometric property, property, internal consistency, consistency",23.5
+32,P3_post_pandemic,"ctqsf, psychometric, psychometric property, internal consistency, property",24.0
+32,P4_recent,"polyvictimization, consistency, internal consistency, ctq, internal",19.5
+33,P1_pre_pandemic,"dissociation, dissociative, dissociative experience, somatoform, dissociative identity",17.0
+33,P2_pandemic_transition,"dissociative, dissociation, amnesia, dissociative experience, dissociative identity",23.5
+33,P3_post_pandemic,"dissociation, dissociative, dissociative experience, somatoform, psychotic",21.5
+33,P4_recent,"dissociation, dissociative, delusion, hallucination, intrusion",19.5
+34,P1_pre_pandemic,"violence exposure, experience violence, genderbased, genderbased violence, family violence",18.0
+34,P2_pandemic_transition,"violence exposure, genderbased, genderbased violence, gbv, exposure violence",25.5
+34,P3_post_pandemic,"violence exposure, genderbased, genderbased violence, experience violence, exposure violence",23.5
+34,P4_recent,"inclusivity, sensitive topic, interview young, marginalize, family violence",15.0
+35,P1_pre_pandemic,"disability, intellectual, intellectual disability, sexuality, id",16.0
+35,P2_pandemic_transition,"disability, intellectual, intellectual disability, id, sexuality",25.0
+35,P3_post_pandemic,"disability, intellectual, intellectual disability, sexuality, id",26.0
+35,P4_recent,"disability, intellectual disability, intellectual, tip, learn disability",13.0
+36,P1_pre_pandemic,"nonconsensual, imagebased, porn, pornography, revenge",5.0
+36,P2_pandemic_transition,"imagebased, nonconsensual, image, sexting, pornography",18.5
+36,P3_post_pandemic,"imagebased, sexting, nonconsensual, image, revenge",24.0
+36,P4_recent,"imagebased, image, nonconsensual, bystander, revenge",25.5
+37,P1_pre_pandemic,"parentchild, aboriginal, parenting, caregiver, parentchild interaction",18.0
+37,P2_pandemic_transition,"parentchild, parentchild relationship, mindful, parenting, parentchild interaction",20.5
+37,P3_post_pandemic,"parentchild, foster parent, parenting, parentchild relationship, parentchild interaction",24.0
+37,P4_recent,"social desirability, desirability, leader, ptss, distress posttraumatic",16.5
+38,P1_pre_pandemic,"sport, athlete, coach, leadership, harassment",19.0
+38,P2_pandemic_transition,"sport, athlete, coach, harassment, safeguard",20.5
+38,P3_post_pandemic,"sport, athlete, coach, iv, safeguard",20.5
+38,P4_recent,"sport, athlete, coach, harassment, sham",17.5
+39,P1_pre_pandemic,"mother, maternal, intergenerational, maternal depression, motherchild",14.0
+39,P2_pandemic_transition,"mother, maternal, intergenerational, motherchild, transmission",29.5
+39,P3_post_pandemic,"mother, maternal, intergenerational, transmission, offspring",23.0
+39,P4_recent,"mother, intergenerational continuity, continuity, intergenerational, asylum",8.0
+40,P1_pre_pandemic,"depression anxiety, anxiety depression, negative event, depressive anxiety, recent stressor",21.0
+40,P2_pandemic_transition,"depression anxiety, anxiety depression, trait anxiety, malicious, benign",19.0
+40,P3_post_pandemic,"depression anxiety, anxiety depression, anxiety depressive, migraine, anxiety mood",26.0
+40,P4_recent,"anxiety depression, bis, iu, intolerance uncertainty, intolerance",11.5
+41,P1_pre_pandemic,"externalize, internalize, internalize externalize, externalize problem, internalize problem",19.0
+41,P2_pandemic_transition,"externalize, internalize, internalize externalize, externalize problem, internalize problem",24.0
+41,P3_post_pandemic,"externalize, internalize, internalize externalize, internalize problem, externalize problem",17.5
+41,P4_recent,"internalize, internalize problem, externalize, externalize problem, posttraumatic cognition",15.5
+42,P1_pre_pandemic,"college, college student, title, teach, student experience",17.0
+42,P2_pandemic_transition,"college, college student, faculty, preclinical, vignette",20.5
+42,P3_post_pandemic,"college, college student, intimidation, title, harassment",18.0
+42,P4_recent,"career, latine, friendship quality, friendship, college",19.0
+43,P1_pre_pandemic,"traumainformed, traumainformed care, consumer, classroom, tie",11.0
+43,P2_pandemic_transition,"traumainformed, traumainformed care, staff, principle, yoga",23.5
+43,P3_post_pandemic,"traumainformed, traumainformed care, skill, educator, traumainformed practice",19.0
+43,P4_recent,"traumainformed, traumainformed care, religion, integrative, residential",18.0
+44,P1_pre_pandemic,"elder, elderly, mistreatment, financial, old person",24.0
+44,P2_pandemic_transition,"elder, mistreatment, elderly, financial, dementia",26.0
+44,P3_post_pandemic,"elder, mistreatment, elderly, home, nursing",17.5
+44,P4_recent,"elder, ed, elderly, mistreatment, montreal",9.5
+45,P1_pre_pandemic,"foster, foster care, placement, residential, residential care",19.0
+45,P2_pandemic_transition,"foster, foster care, placement, welfare, outofhome",18.0
+45,P3_post_pandemic,"foster, foster care, outofhome, outofhome care, placement",20.5
+45,P4_recent,"placement, foster care, foster, cardiovascular, instability",15.0
+46,P1_pre_pandemic,"perceive social, support positive, abortion, positive coping, oxytocin",16.0
+46,P2_pandemic_transition,"perceive social, forum, ptes, paranoia, need care",20.0
+46,P3_post_pandemic,"perceive social, role social, appreciation, cm, dream",18.0
+46,P4_recent,"posttraumatic growth, lung, support cop, perceive social, growth",17.0
+47,P1_pre_pandemic,"memory, autobiographical, false, autobiographical memory, intrusive",14.0
+47,P2_pandemic_transition,"memory, false, autobiographical, autobiographical memory, amnesia",22.5
+47,P3_post_pandemic,"memory, false, recover, repress, autobiographical",18.0
+47,P4_recent,"memory, accuracy, autobiographical, autobiographical memory, cluster",14.5
+48,P1_pre_pandemic,"teacher, classroom, climate, knowledge attitude, parent teacher",14.0
+48,P2_pandemic_transition,"teacher, classroom, climate, educator, preschool",18.0
+48,P3_post_pandemic,"teacher, kindergarten, arab, learner, teach",21.0
+48,P4_recent,"teacher, arab, external, parent teacher, learner",15.0
+49,P1_pre_pandemic,"coercion, vaginal, microbiome, choice, automatic thought",12.0
+49,P2_pandemic_transition,"epilepsy, woman experience, transport, involuntary, menopause",20.5
+49,P3_post_pandemic,"shadow, woman experience, family plan, prostitution, theme",20.5
+49,P4_recent,"border, young woman, criminal, experience young, spiral",13.5
+50,P1_pre_pandemic,"trait, personality function, narcissism, narcissistic, pd",13.0
+50,P2_pandemic_transition,"trait, personality trait, personality function, pd, personality pathology",18.5
+50,P3_post_pandemic,"trait, personality trait, personality function, pd, personality pathology",22.0
+50,P4_recent,"guilt, em, mat, trait, epistemic",13.0
+51,P1_pre_pandemic,"disclosure, disclose, tell, csa, delay",18.0
+51,P2_pandemic_transition,"disclosure, disclose, csa, reaction, tell",19.5
+51,P3_post_pandemic,"disclosure, disclose, delay, tell, csa",18.0
+51,P4_recent,"disclosure, institutional, disclose, disclose experience, witness",13.5
+52,P1_pre_pandemic,"selfesteem, depression selfesteem, pride, malicious, benign",13.0
+52,P2_pandemic_transition,"selfesteem, rosenberg, rosenberg selfesteem, cyberbullying, chinese",15.0
+52,P3_post_pandemic,"selfesteem, rosenberg, rosenberg selfesteem, momentary, subjective social",23.5
+52,P4_recent,"selfesteem, esteem, eta, desire, dyadic",14.5
+53,P1_pre_pandemic,"adverse event, asthma, growth, earthquake, trajectory",16.0
+53,P2_pandemic_transition,"disadvantage, poverty, mortality, adverse event, trajectory",19.0
+53,P3_post_pandemic,"adverse event, growth, trajectory, latinx, probability",21.5
+53,P4_recent,"social welfare, longterm social, dependence, welfare, partly mediate",11.0
+54,P1_pre_pandemic,"military, veteran, combat, personnel, deployment",13.0
+54,P2_pandemic_transition,"veteran, military, combat, military service, military veteran",26.5
+54,P3_post_pandemic,"veteran, military, military veteran, combat, military service",17.5
+54,P4_recent,"military, veteran, military service, combat, lifetime history",9.0
+55,P1_pre_pandemic,"psychotherapy, sp, antidepressant, recurrence, major depression",17.0
+55,P2_pandemic_transition,"psychotherapy, rumination, invasive, blend, remission",16.5
+55,P3_post_pandemic,"psychotherapy, chronic depression, rumination, cea, relationship depression",20.5
+55,P4_recent,"healthy lifestyle, psychoticism, lifestyle, depression later, relationship depression",14.0
+56,P1_pre_pandemic,"polyvictimization, type victimization, victimization experience, attractiveness, illicit drug",11.0
+56,P2_pandemic_transition,"polyvictimization, assault, type victimization, revictimization, victimization experience",24.0
+56,P3_post_pandemic,"polyvictimization, victimization experience, lifetime victimization, shyness, type victimization",17.5
+56,P4_recent,"violent victimization, victimization substance, substance misuse, violent, misuse",12.0
+57,P1_pre_pandemic,"young people, masculinity, people experience, qualitative, island",13.0
+57,P2_pandemic_transition,"young people, people experience, autistic, helpseeking, hurt",15.0
+57,P3_post_pandemic,"young people, people experience, conversation, app, aboriginal",26.0
+57,P4_recent,"young people, gamble, cse, educator, police",11.5
+58,P1_pre_pandemic,"inflammation, il, inflammatory, crp, creactive",23.0
+58,P2_pandemic_transition,"il, inflammation, inflammatory, cytokine, crp",19.5
+58,P3_post_pandemic,"inflammation, il, inflammatory, crp, immune",17.0
+58,P4_recent,"il, ambivalence, inflammation, interleukin, endocannabinoid",10.5
+59,P1_pre_pandemic,"intimate partner, partner violence, intimate, economic, violence woman",12.0
+59,P2_pandemic_transition,"intimate partner, intimate, partner violence, economic, dependence",21.0
+59,P3_post_pandemic,"intimate, intimate partner, partner violence, coercive, stalk",23.0
+59,P4_recent,"intimate, ipa, intimate partner, partner violence, violence perpetration",7.5
+60,P1_pre_pandemic,"cardiovascular, disease, cvd, autonomic, cardiovascular disease",13.0
+60,P2_pandemic_transition,"disease, cardiovascular, diabetes, heart, cardiovascular disease",18.0
+60,P3_post_pandemic,"disease, cardiovascular, heart, diabetes, lifestyle",22.0
+60,P4_recent,"disease, gastrointestinal, mortality, allcause mortality, hr ci",10.5
+61,P1_pre_pandemic,"subjective wellbeing, wellbeing adulthood, identity development, subjective, identity",7.0
+61,P2_pandemic_transition,"subjective wellbeing, subjective, satisfaction, wellbeing young, experience homelessness",14.5
+61,P3_post_pandemic,"subjective wellbeing, satisfaction, subjective, chaos, wellbeing resilience",20.5
+61,P4_recent,"heavy, authentic, leadership, coach, competition",18.5
+62,P1_pre_pandemic,"mindfulness, relationship quality, couple, satisfaction, romantic",10.0
+62,P2_pandemic_transition,"mindfulness, relationship satisfaction, satisfaction, relationship quality, couple",17.0
+62,P3_post_pandemic,"mindfulness, satisfaction, relationship satisfaction, couple, relationship quality",20.5
+62,P4_recent,"couple, mindfulness, touch, relationship quality, satisfaction",14.0
+63,P1_pre_pandemic,"executive, executive function, ef, neuropsychological, deficit",21.0
+63,P2_pandemic_transition,"executive, executive function, ef, performance, work memory",18.5
+63,P3_post_pandemic,"executive, executive function, work memory, task, memory",15.0
+63,P4_recent,"executive, executive function, rumination, speed, midlife",11.0
+64,P1_pre_pandemic,"csam, law, law enforcement, enforcement, pornography",11.0
+64,P2_pandemic_transition,"csam, material csam, technology, pornography, investigator",9.5
+64,P3_post_pandemic,"csam, material csam, enforcement, user, platform",24.5
+64,P4_recent,"csam, material csam, platform, digital, preference",14.5
+65,P1_pre_pandemic,"ct, psychosis, god, schizophrenia, religiosity",13.0
+65,P2_pandemic_transition,"ct, relationship ct, block, schizophrenia, antipsychotic",14.0
+65,P3_post_pandemic,"ct, fep, sz, schizophrenia, psychosis",17.5
+65,P4_recent,"ct, maladaptive, offspring, parental attachment, interoception",14.5
+66,P1_pre_pandemic,"aud, alcoholrelated, drink, alcohol misuse, drinking",15.0
+66,P2_pandemic_transition,"drink, drinking, aud, problematic alcohol, alcoholrelated",16.0
+66,P3_post_pandemic,"aud, fasd, drinking, drink, consumption",16.0
+66,P4_recent,"aud, drinking, alcohol dependence, sri lanka, lanka",12.0
+67,P1_pre_pandemic,"alexithymia, toronto, toronto alexithymia, feeling, difficulty identify",17.0
+67,P2_pandemic_transition,"alexithymia, toronto, toronto alexithymia, feeling, subjectively",13.5
+67,P3_post_pandemic,"alexithymia, toronto, toronto alexithymia, somatic, ta",16.5
+67,P4_recent,"alexithymia, facet, difficulty identify, identify feeling, ders",11.5
+68,P1_pre_pandemic,"pregnancy, postpartum, perinatal, unintended, unintended pregnancy",20.0
+68,P2_pandemic_transition,"pregnancy, postpartum, perinatal, pregnant, prenatal",16.0
+68,P3_post_pandemic,"pregnancy, postpartum, teenage pregnancy, teenage, unintended",18.0
+68,P4_recent,"pregnancy, postpartum, ppd, unintended pregnancy, unintended",12.0
+69,P1_pre_pandemic,"prevention program, ge, skill, curriculum, schoolbased",14.0
+69,P2_pandemic_transition,"prevention program, schoolbased, curriculum, safety, skill",14.5
+69,P3_post_pandemic,"prevention program, schoolbased, skill, effectiveness, curriculum",19.0
+69,P4_recent,"schoolbased, prevention program, cse, attitude behavior, quasiexperimental",8.5
+70,P1_pre_pandemic,"ptg, posttraumatic growth, revictimization, growth, assumption",11.0
+70,P2_pandemic_transition,"redress, scheme, experience survivor, heal, intrafamilial",15.0
+70,P3_post_pandemic,"heal, ptg, redress, reintegration, narrative",17.0
+70,P4_recent,"holocaust, immigrant, heal, israel, ni",11.0
+71,P1_pre_pandemic,"domestic, domestic violence, coercive, dv, father",16.0
+71,P2_pandemic_transition,"domestic, domestic violence, dv, victim domestic, witness",18.0
+71,P3_post_pandemic,"domestic, domestic violence, dv, dementia, highincome",11.0
+71,P4_recent,"domestic, domestic violence, witness domestic, depressive strong, difference statistically",11.5
+72,P1_pre_pandemic,"aggression, aggressive, selfcontrol, anger, trait",11.0
+72,P2_pandemic_transition,"aggression, aggressive, cyber, subordinate, fluoxetine",18.5
+72,P3_post_pandemic,"aggression, relational aggression, reactive, aggressive, partner aggression",13.0
+72,P4_recent,"aggression, forensic psychiatry, distortion, psychiatry, precuneus",11.0
+73,P1_pre_pandemic,"caregiver, caregiver support, baby, caregiver experience, anger hostility",9.0
+73,P2_pandemic_transition,"caregiver, caregiver support, caregiver history, caregiver experience, nonoffending",15.5
+73,P3_post_pandemic,"caregiver, srh, caregiverchild, caregiver support, avoidance",16.5
+73,P4_recent,"caregiver, caregiver support, conjoint, pt, dosage",11.0
+74,P1_pre_pandemic,"infant, motherinfant, maternal, mother, postpartum",14.0
+74,P2_pandemic_transition,"infant, motherinfant, maternal, mother, postpartum",17.0
+74,P3_post_pandemic,"infant, motherinfant, maternal, mother, postpartum",15.0
+74,P4_recent,"infant, maternal, temperament, oscillation, maternal distress",8.0
+75,P1_pre_pandemic,"family member, social withdrawal, incest, incarceration, family dynamic",11.0
+75,P2_pandemic_transition,"latinx, family member, academic achievement, family environment, family function",13.0
+75,P3_post_pandemic,"family function, family origin, leisure, origin, transgression",18.5
+75,P4_recent,"rkiye, relationship family, neglectful, identity, power",10.0
+76,P1_pre_pandemic,"writer, character, fiction, transformation, conversation",7.0
+76,P2_pandemic_transition,"narrative, definition, adoption, organisational, epistemic",16.5
+76,P3_post_pandemic,"narrative, story, embody, choice, limb",17.0
+76,P4_recent,"gaslighting, book, writing, write, picture",9.5
+77,P1_pre_pandemic,"aor, aor ci, ethiopia, ci aor, migrant",11.0
+77,P2_pandemic_transition,"aor ci, aor, ci aor, ethiopia, concussion",14.5
+77,P3_post_pandemic,"aor ci, aor, ci aor, elimination, ethiopia",13.0
+77,P4_recent,"aor ci, aor, seizure, report history, private",12.5
+78,P1_pre_pandemic,"selfcompassion, sc, compassion, ptsd alcohol, alcohol misuse",4.0
+78,P2_pandemic_transition,"selfcompassion, shame, selfcriticism, compassion, cyberbullying victimization",15.5
+78,P3_post_pandemic,"selfcompassion, compassion, shame, forgiveness, selfcriticism",15.5
+78,P4_recent,"selfcompassion, surgery, marital quality, acceptance, marital",12.5
+79,P1_pre_pandemic,"latent profile, latent, kinship, cancer, normative",4.0
+79,P2_pandemic_transition,"latent profile, latent, lpa, distinct profile, variant",12.0
+79,P3_post_pandemic,"latent profile, latent, morning, distinct profile, profile identify",21.5
+79,P4_recent,"latent profile, latent, social competence, profile identify, distinct profile",10.0
+80,P1_pre_pandemic,"date violence, perpetration, dv, moral disengagement, violence victimization",15.0
+80,P2_pandemic_transition,"date violence, perpetration, cyber, dv, violence perpetration",15.5
+80,P3_post_pandemic,"date violence, perpetration, victimization perpetration, sexism, violence perpetration",11.0
+80,P4_recent,"date violence, perpetration, dv, iv, victimization perpetration",10.5
+81,P1_pre_pandemic,"childbirth, maternity, respectful, birth, facility",13.0
+81,P2_pandemic_transition,"childbirth, birth, obstetric, maternity, respectful",13.0
+81,P3_post_pandemic,"maternity, mistreatment, childbirth, obstetric, respectful",17.0
+81,P4_recent,"childbirth, obstetric, maternity, mistreatment, respectful",15.0
+82,P1_pre_pandemic,"cptsd, ptsd cptsd, icd, complex ptsd, ptsd complex",7.0
+82,P2_pandemic_transition,"cptsd, icd, ptsd cptsd, complex posttraumatic, dso",13.0
+82,P3_post_pandemic,"cptsd, ptsd cptsd, complex posttraumatic, icd, dso",16.5
+82,P4_recent,"cptsd, serious illness, smi, class, ptsd cptsd",10.5
+83,P1_pre_pandemic,"dementia, experience adverse, complaint, deviant, experience substance",9.0
+83,P2_pandemic_transition,"capital, deviant, human capital, severe anxiety, experience adverse",16.5
+83,P3_post_pandemic,"psilocybin, nonresponse, displacement, care need, module",16.0
+83,P4_recent,"audit, psychosis, different setting, support adverse, least adverse",6.5
+84,P1_pre_pandemic,"cortical, thickness, cortical thickness, matter, insular",13.0
+84,P2_pandemic_transition,"cortical, thickness, cortical thickness, matter, volume",13.0
+84,P3_post_pandemic,"thickness, matter, cortical thickness, cortical, white matter",12.0
+84,P4_recent,"internalize, cortical, internalize psychopathology, cortical thickness, thickness",11.5
+85,P1_pre_pandemic,"homosexual, men woman, gay, msm, nonconsensual",10.0
+85,P2_pandemic_transition,"masculinity, gay men, masochism, debut, gay",17.5
+85,P3_post_pandemic,"men woman, prescription, gay, cv, injustice",13.5
+85,P4_recent,"seek support, experience harm, preference, men experience, harm",6.5
+86,P1_pre_pandemic,"selfharm, deliberate selfharm, deliberate, parental death, criminality",6.0
+86,P2_pandemic_transition,"selfharm, harm, selfharm suicide, attempt, suicide attempt",14.5
+86,P3_post_pandemic,"selfharm, harm, selfharm suicide, quality anxiety, deliberate",12.5
+86,P4_recent,"selfharm, digital, explanation, dark triad, triad",11.5
+87,P1_pre_pandemic,"schizophrenia, schizophrenia spectrum, spectrum, psychosis, severe illness",16.0
+87,P2_pandemic_transition,"schizophrenia, psychotic, psychosis, social functioning, deficit",15.5
+87,P3_post_pandemic,"schizophrenia, oxytocin, social functioning, plasma oxytocin, psychotic",9.5
+87,P4_recent,"schizophrenia, sz, schizotypal, schizophrenia spectrum, severity positive",8.5
+88,P1_pre_pandemic,"node, social network, framing, energy, network approach",7.0
+88,P2_pandemic_transition,"neural network, node, helpseeking, network approach, edge",7.0
+88,P3_post_pandemic,"node, network structure, bridge, ela, bodily",15.5
+88,P4_recent,"negative state, paranoid, rejection sensitivity, rejection, comorbid anxiety",15.0
+89,P1_pre_pandemic,"bully, bullying, bully victimization, workplace, peer bully",12.0
+89,P2_pandemic_transition,"bully, bully victimization, bullying, chr, cyberbullying",11.5
+89,P3_post_pandemic,"bully, bullying, bully victimization, cyber bully, skin",15.5
+89,P4_recent,"bully, sz, bp, pfdr, hc",8.0
+90,P1_pre_pandemic,"gut, ibs, axis, bowel, bowel syndrome",9.0
+90,P2_pandemic_transition,"gut, microbiome, axis, visceral, ibs",14.5
+90,P3_post_pandemic,"gut, microbiome, composition, axis, mouse",13.0
+90,P4_recent,"ibs, hypersensitivity, sn, visceral, sympathetic",8.5
+91,P1_pre_pandemic,"workplace, nurse, healthcare, staff, worker",8.0
+91,P2_pandemic_transition,"nurse, workplace, burnout, healthcare, worker",8.5
+91,P3_post_pandemic,"workplace, nurse, healthcare, healthcare worker, worker",15.5
+91,P4_recent,"nurse, negative cop, shift, workplace, univariate",11.0
+92,P1_pre_pandemic,"genetic, polymorphism, gene, geneenvironment, maoa",16.0
+92,P2_pandemic_transition,"genetic, gene, val, polymorphism, genotype",17.5
+92,P3_post_pandemic,"genetic, polygenic, polymorphism, genotype, gene",8.0
+92,P4_recent,"genetic, environmental, gene, genotype, genetic environmental",10.0
+93,P1_pre_pandemic,"ocd, obsessivecompulsive, obsessive compulsive, obsessive, compulsive",15.0
+93,P2_pandemic_transition,"ocd, obsessivecompulsive, oxtr, thalamic, obsessive compulsive",8.5
+93,P3_post_pandemic,"ocd, obsessivecompulsive, obsessive, obsessive compulsive, compulsive",15.5
+93,P4_recent,"ocd, contamination, obsessivecompulsive, sle, sad",6.5
+94,P1_pre_pandemic,"reward, biological, processing, affective anxiety, externalize",2.0
+94,P2_pandemic_transition,"reward, decisionmaking, striatum, task, reward sensitivity",17.0
+94,P3_post_pandemic,"reward, reward sensitivity, task, neural, monetary",15.0
+94,P4_recent,"sensory, sensory processing, processing, sensory process, chart",4.5
+95,P1_pre_pandemic,"sibling, ssa, chronic disease, cac, incest",5.0
+95,P2_pandemic_transition,"sibling, ssa, incest, intrafamilial, disclosure",11.5
+95,P3_post_pandemic,"sibling, ssa, incest, closeness, victimperpetrator relationship",12.0
+95,P4_recent,"sibling, incest, twin, ssa, strain",11.0
+96,P1_pre_pandemic,"addiction, internet, internet addiction, smartphone, game",6.0
+96,P2_pandemic_transition,"addiction, internet addiction, internet, smartphone, ia",6.0
+96,P3_post_pandemic,"addiction, internet addiction, internet, game, smartphone",14.5
+96,P4_recent,"addiction, internet addiction, internet, dysregulation depression, game",13.0
+97,P1_pre_pandemic,"cop strategy, cop style, style, coping, religious",16.0
+97,P2_pandemic_transition,"cop strategy, cop style, symptomology, religious, style",8.5
+97,P3_post_pandemic,"cop style, cop strategy, religious, style, trainee",9.0
+97,P4_recent,"cop style, cop strategy, style, medication, shame",11.0
+98,P1_pre_pandemic,"vaccination, infection, acquire, genital, rash",7.0
+98,P2_pandemic_transition,"genital, infection, lesion, rare, transmission",13.0
+98,P3_post_pandemic,"infection, genital, lesion, sti, rectal",10.0
+98,P4_recent,"infection, genital, yearold, lesion, vaginal",15.0
+99,P1_pre_pandemic,"adhd, hyperactivity, deficit hyperactivity, attentiondeficit, hyperactivity adhd",9.0
+99,P2_pandemic_transition,"adhd, hyperactivity, attentiondeficit, deficit hyperactivity, attentiondeficit hyperactivity",10.5
+99,P3_post_pandemic,"adhd, hyperactivity, deficit hyperactivity, hyperactivity adhd, attentiondeficit",9.5
+99,P4_recent,"adhd, se, hyperactivity, attentiondeficit, attentiondeficit hyperactivity",9.0
+100,P1_pre_pandemic,"medium, social medium, metoo, sentiment, cyberbullying",3.5
+100,P2_pandemic_transition,"medium, social medium, coverage, metoo, news",10.0
+100,P3_post_pandemic,"medium, social medium, metoo, news, nonprofit",10.5
+100,P4_recent,"medium, taboo, news, social medium, discourse",9.5
+101,P1_pre_pandemic,"job, overprotection, paternal, parental overprotection, parental care",7.0
+101,P2_pandemic_transition,"pa, alienation, parental education, divorce, parental marital",13.0
+101,P3_post_pandemic,"divorce, parental divorce, selfefficacy, pt, competence",8.5
+101,P4_recent,"stranger, danger, teach, independence, balance",8.5
+102,P1_pre_pandemic,"deprivation, ela, threat deprivation, deprivationrelated, pubertal",6.0
+102,P2_pandemic_transition,"deprivation, threat deprivation, deprivation threat, reproductive strategy, dimensional",8.0
+102,P3_post_pandemic,"deprivation, threat deprivation, anticipation, confusion, identity",11.5
+102,P4_recent,"deprivation, material deprivation, worry, depression link, complete semistructured",10.5
+103,P1_pre_pandemic,"racial, african american, black, american, african",10.0
+103,P2_pandemic_transition,"racial, black, racial discrimination, discrimination, american",10.0
+103,P3_post_pandemic,"black, racial, white, discrimination, black white",10.0
+103,P4_recent,"black, racial, race, native, white",7.5
+104,P1_pre_pandemic,"ci ci, mortality, hr ci, migraine, hr",10.0
+104,P2_pandemic_transition,"hr ci, hr, medicaid, ci ci, apr ci",12.0
+104,P3_post_pandemic,"hr ci, hr, schoolchildren, healthcare utilization, bereavement",9.0
+104,P4_recent,"intercourse, discontinuation, hr ci, hr, ci ci",9.0

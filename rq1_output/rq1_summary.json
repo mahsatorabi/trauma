@@ -1,0 +1,84 @@
+{
+  "generated": "2026-05-16T23:01:35",
+  "mode": "reclassify",
+  "n_documents_raw": 19799,
+  "n_documents_english": 19716,
+  "n_removed_non_english": 83,
+  "n_outliers": 3744,
+  "n_substantive_topics": 96,
+  "n_language_artifact_topics": 0,
+  "n_methods_topics": 5,
+  "methods_topic_ids": [
+    19,
+    32,
+    77,
+    79,
+    88
+  ],
+  "suicide_subtopic_ids": [
+    12,
+    17,
+    31,
+    86
+  ],
+  "meta_theme_suicidality": {
+    "meta_theme": "suicidality_self_harm",
+    "source_topics": "12,17,31,86",
+    "tau": 0.7857142857142856,
+    "p_value": 0.005505952380952381,
+    "trend": "increasing",
+    "theil_sen_slope_per_year": 0.004091413827634881,
+    "mean_share": 0.0382761068849239
+  },
+  "embedding_model": "TF-IDF + TruncatedSVD (128d) [offline fallback]",
+  "runtime_seconds": 38.63,
+  "top_increasing_substantive": [
+    {
+      "topic": 36,
+      "display_name": "Image-based sexual abuse",
+      "kendall_tau": 0.9047619047619049
+    },
+    {
+      "topic": 1,
+      "display_name": "Adverse childhood experiences (ACE)",
+      "kendall_tau": 0.8095238095238096
+    },
+    {
+      "topic": 61,
+      "display_name": "College students & campus prevention",
+      "kendall_tau": 0.8095238095238096
+    },
+    {
+      "topic": 13,
+      "display_name": "Cm, Mdd, History Cm, Relationship Cm",
+      "kendall_tau": 0.7142857142857143
+    },
+    {
+      "topic": 23,
+      "display_name": "Mdd, Major Depressive, Depressive Mdd, Gyrus",
+      "kendall_tau": 0.7142857142857143
+    }
+  ],
+  "top_decreasing_substantive": [
+    {
+      "topic": 15,
+      "display_name": "Hiv, Live Hiv, Adherence, Hiv Aid",
+      "kendall_tau": -0.7142857142857143
+    },
+    {
+      "topic": 10,
+      "display_name": "Epigenetics & DNA methylation",
+      "kendall_tau": -0.8095238095238096
+    },
+    {
+      "topic": 104,
+      "display_name": "Hr Ci, Hr, Ci Ci, Schoolchildren",
+      "kendall_tau": -0.8666666666666666
+    },
+    {
+      "topic": 44,
+      "display_name": "Elder, Mistreatment, Elderly, Financial",
+      "kendall_tau": -0.9047619047619049
+    }
+  ]
+}

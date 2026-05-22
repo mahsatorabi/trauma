@@ -1,0 +1,5 @@
+cluster_id,n_terms,internal_cooccurrence,total_cooccurrence,density,centrality,label_terms,quadrant,density_median,centrality_median
+0,176,47256,312010,3.0685714285714285,0.8485433159193616,"abuse, maltreatment, risk, health, experiences, mental-health",motor (mature / central),1.7974413986548479,0.7885780053917782
+1,238,44423,222443,1.5751161223983263,0.8002949070098857,"stress, childhood maltreatment, behavior, early-life stress, adolescence, adversity",emerging / bridging,1.7974413986548479,0.7885780053917782
+2,312,97991,439148,2.0197666749113696,0.7768611037736708,"depression, trauma, childhood trauma, anxiety, symptoms, posttraumatic-stress-disorder",niche (specialized),1.7974413986548479,0.7885780053917782
+3,376,99382,418689,1.4096737588652481,0.7626352734368469,"prevalence, children, sexual-abuse, adolescents, women, violence",underexplored / marginal,1.7974413986548479,0.7885780053917782

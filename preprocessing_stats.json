@@ -1,0 +1,144 @@
+{
+  "generated": "2026-05-16T21:10:59",
+  "input_file": "D:\\Uni of Birjand\\articles\\truma\\data.csv",
+  "filtering": {
+    "input_records": 20150,
+    "removed_empty_title": 0,
+    "removed_empty_abstract": 228,
+    "removed_empty_keywords": 181,
+    "removed_total": 351,
+    "kept_records": 19799
+  },
+  "n_records": 19799,
+  "runtime_seconds": 125.51,
+  "nltk_stopwords": 198,
+  "manual_stopwords": 328,
+  "total_stopwords": 543,
+  "empty_preprocessed": 0,
+  "mean_tokens": 119.0,
+  "median_tokens": 115,
+  "total_tokens": 2356007,
+  "unique_lemmas": 63140,
+  "top_unigrams": [
+    [
+      "experience",
+      27528
+    ],
+    [
+      "violence",
+      17707
+    ],
+    [
+      "depression",
+      14624
+    ],
+    [
+      "woman",
+      13544
+    ],
+    [
+      "relationship",
+      12295
+    ],
+    [
+      "social",
+      12278
+    ],
+    [
+      "ace",
+      10261
+    ],
+    [
+      "exposure",
+      9511
+    ],
+    [
+      "anxiety",
+      8700
+    ],
+    [
+      "support",
+      8683
+    ],
+    [
+      "examine",
+      8550
+    ],
+    [
+      "impact",
+      8159
+    ],
+    [
+      "adverse",
+      8146
+    ],
+    [
+      "ptsd",
+      7884
+    ],
+    [
+      "family",
+      7753
+    ],
+    [
+      "role",
+      6917
+    ],
+    [
+      "history",
+      6888
+    ],
+    [
+      "depressive",
+      6791
+    ],
+    [
+      "ci",
+      6672
+    ],
+    [
+      "care",
+      6664
+    ],
+    [
+      "identify",
+      6453
+    ],
+    [
+      "parent",
+      6391
+    ],
+    [
+      "need",
+      5659
+    ],
+    [
+      "young",
+      5659
+    ],
+    [
+      "problem",
+      5615
+    ],
+    [
+      "development",
+      5598
+    ],
+    [
+      "suggest",
+      5510
+    ],
+    [
+      "student",
+      5445
+    ],
+    [
+      "mediate",
+      5384
+    ],
+    [
+      "partner",
+      5372
+    ]
+  ]
+}

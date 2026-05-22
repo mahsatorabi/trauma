@@ -1,0 +1,181 @@
+==============================================================================
+RQ2 REPORT — EMERGING THEMES, UNDEREXPLORED AREAS & RESEARCH GAPS
+==============================================================================
+Generated: 2026-05-19T17:27:32
+Runtime: 215.8 s
+
+RESEARCH QUESTION
+  What are the emerging research themes, underexplored areas, and potential
+  research gaps in contemporary childhood trauma studies?
+
+CORPUS & SCOPE
+  Source: data_preprocessed.csv (Scopus childhood-trauma query; see preprocessing_report.txt)
+  English-filtered documents: 19,716
+  Years: 2019–2026
+  Contemporary window: 2022–2026 (14,114 papers)
+  Thematic layer: BERTopic substantive topics from RQ1 (quality-controlled)
+
+METHOD (INTEGRATIVE BIBLIOMETRIC–SEMANTOMETRIC MAPPING)
+  1. Co-word analysis on Author Keywords + Keywords Plus (document-level co-occurrence)
+  2. Network pruning: term frequency ≥ 25; Louvain community detection
+  3. Callon strategic diagram — cluster density vs centrality quadrants
+  4. Proportional burst & log-odds: late (2023–2025) vs early (2019–2021) keyword rates
+  5. Mann–Kendall trend on yearly BERTopic shares (substantive topics)
+  6. Research Opportunity Index (ROI): z(growth)+z(acceleration)+z(citations)
+     +z(contemporary share)−z(log volume)
+  7. Gap Score: rewards low volume + growth + contemporary relevance
+  8. Structural hole analysis: betweenness / log(freq) bridging terms
+  9. Domain gap audit: population, method, context, mechanism/intervention lexicons
+
+————————————————————————————————————————
+A. EMERGING RESEARCH THEMES
+————————————————————————————————————————
+
+A1. Fast-growing BERTopic themes (Mann–Kendall increasing, substantive)
+  T 36 | τ=0.905 p=0.0028 | n= 141 | Image-based sexual abuse
+  T 61 | τ=0.810 p=0.0107 | n= 114 | College students & campus prevention
+  T  1 | τ=0.810 p=0.0107 | n= 758 | Adverse childhood experiences (ACE)
+  T 13 | τ=0.714 p=0.0302 | n= 227 | Cm, Mdd, History Cm, Relationship Cm
+  T 23 | τ=0.714 p=0.0302 | n= 186 | Mdd, Major Depressive, Depressive Mdd, Gyrus
+
+A2. Top keyword bursts (proportional burst, 2023–2025 vs 2019–2021)
+  + trauma-informed practice         burst=+3.367 (early=0, late=14)
+  + global health                    burst=+3.296 (early=0, late=13)
+  + lived experience                 burst=+3.296 (early=0, late=13)
+  + meaning in life                  burst=+3.219 (early=0, late=12)
+  + early -life stress               burst=+3.045 (early=0, late=10)
+  + proactive aggression             burst=+3.045 (early=0, late=10)
+  + procedural justice               burst=+3.045 (early=0, late=10)
+  + teenagers                        burst=+2.833 (early=0, late=8)
+  + environmental factors            burst=+2.833 (early=0, late=8)
+  + porn                             burst=+2.833 (early=0, late=8)
+  + youth mental health              burst=+2.833 (early=0, late=8)
+  + cognitive reserve                burst=+2.833 (early=0, late=8)
+  + sensory processing sensitivity   burst=+2.833 (early=0, late=8)
+  + comprehensive sexuality education burst=+2.708 (early=0, late=7)
+  + mental well-being                burst=+2.708 (early=0, late=7)
+
+A3. Strategic-diagram 'emerging/bridging' keyword clusters
+  Cluster 1: stress, childhood maltreatment, behavior, early-life stress, adolescence, adversity
+
+————————————————————————————————————————
+B. UNDEREXPLORED AREAS
+————————————————————————————————————————
+
+B1. Low-volume substantive themes (bottom quartile by document count)
+  T104 | n=  61 | trend=decreasing | Hr Ci, Hr, Ci Ci, Schoolchildren
+  T103 | n=  65 | trend=stable | Adverse childhood experiences (ACE)
+  T102 | n=  66 | trend=stable | Deprivation, Threat Deprivation, Deprivation Threat, Dimensional
+  T 99 | n=  67 | trend=stable | Adhd, Hyperactivity, Deficit Hyperactivity, Attentiondeficit
+  T101 | n=  67 | trend=stable | Divorce, Alienation, Parental Education, Parental Divorce
+  T100 | n=  67 | trend=stable | Medium, Social Medium, Metoo, News
+  T 98 | n=  68 | trend=stable | Infection, Genital, Vaginal, Lesion
+  T 96 | n=  73 | trend=stable | College students & campus prevention
+  T 97 | n=  73 | trend=stable | Cop Strategy, Cop Style, Style, Religious
+  T 95 | n=  74 | trend=stable | Sibling, Ssa, Incest, Intrafamilial
+  T 94 | n=  75 | trend=stable | Reward, Task, Neural, Processing
+  T 93 | n=  76 | trend=stable | Ocd, Obsessivecompulsive, Obsessive Compulsive, Obsessive
+
+B2. 'Underexplored/marginal' keyword clusters (strategic diagram)
+  Cluster 3: prevalence, children, sexual-abuse, adolescents, women, violence
+
+B3. Declining keyword salience (negative burst)
+  − batterers                        burst=-2.565 (early=6, late=0)
+  − tsst                             burst=-2.398 (early=5, late=0)
+  − exploratory factor-analysis      burst=-2.398 (early=5, late=0)
+  − family income                    burst=-2.398 (early=5, late=0)
+  − amygdala reactivity              burst=-2.398 (early=5, late=0)
+  − avoidant                         burst=-2.398 (early=5, late=0)
+  − episodic depression              burst=-2.398 (early=5, late=0)
+  − predicting domestic violence     burst=-1.735 (early=8, late=1)
+  − healthy-adults                   burst=-1.735 (early=8, late=1)
+  − fkbp5 polymorphisms              burst=-1.609 (early=7, late=1)
+
+————————————————————————————————————————
+C. RESEARCH GAPS & PRIORITIES
+————————————————————————————————————————
+
+C1. Highest Gap Score themes (low saturation + growth/contemporary need)
+  T102 | gap=4.62 ROI=9.29 | Deprivation, Threat Deprivation, Deprivation Threat, Dimensional [emerging]
+  T 36 | gap=4.32 ROI=8.92 | Image-based sexual abuse [emerging]
+  T 96 | gap=4.24 ROI=8.67 | College students & campus prevention [emerging]
+  T 61 | gap=3.25 ROI=6.93 | College students & campus prevention [emerging]
+  T 78 | gap=3.02 ROI=4.54 | Selfcompassion, Compassion, Shame, Selfcriticism [emerging]
+  T 82 | gap=2.92 ROI=5.67 | Cptsd, Ptsd Cptsd, Icd, Complex Posttraumatic [emerging]
+  T100 | gap=2.79 ROI=4.14 | Medium, Social Medium, Metoo, News [emerging]
+  T 73 | gap=2.24 ROI=3.05 | Caregiver, Caregiver Support, Caregiver Experience, Caregiverchild [emerging]
+  T 64 | gap=2.19 ROI=4.83 | Csam, Material Csam, Pornography, Enforcement [emerging]
+  T 23 | gap=2.16 ROI=4.66 | Mdd, Major Depressive, Depressive Mdd, Gyrus [emerging]
+  T 95 | gap=2.14 ROI=2.20 | Sibling, Ssa, Incest, Intrafamilial [emerging]
+  T 99 | gap=2.03 ROI=1.92 | Adhd, Hyperactivity, Deficit Hyperactivity, Attentiondeficit [emerging]
+
+C2. Domain gap audit — priority domains (low prevalence, high contemporary %)
+  [method] Participatory & co-design                          | prev=0.26% | contemp=92.2% | UNDEREXPLORED
+  [population] Indigenous & ethnic minority children              | prev=0.32% | contemp=81.0% | UNDEREXPLORED
+  [method] Machine learning & prediction                      | prev=0.60% | contemp=82.2% | UNDEREXPLORED
+  [context] Digital & technology-facilitated harm              | prev=1.38% | contemp=86.0% | established
+  [context] Global South & LMIC settings                       | prev=0.28% | contemp=75.0% | UNDEREXPLORED
+  [mechanism_intervention] Community & policy                                 | prev=0.85% | contemp=77.8% | UNDEREXPLORED
+  [mechanism_intervention] Family & parenting programs                        | prev=0.32% | contemp=71.9% | UNDEREXPLORED
+  [population] LGBTQ+ / gender-diverse youth                      | prev=1.13% | contemp=71.6% | established
+  [population] Neurodivergent / disabled youth                    | prev=1.44% | contemp=71.7% | established
+  [population] Foster / care-experienced youth                    | prev=1.00% | contemp=67.5% | UNDEREXPLORED
+  [method] Randomized & implementation trials                 | prev=0.98% | contemp=66.8% | UNDEREXPLORED
+  [mechanism_intervention] Cultural & structural determinants                 | prev=2.66% | contemp=73.5% | established
+
+C3. Bridging keywords (structural holes; high betweenness, moderate frequency)
+  childhood                      freq= 549 bridging=0.0008
+  experience                     freq= 186 bridging=0.0008
+  model                          freq= 444 bridging=0.0008
+  consequences                   freq= 435 bridging=0.0007
+  life                           freq= 331 bridging=0.0007
+  care                           freq= 395 bridging=0.0006
+  adolescent                     freq= 384 bridging=0.0006
+  household dysfunction          freq= 445 bridging=0.0006
+  patterns                       freq= 201 bridging=0.0006
+  intervention                   freq= 319 bridging=0.0006
+  age                            freq= 271 bridging=0.0006
+  behaviors                      freq= 370 bridging=0.0006
+
+————————————————————————————————————————
+D. SYNTHESIS (CONTEMPORARY CHILDHOOD TRAUMA RESEARCH)
+————————————————————————————————————————
+
+Emerging frontiers:
+  • Digital/image-based sexual abuse and online harm governance (rapid topic growth;
+    burst keywords: privacy, technology-facilitated terms).
+  • Structural and intersectional determinants (structural racism, procedural justice).
+  • Precision phenotyping — sensory-processing sensitivity, reward circuitry, genomics.
+  • Campus/college prevention and subjective wellbeing in young adults.
+
+Underexplored / marginalized areas:
+  • Populations: Indigenous youth, neurodivergent children, foster/care-experienced
+    cohorts (low keyword prevalence vs mainstream ACE/IPV clusters).
+  • Methods: participatory co-design, implementation trials in LMIC/Global South.
+  • Settings: justice-involved youth, non-offending caregivers (stable but low volume).
+
+Actionable research gaps:
+  1. Integrate digital-harm prevention with developmental psychopathology mechanisms.
+  2. Equity-focused trials in underrepresented populations (refugee, LGBTQ+, Indigenous).
+  3. Longitudinal neurobiological cohorts linking epigenetic/HPA findings to intervention.
+  4. Implementation science for school-based and caregiver-mediated programs.
+  5. Bridge fragmented silos (forensic interview, clergy abuse, sport safeguarding) via
+     shared measurement and cross-sector prevention frameworks.
+
+LIMITATIONS
+  WoS/Scopus keyword coverage is uneven; emergent themes in full text may be absent.
+  BERTopic labels inherit RQ1 clustering; ROI/gap scores are corpus-relative, not absolute.
+  Lexicon-based gap audit detects explicit terminology, not unlabeled concepts.
+
+OUTPUT FILES
+  rq2_topic_metrics.csv
+  rq2_emerging_keywords.csv
+  rq2_declining_keywords.csv
+  rq2_keyword_clusters.csv
+  rq2_gap_domain_audit.csv
+  rq2_bridging_keywords.csv
+  rq2_summary.json
+  rq2_strategic_diagram.png
+  rq2_research_opportunity.png
+  rq2_gap_domains.png
+==============================================================================

@@ -1,0 +1,50 @@
+topic,display_name,n_docs_P1,n_docs_P4,js_divergence_P1_vs_P4,entering_terms_P4,leaving_terms_P4,composition_class
+20,"Church, Catholic, Clergy, Religious",21,35,0.7308623653605787,"sacred, leadership, homosexuality, perspective, project","applicant, seminary, lay, metoo, mmpi",recomposed
+53,"Adverse Event, Growth, Mortality, Trajectory",16,22,0.7283242302375779,"negative, dementia, quality, ibs, music","asthma, line, onset, strength, predict",recomposed
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",21,23,0.724293289122055,"left-behind, perceive, appraisal, cumulative, suicidality","tinnitus, fgid, attachment, temperament, self-efficacy",recomposed
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",15,42,0.7036848173479237,"ct, network, ctq, beta, insomnia","adherence, cmt, cd, glutamate, mg",recomposed
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",17,23,0.6938068524441375,"aggression, cm, somatic, network, overt","ptsd, alcohol, hopelessness, fatigue, memory",recomposed
+7,COVID-19 pandemic impact,17,34,0.6894984346020592,"student, substance, young, cm, post-covid","acute, ethical, botswana, telepsychotherapy, quarantine",recomposed
+87,Psychosis & psychotic-like experiences,16,17,0.6884035508305697,"woman, prolactin, spd, mind, tom","parricide, salience, double, mood, twin",recomposed
+66,"Aud, Drinking, Drink, Alcoholrelated",15,24,0.6780891624762879,"burden, hct, initiation, disease, r","cm, alpha, asymmetry, eeg, recognition",recomposed
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",18,33,0.6728418718478445,"attribution, online, campaign, childcare, self-efficacy","aboriginal, judicial, ace, triad, dark",recomposed
+45,Adverse childhood experiences (ACE),19,30,0.6721153524778312,"pattern, theory, disadvantage, ouml, narrative","aggression, touch, aggressive, affective, hostility",recomposed
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",17,39,0.6665637592364967,"profile, memory, cyber, traum, ace","delusional, illness, psychogenic, penn, mass",recomposed
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",17,28,0.6583368487359672,"lifestyle, expectation, plb, speech, attention","cbasp, sp, appraisal, pdd, mentalizing",recomposed
+63,"Executive, Executive Function, Ef, Work Memory",21,22,0.6485744155638414,"attachment, burnout, work-related, alpha, maternal","ip-elt, expose, offend, activity, symptomatology",recomposed
+42,College students & campus prevention,17,38,0.6469892941461676,"nursing, persistence, verbal, adjustment, mistreatment","title, ix, neuroticism, maoa, normative",recomposed
+21,Borderline personality disorder,29,40,0.6466488561119633,"dbt, improve, resilience, nss, bd","suicidal, mother, bpts, malevolence, assault",recomposed
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",18,31,0.6441865683265057,"resilience, ace, rumination, dream, perceive","partner, eat, fantasy, type, pandemic",recomposed
+22,"Rape, Perpetrator, Assault, Myth",28,37,0.6431268788924593,"victim-survivors, sextortion, bias, torture, communication","intrafamilial, darvo, victim-friendly, bacha, bazi",recomposed
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",18,30,0.6368769415047443,"highlight, survivor, deaf, depressive, uk","ard, gang, reception, learning, sexualize",recomposed
+97,"Cop Strategy, Cop Style, Style, Religious",16,22,0.6300646880722001,"street, trait, moral, parental, personality","cancer, ptg, even, prostate, nrc",recomposed
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",40,68,0.6284920409800733,"heal, assertiveness, aasa, educator, therapeutic","tl, botswana, cmh, preschool-aged, pediatrician",recomposed
+38,"Sport, Athlete, Coach, Harassment",19,35,0.6277239493513297,"positive, interaction, eat, safety, safeguard","position, statement, outside, core, zealand",recomposed
+26,"Eat, Ed, Eating, Binge Eat",19,39,0.6205385152414568,"network, trajectory, loss, cognition, reflective","sgms, rom, therapist, cell, disorganize",recomposed
+35,"Disability, Intellectual, Intellectual Disability, Id",16,26,0.6186318983482604,"crime, mate, cameroon, obesity, visit","menstrual, disabled, adulthood, cp, dpos",recomposed
+18,Psychosis & psychotic-like experiences,32,39,0.6158974650003431,"sb, causal, predictor, highlight, narcissism","asd, inner, self-disgust, cht, homeless",recomposed
+5,"Injury, Fracture, Infant, Head",44,48,0.6153986548532122,"radiation, dose, flag, paediatric, red","bucket, shaft, spinal, humerus, femur",recomposed
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",16,23,0.6083638047044387,"parent, shelter, different, old, edv","ftp, substantiate, airr, wdv, metoo",composition_stable
+44,"Elder, Mistreatment, Elderly, Financial",24,19,0.6038108082872344,"police, em, age, economic, china","nursing, ea, recognize, doctor, attachment",composition_stable
+46,"Perceive Social, Role Social, Support Depressive, Buffer",16,34,0.6026190335256633,"network, growth, bruxism, avoidance, intervention","oxytocin, abortion, partner, decision, moral",composition_stable
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",19,31,0.6014646395332933,"connectedness, adulthood, psb, dysregulation, ptsd","dp, ext, academic, performance, sbp",composition_stable
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",26,42,0.6000298166023209,"multisite, ieq, fm, injustice, hyperalgesia","bpd, trigeminal, chest, postoperative, juvenile",composition_stable
+16,"Drug, Opioid, Cannabis, Misuse",35,38,0.5999348757759875,"cud, methamphetamine, maternal, problematic, stigma","minority, pregnant, sense, brief, coherence",composition_stable
+29,"Bd, Bipolar, Mood, Bipolar Bd",24,30,0.5958519305321442,"ct, psi, migraine, strategy, polygenic","offspring, theta, u, current, te",composition_stable
+51,"Disclosure, Disclose, Csa, Tell",18,27,0.5806319805174216,"peer, institutional, victim-survivors, online, solicitation","crisis, trachomatis, juror, infection, bias",composition_stable
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",24,24,0.5753451686801223,"reveal, safety, positive, sensitive, dystonia","violence, maternal, bilateral, care, expression",composition_stable
+9,"Offender, Offend, Juvenile, Criminal",43,64,0.5735483581581798,"cognition, belief, discrimination, fantasy, non-violent","ci, ric, maternal, dual, serial",composition_stable
+14,Adverse childhood experiences (ACE),23,54,0.5580880215735872,"self-concept, temperament, correlation, prosocial, poly-adversity","sh, hopelessness, breakup, romantic, ptg",composition_stable
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",20,43,0.5571443852159089,"men, borderline, network, ace, personality","premenstrual, cd, representation, pnes, self-esteem",composition_stable
+8,"Worker, Protection, Social Work, Social Worker",41,59,0.5479455724300998,"labour, hour, healthcare, fme, mr","cp, household, recurrence, psb, paediatrician",composition_stable
+6,"Attachment, Attachment Style, Style, Insecure",29,71,0.5451890626470447,"ace, mistrust, surgery, cosmetic, defense","csa, pv, passion, connect, migraine",composition_stable
+80,College students & campus prevention,15,21,0.5403826308905728,"digital, online, marsha-sf, dda, ara","disengagement, moral, teenager, later, loss",composition_stable
+2,PTSD treatment (EMDR / trauma-focused CBT),68,91,0.5369373693546589,"acid, beta, c-ptsd, cluster, couple","pediatric, bias, hippocampal, refugee, tcvns",composition_stable
+58,"Inflammation, Il, Inflammatory, Cytokine",23,21,0.534857338938977,"mtbi, potential, pacap, oxidative, methamphetamine","ml, ng, sli, eca, cardiometabolic",composition_stable
+10,Epigenetics & DNA methylation,43,32,0.5245807833611695,"preterm, pubertal, exercise, diabetes, timing","gr, father, antidepressant, oxytocin, attachment",composition_stable
+11,"Cortisol, Hpa, Axis, Hpa Axis",47,37,0.5017417827459534,"sa, val, tinnitus, kitten, episode","pituitary, chr, offspring, egg, ad",composition_stable
+24,"Interviewer, Forensic Interview, Investigative, Forensic",30,36,0.48832917757393024,"invitation, expert, human, llm, suspect","yes, speech, love, clinician, recognition",composition_stable
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",35,39,0.47751964192330953,"pwh, pathway, contraceptive, phenotype, needle","aya, ipt, hiv-positive, pep, phiv",composition_stable
+4,Intimate partner violence,40,80,0.42837311903681796,"ace, healthcare, father, dysregulation, non-physical","vac, communication, welfare, ce-ipv, animal",composition_stable
+0,Maternal & infant mental health,141,171,0.3596850336189463,"trpv, piglet, hsp, mtdna, sirt","sert, matsep, right, lhb, homer",composition_stable
+1,Adverse childhood experiences (ACE),76,203,0.34771930395713957,"multimorbidity, dementia, offspring, middle-aged, hr","stiffness, arterial, self-efficacy, metacognition, cshcn",composition_stable

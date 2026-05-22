@@ -1,0 +1,5 @@
+period,meta_theme,count,period_total,share,source_topics
+P1_pre_pandemic,suicidality_self_harm,73,2039,0.0358018636586562,"12,17,31,86"
+P2_pandemic_transition,suicidality_self_harm,200,5181,0.038602586373287014,"12,17,31,86"
+P3_post_pandemic,suicidality_self_harm,236,5270,0.044781783681214424,"12,17,31,86"
+P4_recent,suicidality_self_harm,170,3482,0.048822515795519814,"12,17,31,86"

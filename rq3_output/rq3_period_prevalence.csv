@@ -1,0 +1,385 @@
+period,topic,count,period_total,share,display_name
+P1_pre_pandemic,0,141,1897,0.07432788613600422,Maternal & infant mental health
+P1_pre_pandemic,1,76,1897,0.040063257775434895,Adverse childhood experiences (ACE)
+P1_pre_pandemic,2,68,1897,0.03584607274644175,PTSD treatment (EMDR / trauma-focused CBT)
+P1_pre_pandemic,3,40,1897,0.021085925144965736,"Csa, Csa Survivor, Experience Csa, Survivor Csa"
+P1_pre_pandemic,4,40,1897,0.021085925144965736,Intimate partner violence
+P1_pre_pandemic,5,44,1897,0.02319451765946231,"Injury, Fracture, Infant, Head"
+P1_pre_pandemic,6,29,1897,0.015287295730100159,"Attachment, Attachment Style, Style, Insecure"
+P1_pre_pandemic,7,17,1897,0.008961518186610437,COVID-19 pandemic impact
+P1_pre_pandemic,8,41,1897,0.02161307327358988,"Worker, Protection, Social Work, Social Worker"
+P1_pre_pandemic,9,43,1897,0.022667369530838165,"Offender, Offend, Juvenile, Criminal"
+P1_pre_pandemic,10,43,1897,0.022667369530838165,Epigenetics & DNA methylation
+P1_pre_pandemic,11,47,1897,0.024775962045334738,"Cortisol, Hpa, Axis, Hpa Axis"
+P1_pre_pandemic,13,14,1897,0.007380073800738007,"Cm, Mdd, History Cm, Relationship Cm"
+P1_pre_pandemic,14,23,1897,0.012124406958355299,Adverse childhood experiences (ACE)
+P1_pre_pandemic,15,35,1897,0.01845018450184502,"Hiv, Live Hiv, Adherence, Hiv Aid"
+P1_pre_pandemic,16,35,1897,0.01845018450184502,"Drug, Opioid, Cannabis, Misuse"
+P1_pre_pandemic,18,32,1897,0.01686874011597259,Psychosis & psychotic-like experiences
+P1_pre_pandemic,20,21,1897,0.01107011070110701,"Church, Catholic, Clergy, Religious"
+P1_pre_pandemic,21,29,1897,0.015287295730100159,Borderline personality disorder
+P1_pre_pandemic,22,28,1897,0.014760147601476014,"Rape, Perpetrator, Assault, Myth"
+P1_pre_pandemic,23,15,1897,0.00790722192936215,"Mdd, Major Depressive, Depressive Mdd, Gyrus"
+P1_pre_pandemic,24,30,1897,0.0158144438587243,"Interviewer, Forensic Interview, Investigative, Forensic"
+P1_pre_pandemic,25,26,1897,0.013705851344227728,"Pain, Chronic Pain, Pelvic, Pelvic Pain"
+P1_pre_pandemic,26,19,1897,0.010015814443858724,"Eat, Ed, Eating, Binge Eat"
+P1_pre_pandemic,27,18,1897,0.009488666315234581,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance"
+P1_pre_pandemic,28,24,1897,0.012651555086979441,"Connectivity, Functional, Functional Connectivity, Restingstate"
+P1_pre_pandemic,29,24,1897,0.012651555086979441,"Bd, Bipolar, Mood, Bipolar Bd"
+P1_pre_pandemic,30,20,1897,0.010542962572482868,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy"
+P1_pre_pandemic,33,17,1897,0.008961518186610437,"Dissociation, Dissociative, Dissociative Experience, Identity"
+P1_pre_pandemic,34,18,1897,0.009488666315234581,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence"
+P1_pre_pandemic,35,16,1897,0.008434370057986295,"Disability, Intellectual, Intellectual Disability, Id"
+P1_pre_pandemic,36,5,1897,0.002635740643120717,Image-based sexual abuse
+P1_pre_pandemic,37,18,1897,0.009488666315234581,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction"
+P1_pre_pandemic,38,19,1897,0.010015814443858724,"Sport, Athlete, Coach, Harassment"
+P1_pre_pandemic,39,14,1897,0.007380073800738007,Maternal & infant mental health
+P1_pre_pandemic,40,21,1897,0.01107011070110701,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety"
+P1_pre_pandemic,41,19,1897,0.010015814443858724,"Externalize, Internalize, Internalize Externalize, Externalize Problem"
+P1_pre_pandemic,42,17,1897,0.008961518186610437,College students & campus prevention
+P1_pre_pandemic,43,11,1897,0.005798629414865577,"Traumainformed, Traumainformed Care, Traumainformed Practice, Principle"
+P1_pre_pandemic,44,24,1897,0.012651555086979441,"Elder, Mistreatment, Elderly, Financial"
+P1_pre_pandemic,45,19,1897,0.010015814443858724,Adverse childhood experiences (ACE)
+P1_pre_pandemic,46,16,1897,0.008434370057986295,"Perceive Social, Role Social, Support Depressive, Buffer"
+P1_pre_pandemic,47,14,1897,0.007380073800738007,"Memory, False, Autobiographical, Autobiographical Memory"
+P1_pre_pandemic,48,14,1897,0.007380073800738007,"Teacher, Classroom, Attitude, Learner"
+P1_pre_pandemic,49,12,1897,0.0063257775434897206,"Woman Experience, Reproductive, Premenstrual, Family Plan"
+P1_pre_pandemic,50,13,1897,0.006852925672113864,"Trait, Personality Trait, Personality Function, Personality Pathology"
+P1_pre_pandemic,51,18,1897,0.009488666315234581,"Disclosure, Disclose, Csa, Tell"
+P1_pre_pandemic,52,13,1897,0.006852925672113864,"Selfesteem, Rosenberg, Rosenberg Selfesteem, Role Selfesteem"
+P1_pre_pandemic,53,16,1897,0.008434370057986295,"Adverse Event, Growth, Mortality, Trajectory"
+P1_pre_pandemic,54,13,1897,0.006852925672113864,"Veteran, Military, Combat, Military Veteran"
+P1_pre_pandemic,55,17,1897,0.008961518186610437,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression"
+P1_pre_pandemic,56,11,1897,0.005798629414865577,"Polyvictimization, Victimization Experience, Type Victimization, Violent Victimization"
+P1_pre_pandemic,57,13,1897,0.006852925672113864,"Young People, People Experience, Harmful, Helpseeking"
+P1_pre_pandemic,58,23,1897,0.012124406958355299,"Inflammation, Il, Inflammatory, Cytokine"
+P1_pre_pandemic,59,12,1897,0.0063257775434897206,"Intimate, Intimate Partner, Partner Violence, Coercive"
+P1_pre_pandemic,60,13,1897,0.006852925672113864,"Disease, Cardiovascular, Heart, Cardiovascular Disease"
+P1_pre_pandemic,61,7,1897,0.0036900369003690036,College students & campus prevention
+P1_pre_pandemic,62,10,1897,0.005271481286241434,"Mindfulness, Satisfaction, Couple, Relationship Satisfaction"
+P1_pre_pandemic,63,21,1897,0.01107011070110701,"Executive, Executive Function, Ef, Work Memory"
+P1_pre_pandemic,64,11,1897,0.005798629414865577,"Csam, Material Csam, Pornography, Enforcement"
+P1_pre_pandemic,65,13,1897,0.006852925672113864,Psychosis & psychotic-like experiences
+P1_pre_pandemic,66,15,1897,0.00790722192936215,"Aud, Drinking, Drink, Alcoholrelated"
+P1_pre_pandemic,67,17,1897,0.008961518186610437,"Alexithymia, Toronto, Toronto Alexithymia, Ta"
+P1_pre_pandemic,68,20,1897,0.010542962572482868,"Pregnancy, Postpartum, Perinatal, Unintended"
+P1_pre_pandemic,69,14,1897,0.007380073800738007,"Prevention Program, Schoolbased, Skill, Curriculum"
+P1_pre_pandemic,70,11,1897,0.005798629414865577,"Ptg, Heal, Inquiry, Recovery"
+P1_pre_pandemic,71,16,1897,0.008434370057986295,"Domestic, Domestic Violence, Dv, Witness Domestic"
+P1_pre_pandemic,72,11,1897,0.005798629414865577,"Aggression, Aggressive, Reactive, Relational Aggression"
+P1_pre_pandemic,73,9,1897,0.004744333157617291,"Caregiver, Caregiver Support, Caregiver Experience, Caregiverchild"
+P1_pre_pandemic,74,14,1897,0.007380073800738007,Maternal & infant mental health
+P1_pre_pandemic,75,11,1897,0.005798629414865577,"Family Member, Family Function, Family Environment, Family Dynamic"
+P1_pre_pandemic,76,7,1897,0.0036900369003690036,"Narrative, Story, Autonomy, Psychoanalysis"
+P1_pre_pandemic,78,4,1897,0.0021085925144965737,"Selfcompassion, Compassion, Shame, Selfcriticism"
+P1_pre_pandemic,80,15,1897,0.00790722192936215,College students & campus prevention
+P1_pre_pandemic,81,13,1897,0.006852925672113864,"Childbirth, Maternity, Mistreatment, Obstetric"
+P1_pre_pandemic,82,7,1897,0.0036900369003690036,"Cptsd, Ptsd Cptsd, Icd, Complex Posttraumatic"
+P1_pre_pandemic,83,9,1897,0.004744333157617291,"Experience Adverse, Household Dysfunction, Capital, Deviant"
+P1_pre_pandemic,84,13,1897,0.006852925672113864,"Cortical, Matter, Thickness, Cortical Thickness"
+P1_pre_pandemic,85,10,1897,0.005271481286241434,"Men Woman, Masculinity, Gay, Msm"
+P1_pre_pandemic,87,16,1897,0.008434370057986295,Psychosis & psychotic-like experiences
+P1_pre_pandemic,89,12,1897,0.0063257775434897206,Adverse childhood experiences (ACE)
+P1_pre_pandemic,90,9,1897,0.004744333157617291,"Gut, Microbiome, Ibs, Axis"
+P1_pre_pandemic,91,8,1897,0.004217185028993147,Adverse childhood experiences (ACE)
+P1_pre_pandemic,92,16,1897,0.008434370057986295,"Genetic, Gene, Polymorphism, Geneenvironment"
+P1_pre_pandemic,93,15,1897,0.00790722192936215,"Ocd, Obsessivecompulsive, Obsessive Compulsive, Obsessive"
+P1_pre_pandemic,94,2,1897,0.0010542962572482868,"Reward, Task, Neural, Processing"
+P1_pre_pandemic,95,5,1897,0.002635740643120717,"Sibling, Ssa, Incest, Intrafamilial"
+P1_pre_pandemic,96,6,1897,0.0031628887717448603,College students & campus prevention
+P1_pre_pandemic,97,16,1897,0.008434370057986295,"Cop Strategy, Cop Style, Style, Religious"
+P1_pre_pandemic,98,7,1897,0.0036900369003690036,"Infection, Genital, Vaginal, Lesion"
+P1_pre_pandemic,99,9,1897,0.004744333157617291,"Adhd, Hyperactivity, Deficit Hyperactivity, Attentiondeficit"
+P1_pre_pandemic,100,7,1897,0.0036900369003690036,"Medium, Social Medium, Metoo, News"
+P1_pre_pandemic,101,7,1897,0.0036900369003690036,"Divorce, Alienation, Parental Education, Parental Divorce"
+P1_pre_pandemic,102,6,1897,0.0031628887717448603,"Deprivation, Threat Deprivation, Deprivation Threat, Dimensional"
+P1_pre_pandemic,103,10,1897,0.005271481286241434,Adverse childhood experiences (ACE)
+P1_pre_pandemic,104,10,1897,0.005271481286241434,"Hr Ci, Hr, Ci Ci, Schoolchildren"
+P2_pandemic_transition,0,287,4806,0.0597170203911777,Maternal & infant mental health
+P2_pandemic_transition,1,209,4806,0.04348730753225135,Adverse childhood experiences (ACE)
+P2_pandemic_transition,2,156,4806,0.03245942571785269,PTSD treatment (EMDR / trauma-focused CBT)
+P2_pandemic_transition,3,122,4806,0.025384935497295046,"Csa, Csa Survivor, Experience Csa, Survivor Csa"
+P2_pandemic_transition,4,107,4806,0.022263836870578445,Intimate partner violence
+P2_pandemic_transition,5,112,4806,0.023304203079483977,"Injury, Fracture, Infant, Head"
+P2_pandemic_transition,6,97,4806,0.020183104452767373,"Attachment, Attachment Style, Style, Insecure"
+P2_pandemic_transition,7,110,4806,0.022888056595921764,COVID-19 pandemic impact
+P2_pandemic_transition,8,75,4806,0.015605493133583021,"Worker, Protection, Social Work, Social Worker"
+P2_pandemic_transition,9,84,4806,0.017478152309612985,"Offender, Offend, Juvenile, Criminal"
+P2_pandemic_transition,10,94,4806,0.019558884727424054,Epigenetics & DNA methylation
+P2_pandemic_transition,11,90,4806,0.018726591760299626,"Cortisol, Hpa, Axis, Hpa Axis"
+P2_pandemic_transition,13,52,4806,0.010819808572617561,"Cm, Mdd, History Cm, Relationship Cm"
+P2_pandemic_transition,14,79,4806,0.01643778610070745,Adverse childhood experiences (ACE)
+P2_pandemic_transition,15,70,4806,0.014565126924677487,"Hiv, Live Hiv, Adherence, Hiv Aid"
+P2_pandemic_transition,16,71,4806,0.014773200166458594,"Drug, Opioid, Cannabis, Misuse"
+P2_pandemic_transition,18,63,4806,0.013108614232209739,Psychosis & psychotic-like experiences
+P2_pandemic_transition,20,80,4806,0.016645859342488557,"Church, Catholic, Clergy, Religious"
+P2_pandemic_transition,21,61,4806,0.012692467748647523,Borderline personality disorder
+P2_pandemic_transition,22,70,4806,0.014565126924677487,"Rape, Perpetrator, Assault, Myth"
+P2_pandemic_transition,23,51,4806,0.010611735330836454,"Mdd, Major Depressive, Depressive Mdd, Gyrus"
+P2_pandemic_transition,24,62,4806,0.012900540990428632,"Interviewer, Forensic Interview, Investigative, Forensic"
+P2_pandemic_transition,25,54,4806,0.011235955056179775,"Pain, Chronic Pain, Pelvic, Pelvic Pain"
+P2_pandemic_transition,26,60,4806,0.012484394506866416,"Eat, Ed, Eating, Binge Eat"
+P2_pandemic_transition,27,56,4806,0.011652101539741989,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance"
+P2_pandemic_transition,28,60,4806,0.012484394506866416,"Connectivity, Functional, Functional Connectivity, Restingstate"
+P2_pandemic_transition,29,57,4806,0.011860174781523096,"Bd, Bipolar, Mood, Bipolar Bd"
+P2_pandemic_transition,30,49,4806,0.01019558884727424,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy"
+P2_pandemic_transition,33,47,4806,0.009779442363712027,"Dissociation, Dissociative, Dissociative Experience, Identity"
+P2_pandemic_transition,34,51,4806,0.010611735330836454,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence"
+P2_pandemic_transition,35,50,4806,0.010403662089055347,"Disability, Intellectual, Intellectual Disability, Id"
+P2_pandemic_transition,36,37,4806,0.007698709945900957,Image-based sexual abuse
+P2_pandemic_transition,37,41,4806,0.008531002913025386,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction"
+P2_pandemic_transition,38,41,4806,0.008531002913025386,"Sport, Athlete, Coach, Harassment"
+P2_pandemic_transition,39,59,4806,0.01227632126508531,Maternal & infant mental health
+P2_pandemic_transition,40,38,4806,0.007906783187682065,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety"
+P2_pandemic_transition,41,48,4806,0.009987515605493134,"Externalize, Internalize, Internalize Externalize, Externalize Problem"
+P2_pandemic_transition,42,41,4806,0.008531002913025386,College students & campus prevention
+P2_pandemic_transition,43,47,4806,0.009779442363712027,"Traumainformed, Traumainformed Care, Traumainformed Practice, Principle"
+P2_pandemic_transition,44,52,4806,0.010819808572617561,"Elder, Mistreatment, Elderly, Financial"
+P2_pandemic_transition,45,36,4806,0.00749063670411985,Adverse childhood experiences (ACE)
+P2_pandemic_transition,46,40,4806,0.008322929671244279,"Perceive Social, Role Social, Support Depressive, Buffer"
+P2_pandemic_transition,47,45,4806,0.009363295880149813,"Memory, False, Autobiographical, Autobiographical Memory"
+P2_pandemic_transition,48,36,4806,0.00749063670411985,"Teacher, Classroom, Attitude, Learner"
+P2_pandemic_transition,49,41,4806,0.008531002913025386,"Woman Experience, Reproductive, Premenstrual, Family Plan"
+P2_pandemic_transition,50,37,4806,0.007698709945900957,"Trait, Personality Trait, Personality Function, Personality Pathology"
+P2_pandemic_transition,51,39,4806,0.008114856429463172,"Disclosure, Disclose, Csa, Tell"
+P2_pandemic_transition,52,30,4806,0.006242197253433208,"Selfesteem, Rosenberg, Rosenberg Selfesteem, Role Selfesteem"
+P2_pandemic_transition,53,38,4806,0.007906783187682065,"Adverse Event, Growth, Mortality, Trajectory"
+P2_pandemic_transition,54,53,4806,0.011027881814398668,"Veteran, Military, Combat, Military Veteran"
+P2_pandemic_transition,55,33,4806,0.00686641697877653,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression"
+P2_pandemic_transition,56,48,4806,0.009987515605493134,"Polyvictimization, Victimization Experience, Type Victimization, Violent Victimization"
+P2_pandemic_transition,57,30,4806,0.006242197253433208,"Young People, People Experience, Harmful, Helpseeking"
+P2_pandemic_transition,58,39,4806,0.008114856429463172,"Inflammation, Il, Inflammatory, Cytokine"
+P2_pandemic_transition,59,42,4806,0.008739076154806492,"Intimate, Intimate Partner, Partner Violence, Coercive"
+P2_pandemic_transition,60,36,4806,0.00749063670411985,"Disease, Cardiovascular, Heart, Cardiovascular Disease"
+P2_pandemic_transition,61,29,4806,0.006034124011652101,College students & campus prevention
+P2_pandemic_transition,62,34,4806,0.0070744902205576365,"Mindfulness, Satisfaction, Couple, Relationship Satisfaction"
+P2_pandemic_transition,63,37,4806,0.007698709945900957,"Executive, Executive Function, Ef, Work Memory"
+P2_pandemic_transition,64,19,4806,0.0039533915938410324,"Csam, Material Csam, Pornography, Enforcement"
+P2_pandemic_transition,65,28,4806,0.005826050769870994,Psychosis & psychotic-like experiences
+P2_pandemic_transition,66,32,4806,0.006658343736995423,"Aud, Drinking, Drink, Alcoholrelated"
+P2_pandemic_transition,67,27,4806,0.0056179775280898875,"Alexithymia, Toronto, Toronto Alexithymia, Ta"
+P2_pandemic_transition,68,32,4806,0.006658343736995423,"Pregnancy, Postpartum, Perinatal, Unintended"
+P2_pandemic_transition,69,29,4806,0.006034124011652101,"Prevention Program, Schoolbased, Skill, Curriculum"
+P2_pandemic_transition,70,30,4806,0.006242197253433208,"Ptg, Heal, Inquiry, Recovery"
+P2_pandemic_transition,71,36,4806,0.00749063670411985,"Domestic, Domestic Violence, Dv, Witness Domestic"
+P2_pandemic_transition,72,37,4806,0.007698709945900957,"Aggression, Aggressive, Reactive, Relational Aggression"
+P2_pandemic_transition,73,31,4806,0.006450270495214316,"Caregiver, Caregiver Support, Caregiver Experience, Caregiverchild"
+P2_pandemic_transition,74,34,4806,0.0070744902205576365,Maternal & infant mental health
+P2_pandemic_transition,75,26,4806,0.005409904286308781,"Family Member, Family Function, Family Environment, Family Dynamic"
+P2_pandemic_transition,76,33,4806,0.00686641697877653,"Narrative, Story, Autonomy, Psychoanalysis"
+P2_pandemic_transition,78,31,4806,0.006450270495214316,"Selfcompassion, Compassion, Shame, Selfcriticism"
+P2_pandemic_transition,80,31,4806,0.006450270495214316,College students & campus prevention
+P2_pandemic_transition,81,26,4806,0.005409904286308781,"Childbirth, Maternity, Mistreatment, Obstetric"
+P2_pandemic_transition,82,26,4806,0.005409904286308781,"Cptsd, Ptsd Cptsd, Icd, Complex Posttraumatic"
+P2_pandemic_transition,83,33,4806,0.00686641697877653,"Experience Adverse, Household Dysfunction, Capital, Deviant"
+P2_pandemic_transition,84,26,4806,0.005409904286308781,"Cortical, Matter, Thickness, Cortical Thickness"
+P2_pandemic_transition,85,35,4806,0.007282563462338743,"Men Woman, Masculinity, Gay, Msm"
+P2_pandemic_transition,87,31,4806,0.006450270495214316,Psychosis & psychotic-like experiences
+P2_pandemic_transition,89,23,4806,0.00478568456096546,Adverse childhood experiences (ACE)
+P2_pandemic_transition,90,29,4806,0.006034124011652101,"Gut, Microbiome, Ibs, Axis"
+P2_pandemic_transition,91,17,4806,0.0035372451102788183,Adverse childhood experiences (ACE)
+P2_pandemic_transition,92,35,4806,0.007282563462338743,"Genetic, Gene, Polymorphism, Geneenvironment"
+P2_pandemic_transition,93,17,4806,0.0035372451102788183,"Ocd, Obsessivecompulsive, Obsessive Compulsive, Obsessive"
+P2_pandemic_transition,94,34,4806,0.0070744902205576365,"Reward, Task, Neural, Processing"
+P2_pandemic_transition,95,23,4806,0.00478568456096546,"Sibling, Ssa, Incest, Intrafamilial"
+P2_pandemic_transition,96,12,4806,0.0024968789013732834,College students & campus prevention
+P2_pandemic_transition,97,17,4806,0.0035372451102788183,"Cop Strategy, Cop Style, Style, Religious"
+P2_pandemic_transition,98,26,4806,0.005409904286308781,"Infection, Genital, Vaginal, Lesion"
+P2_pandemic_transition,99,21,4806,0.004369538077403246,"Adhd, Hyperactivity, Deficit Hyperactivity, Attentiondeficit"
+P2_pandemic_transition,100,20,4806,0.004161464835622139,"Medium, Social Medium, Metoo, News"
+P2_pandemic_transition,101,26,4806,0.005409904286308781,"Divorce, Alienation, Parental Education, Parental Divorce"
+P2_pandemic_transition,102,16,4806,0.0033291718684977114,"Deprivation, Threat Deprivation, Deprivation Threat, Dimensional"
+P2_pandemic_transition,103,20,4806,0.004161464835622139,Adverse childhood experiences (ACE)
+P2_pandemic_transition,104,24,4806,0.004993757802746567,"Hr Ci, Hr, Ci Ci, Schoolchildren"
+P3_post_pandemic,0,244,4818,0.0506434205064342,Maternal & infant mental health
+P3_post_pandemic,1,270,4818,0.05603985056039851,Adverse childhood experiences (ACE)
+P3_post_pandemic,2,127,4818,0.026359485263594853,PTSD treatment (EMDR / trauma-focused CBT)
+P3_post_pandemic,3,117,4818,0.024283935242839352,"Csa, Csa Survivor, Experience Csa, Survivor Csa"
+P3_post_pandemic,4,96,4818,0.019925280199252802,Intimate partner violence
+P3_post_pandemic,5,109,4818,0.02262349522623495,"Injury, Fracture, Infant, Head"
+P3_post_pandemic,6,109,4818,0.02262349522623495,"Attachment, Attachment Style, Style, Insecure"
+P3_post_pandemic,7,109,4818,0.02262349522623495,COVID-19 pandemic impact
+P3_post_pandemic,8,91,4818,0.018887505188875053,"Worker, Protection, Social Work, Social Worker"
+P3_post_pandemic,9,75,4818,0.015566625155666251,"Offender, Offend, Juvenile, Criminal"
+P3_post_pandemic,10,78,4818,0.0161892901618929,Epigenetics & DNA methylation
+P3_post_pandemic,11,69,4818,0.014321295143212951,"Cortisol, Hpa, Axis, Hpa Axis"
+P3_post_pandemic,13,96,4818,0.019925280199252802,"Cm, Mdd, History Cm, Relationship Cm"
+P3_post_pandemic,14,62,4818,0.012868410128684102,Adverse childhood experiences (ACE)
+P3_post_pandemic,15,63,4818,0.013075965130759652,"Hiv, Live Hiv, Adherence, Hiv Aid"
+P3_post_pandemic,16,60,4818,0.012453300124533,"Drug, Opioid, Cannabis, Misuse"
+P3_post_pandemic,18,63,4818,0.013075965130759652,Psychosis & psychotic-like experiences
+P3_post_pandemic,20,58,4818,0.012038190120381901,"Church, Catholic, Clergy, Religious"
+P3_post_pandemic,21,61,4818,0.01266085512660855,Borderline personality disorder
+P3_post_pandemic,22,52,4818,0.010792860107928601,"Rape, Perpetrator, Assault, Myth"
+P3_post_pandemic,23,78,4818,0.0161892901618929,"Mdd, Major Depressive, Depressive Mdd, Gyrus"
+P3_post_pandemic,24,57,4818,0.011830635118306352,"Interviewer, Forensic Interview, Investigative, Forensic"
+P3_post_pandemic,25,61,4818,0.01266085512660855,"Pain, Chronic Pain, Pelvic, Pelvic Pain"
+P3_post_pandemic,26,61,4818,0.01266085512660855,"Eat, Ed, Eating, Binge Eat"
+P3_post_pandemic,27,65,4818,0.013491075134910751,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance"
+P3_post_pandemic,28,59,4818,0.012245745122457451,"Connectivity, Functional, Functional Connectivity, Restingstate"
+P3_post_pandemic,29,54,4818,0.0112079701120797,"Bd, Bipolar, Mood, Bipolar Bd"
+P3_post_pandemic,30,53,4818,0.011000415110004151,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy"
+P3_post_pandemic,33,43,4818,0.00892486508924865,"Dissociation, Dissociative, Dissociative Experience, Identity"
+P3_post_pandemic,34,47,4818,0.009755085097550851,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence"
+P3_post_pandemic,35,52,4818,0.010792860107928601,"Disability, Intellectual, Intellectual Disability, Id"
+P3_post_pandemic,36,48,4818,0.009962640099626401,Image-based sexual abuse
+P3_post_pandemic,37,48,4818,0.009962640099626401,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction"
+P3_post_pandemic,38,41,4818,0.008509755085097551,"Sport, Athlete, Coach, Harassment"
+P3_post_pandemic,39,46,4818,0.009547530095475302,Maternal & infant mental health
+P3_post_pandemic,40,52,4818,0.010792860107928601,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety"
+P3_post_pandemic,41,35,4818,0.0072644250726442506,"Externalize, Internalize, Internalize Externalize, Externalize Problem"
+P3_post_pandemic,42,36,4818,0.007471980074719801,College students & campus prevention
+P3_post_pandemic,43,38,4818,0.0078870900788709,"Traumainformed, Traumainformed Care, Traumainformed Practice, Principle"
+P3_post_pandemic,44,35,4818,0.0072644250726442506,"Elder, Mistreatment, Elderly, Financial"
+P3_post_pandemic,45,41,4818,0.008509755085097551,Adverse childhood experiences (ACE)
+P3_post_pandemic,46,36,4818,0.007471980074719801,"Perceive Social, Role Social, Support Depressive, Buffer"
+P3_post_pandemic,47,36,4818,0.007471980074719801,"Memory, False, Autobiographical, Autobiographical Memory"
+P3_post_pandemic,48,42,4818,0.008717310087173101,"Teacher, Classroom, Attitude, Learner"
+P3_post_pandemic,49,41,4818,0.008509755085097551,"Woman Experience, Reproductive, Premenstrual, Family Plan"
+P3_post_pandemic,50,44,4818,0.0091324200913242,"Trait, Personality Trait, Personality Function, Personality Pathology"
+P3_post_pandemic,51,36,4818,0.007471980074719801,"Disclosure, Disclose, Csa, Tell"
+P3_post_pandemic,52,47,4818,0.009755085097550851,"Selfesteem, Rosenberg, Rosenberg Selfesteem, Role Selfesteem"
+P3_post_pandemic,53,43,4818,0.00892486508924865,"Adverse Event, Growth, Mortality, Trajectory"
+P3_post_pandemic,54,35,4818,0.0072644250726442506,"Veteran, Military, Combat, Military Veteran"
+P3_post_pandemic,55,41,4818,0.008509755085097551,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression"
+P3_post_pandemic,56,35,4818,0.0072644250726442506,"Polyvictimization, Victimization Experience, Type Victimization, Violent Victimization"
+P3_post_pandemic,57,52,4818,0.010792860107928601,"Young People, People Experience, Harmful, Helpseeking"
+P3_post_pandemic,58,34,4818,0.007056870070568701,"Inflammation, Il, Inflammatory, Cytokine"
+P3_post_pandemic,59,46,4818,0.009547530095475302,"Intimate, Intimate Partner, Partner Violence, Coercive"
+P3_post_pandemic,60,44,4818,0.0091324200913242,"Disease, Cardiovascular, Heart, Cardiovascular Disease"
+P3_post_pandemic,61,41,4818,0.008509755085097551,College students & campus prevention
+P3_post_pandemic,62,41,4818,0.008509755085097551,"Mindfulness, Satisfaction, Couple, Relationship Satisfaction"
+P3_post_pandemic,63,30,4818,0.0062266500622665,"Executive, Executive Function, Ef, Work Memory"
+P3_post_pandemic,64,49,4818,0.01017019510170195,"Csam, Material Csam, Pornography, Enforcement"
+P3_post_pandemic,65,35,4818,0.0072644250726442506,Psychosis & psychotic-like experiences
+P3_post_pandemic,66,32,4818,0.006641760066417601,"Aud, Drinking, Drink, Alcoholrelated"
+P3_post_pandemic,67,33,4818,0.00684931506849315,"Alexithymia, Toronto, Toronto Alexithymia, Ta"
+P3_post_pandemic,68,36,4818,0.007471980074719801,"Pregnancy, Postpartum, Perinatal, Unintended"
+P3_post_pandemic,69,38,4818,0.0078870900788709,"Prevention Program, Schoolbased, Skill, Curriculum"
+P3_post_pandemic,70,34,4818,0.007056870070568701,"Ptg, Heal, Inquiry, Recovery"
+P3_post_pandemic,71,22,4818,0.0045662100456621,"Domestic, Domestic Violence, Dv, Witness Domestic"
+P3_post_pandemic,72,26,4818,0.005396430053964301,"Aggression, Aggressive, Reactive, Relational Aggression"
+P3_post_pandemic,73,33,4818,0.00684931506849315,"Caregiver, Caregiver Support, Caregiver Experience, Caregiverchild"
+P3_post_pandemic,74,30,4818,0.0062266500622665,Maternal & infant mental health
+P3_post_pandemic,75,37,4818,0.007679535076795351,"Family Member, Family Function, Family Environment, Family Dynamic"
+P3_post_pandemic,76,34,4818,0.007056870070568701,"Narrative, Story, Autonomy, Psychoanalysis"
+P3_post_pandemic,78,31,4818,0.006434205064342051,"Selfcompassion, Compassion, Shame, Selfcriticism"
+P3_post_pandemic,80,22,4818,0.0045662100456621,College students & campus prevention
+P3_post_pandemic,81,34,4818,0.007056870070568701,"Childbirth, Maternity, Mistreatment, Obstetric"
+P3_post_pandemic,82,33,4818,0.00684931506849315,"Cptsd, Ptsd Cptsd, Icd, Complex Posttraumatic"
+P3_post_pandemic,83,32,4818,0.006641760066417601,"Experience Adverse, Household Dysfunction, Capital, Deviant"
+P3_post_pandemic,84,24,4818,0.0049813200498132005,"Cortical, Matter, Thickness, Cortical Thickness"
+P3_post_pandemic,85,27,4818,0.00560398505603985,"Men Woman, Masculinity, Gay, Msm"
+P3_post_pandemic,87,19,4818,0.00394354503943545,Psychosis & psychotic-like experiences
+P3_post_pandemic,89,31,4818,0.006434205064342051,Adverse childhood experiences (ACE)
+P3_post_pandemic,90,26,4818,0.005396430053964301,"Gut, Microbiome, Ibs, Axis"
+P3_post_pandemic,91,31,4818,0.006434205064342051,Adverse childhood experiences (ACE)
+P3_post_pandemic,92,16,4818,0.0033208800332088003,"Genetic, Gene, Polymorphism, Geneenvironment"
+P3_post_pandemic,93,31,4818,0.006434205064342051,"Ocd, Obsessivecompulsive, Obsessive Compulsive, Obsessive"
+P3_post_pandemic,94,30,4818,0.0062266500622665,"Reward, Task, Neural, Processing"
+P3_post_pandemic,95,24,4818,0.0049813200498132005,"Sibling, Ssa, Incest, Intrafamilial"
+P3_post_pandemic,96,29,4818,0.006019095060190951,College students & campus prevention
+P3_post_pandemic,97,18,4818,0.0037359900373599006,"Cop Strategy, Cop Style, Style, Religious"
+P3_post_pandemic,98,20,4818,0.004151100041511001,"Infection, Genital, Vaginal, Lesion"
+P3_post_pandemic,99,19,4818,0.00394354503943545,"Adhd, Hyperactivity, Deficit Hyperactivity, Attentiondeficit"
+P3_post_pandemic,100,21,4818,0.0043586550435865505,"Medium, Social Medium, Metoo, News"
+P3_post_pandemic,101,17,4818,0.0035284350352843504,"Divorce, Alienation, Parental Education, Parental Divorce"
+P3_post_pandemic,102,23,4818,0.004773765047737651,"Deprivation, Threat Deprivation, Deprivation Threat, Dimensional"
+P3_post_pandemic,103,20,4818,0.004151100041511001,Adverse childhood experiences (ACE)
+P3_post_pandemic,104,18,4818,0.0037359900373599006,"Hr Ci, Hr, Ci Ci, Schoolchildren"
+P4_recent,0,171,3157,0.05416534684827368,Maternal & infant mental health
+P4_recent,1,203,3157,0.06430155210643015,Adverse childhood experiences (ACE)
+P4_recent,2,91,3157,0.028824833702882482,PTSD treatment (EMDR / trauma-focused CBT)
+P4_recent,3,68,3157,0.021539436173582515,"Csa, Csa Survivor, Experience Csa, Survivor Csa"
+P4_recent,4,80,3157,0.025340513145391194,Intimate partner violence
+P4_recent,5,48,3157,0.015204307887234716,"Injury, Fracture, Infant, Head"
+P4_recent,6,71,3157,0.022489705416534684,"Attachment, Attachment Style, Style, Insecure"
+P4_recent,7,34,3157,0.010769718086791258,COVID-19 pandemic impact
+P4_recent,8,59,3157,0.018688628444726005,"Worker, Protection, Social Work, Social Worker"
+P4_recent,9,64,3157,0.020272410516312955,"Offender, Offend, Juvenile, Criminal"
+P4_recent,10,32,3157,0.010136205258156478,Epigenetics & DNA methylation
+P4_recent,11,37,3157,0.011719987329743428,"Cortisol, Hpa, Axis, Hpa Axis"
+P4_recent,13,65,3157,0.020589166930630346,"Cm, Mdd, History Cm, Relationship Cm"
+P4_recent,14,54,3157,0.017104846373139058,Adverse childhood experiences (ACE)
+P4_recent,15,39,3157,0.012353500158378208,"Hiv, Live Hiv, Adherence, Hiv Aid"
+P4_recent,16,38,3157,0.012036743744060817,"Drug, Opioid, Cannabis, Misuse"
+P4_recent,18,39,3157,0.012353500158378208,Psychosis & psychotic-like experiences
+P4_recent,20,35,3157,0.011086474501108648,"Church, Catholic, Clergy, Religious"
+P4_recent,21,40,3157,0.012670256572695597,Borderline personality disorder
+P4_recent,22,37,3157,0.011719987329743428,"Rape, Perpetrator, Assault, Myth"
+P4_recent,23,42,3157,0.013303769401330377,"Mdd, Major Depressive, Depressive Mdd, Gyrus"
+P4_recent,24,36,3157,0.011403230915426037,"Interviewer, Forensic Interview, Investigative, Forensic"
+P4_recent,25,42,3157,0.013303769401330377,"Pain, Chronic Pain, Pelvic, Pelvic Pain"
+P4_recent,26,39,3157,0.012353500158378208,"Eat, Ed, Eating, Binge Eat"
+P4_recent,27,31,3157,0.009819448843839089,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance"
+P4_recent,28,24,3157,0.007602153943617358,"Connectivity, Functional, Functional Connectivity, Restingstate"
+P4_recent,29,30,3157,0.009502692429521698,"Bd, Bipolar, Mood, Bipolar Bd"
+P4_recent,30,43,3157,0.013620525815647768,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy"
+P4_recent,33,39,3157,0.012353500158378208,"Dissociation, Dissociative, Dissociative Experience, Identity"
+P4_recent,34,30,3157,0.009502692429521698,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence"
+P4_recent,35,26,3157,0.008235666772252138,"Disability, Intellectual, Intellectual Disability, Id"
+P4_recent,36,51,3157,0.016154577130186885,Image-based sexual abuse
+P4_recent,37,33,3157,0.010452961672473868,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction"
+P4_recent,38,35,3157,0.011086474501108648,"Sport, Athlete, Coach, Harassment"
+P4_recent,39,16,3157,0.005068102629078239,Maternal & infant mental health
+P4_recent,40,23,3157,0.007285397529299968,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety"
+P4_recent,41,31,3157,0.009819448843839089,"Externalize, Internalize, Internalize Externalize, Externalize Problem"
+P4_recent,42,38,3157,0.012036743744060817,College students & campus prevention
+P4_recent,43,36,3157,0.011403230915426037,"Traumainformed, Traumainformed Care, Traumainformed Practice, Principle"
+P4_recent,44,19,3157,0.006018371872030409,"Elder, Mistreatment, Elderly, Financial"
+P4_recent,45,30,3157,0.009502692429521698,Adverse childhood experiences (ACE)
+P4_recent,46,34,3157,0.010769718086791258,"Perceive Social, Role Social, Support Depressive, Buffer"
+P4_recent,47,29,3157,0.009185936015204309,"Memory, False, Autobiographical, Autobiographical Memory"
+P4_recent,48,30,3157,0.009502692429521698,"Teacher, Classroom, Attitude, Learner"
+P4_recent,49,27,3157,0.008552423186569529,"Woman Experience, Reproductive, Premenstrual, Family Plan"
+P4_recent,50,26,3157,0.008235666772252138,"Trait, Personality Trait, Personality Function, Personality Pathology"
+P4_recent,51,27,3157,0.008552423186569529,"Disclosure, Disclose, Csa, Tell"
+P4_recent,52,29,3157,0.009185936015204309,"Selfesteem, Rosenberg, Rosenberg Selfesteem, Role Selfesteem"
+P4_recent,53,22,3157,0.006968641114982578,"Adverse Event, Growth, Mortality, Trajectory"
+P4_recent,54,18,3157,0.005701615457713019,"Veteran, Military, Combat, Military Veteran"
+P4_recent,55,28,3157,0.008869179600886918,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression"
+P4_recent,56,24,3157,0.007602153943617358,"Polyvictimization, Victimization Experience, Type Victimization, Violent Victimization"
+P4_recent,57,23,3157,0.007285397529299968,"Young People, People Experience, Harmful, Helpseeking"
+P4_recent,58,21,3157,0.0066518847006651885,"Inflammation, Il, Inflammatory, Cytokine"
+P4_recent,59,15,3157,0.004751346214760849,"Intimate, Intimate Partner, Partner Violence, Coercive"
+P4_recent,60,21,3157,0.0066518847006651885,"Disease, Cardiovascular, Heart, Cardiovascular Disease"
+P4_recent,61,37,3157,0.011719987329743428,College students & campus prevention
+P4_recent,62,28,3157,0.008869179600886918,"Mindfulness, Satisfaction, Couple, Relationship Satisfaction"
+P4_recent,63,22,3157,0.006968641114982578,"Executive, Executive Function, Ef, Work Memory"
+P4_recent,64,29,3157,0.009185936015204309,"Csam, Material Csam, Pornography, Enforcement"
+P4_recent,65,29,3157,0.009185936015204309,Psychosis & psychotic-like experiences
+P4_recent,66,24,3157,0.007602153943617358,"Aud, Drinking, Drink, Alcoholrelated"
+P4_recent,67,23,3157,0.007285397529299968,"Alexithymia, Toronto, Toronto Alexithymia, Ta"
+P4_recent,68,12,3157,0.003801076971808679,"Pregnancy, Postpartum, Perinatal, Unintended"
+P4_recent,69,17,3157,0.005384859043395629,"Prevention Program, Schoolbased, Skill, Curriculum"
+P4_recent,70,22,3157,0.006968641114982578,"Ptg, Heal, Inquiry, Recovery"
+P4_recent,71,23,3157,0.007285397529299968,"Domestic, Domestic Violence, Dv, Witness Domestic"
+P4_recent,72,22,3157,0.006968641114982578,"Aggression, Aggressive, Reactive, Relational Aggression"
+P4_recent,73,22,3157,0.006968641114982578,"Caregiver, Caregiver Support, Caregiver Experience, Caregiverchild"
+P4_recent,74,16,3157,0.005068102629078239,Maternal & infant mental health
+P4_recent,75,20,3157,0.0063351282863477985,"Family Member, Family Function, Family Environment, Family Dynamic"
+P4_recent,76,19,3157,0.006018371872030409,"Narrative, Story, Autonomy, Psychoanalysis"
+P4_recent,78,25,3157,0.007918910357934749,"Selfcompassion, Compassion, Shame, Selfcriticism"
+P4_recent,80,21,3157,0.0066518847006651885,College students & campus prevention
+P4_recent,81,15,3157,0.004751346214760849,"Childbirth, Maternity, Mistreatment, Obstetric"
+P4_recent,82,21,3157,0.0066518847006651885,"Cptsd, Ptsd Cptsd, Icd, Complex Posttraumatic"
+P4_recent,83,13,3157,0.004117833386126069,"Experience Adverse, Household Dysfunction, Capital, Deviant"
+P4_recent,84,23,3157,0.007285397529299968,"Cortical, Matter, Thickness, Cortical Thickness"
+P4_recent,85,13,3157,0.004117833386126069,"Men Woman, Masculinity, Gay, Msm"
+P4_recent,87,17,3157,0.005384859043395629,Psychosis & psychotic-like experiences
+P4_recent,89,16,3157,0.005068102629078239,Adverse childhood experiences (ACE)
+P4_recent,90,17,3157,0.005384859043395629,"Gut, Microbiome, Ibs, Axis"
+P4_recent,91,22,3157,0.006968641114982578,Adverse childhood experiences (ACE)
+P4_recent,92,10,3157,0.0031675641431738993,"Genetic, Gene, Polymorphism, Geneenvironment"
+P4_recent,93,13,3157,0.004117833386126069,"Ocd, Obsessivecompulsive, Obsessive Compulsive, Obsessive"
+P4_recent,94,9,3157,0.0028508077288565093,"Reward, Task, Neural, Processing"
+P4_recent,95,22,3157,0.006968641114982578,"Sibling, Ssa, Incest, Intrafamilial"
+P4_recent,96,26,3157,0.008235666772252138,College students & campus prevention
+P4_recent,97,22,3157,0.006968641114982578,"Cop Strategy, Cop Style, Style, Religious"
+P4_recent,98,15,3157,0.004751346214760849,"Infection, Genital, Vaginal, Lesion"
+P4_recent,99,18,3157,0.005701615457713019,"Adhd, Hyperactivity, Deficit Hyperactivity, Attentiondeficit"
+P4_recent,100,19,3157,0.006018371872030409,"Medium, Social Medium, Metoo, News"
+P4_recent,101,17,3157,0.005384859043395629,"Divorce, Alienation, Parental Education, Parental Divorce"
+P4_recent,102,21,3157,0.0066518847006651885,"Deprivation, Threat Deprivation, Deprivation Threat, Dimensional"
+P4_recent,103,15,3157,0.004751346214760849,Adverse childhood experiences (ACE)
+P4_recent,104,9,3157,0.0028508077288565093,"Hr Ci, Hr, Ci Ci, Schoolchildren"

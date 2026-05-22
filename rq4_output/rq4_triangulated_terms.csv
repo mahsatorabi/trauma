@@ -1,0 +1,284 @@
+bertopic_id,display_name,term,paradigm_support
+0,Maternal & infant mental health,rat,4
+0,Maternal & infant mental health,mouse,3
+0,Maternal & infant mental health,maternal separation,3
+0,Maternal & infant mental health,separation,3
+0,Maternal & infant mental health,expression,4
+0,Maternal & infant mental health,maternal,4
+1,Adverse childhood experiences (ACE),ace,4
+1,Adverse childhood experiences (ACE),experience ace,3
+2,PTSD treatment (EMDR / trauma-focused CBT),emdr,3
+2,PTSD treatment (EMDR / trauma-focused CBT),randomize,3
+2,PTSD treatment (EMDR / trauma-focused CBT),psychotherapy,3
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",csa,4
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",csa survivor,3
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",survivor csa,3
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",disclosure,3
+4,Intimate partner violence,ipv,4
+4,Intimate partner violence,intimate partner,4
+4,Intimate partner violence,intimate,4
+4,Intimate partner violence,partner violence,4
+4,Intimate partner violence,violence ipv,3
+5,"Injury, Fracture, Infant, Head",injury,3
+5,"Injury, Fracture, Infant, Head",fracture,3
+5,"Injury, Fracture, Infant, Head",infant,3
+5,"Injury, Fracture, Infant, Head",head,3
+5,"Injury, Fracture, Infant, Head",pediatric,3
+5,"Injury, Fracture, Infant, Head",skeletal,3
+5,"Injury, Fracture, Infant, Head",suspect,3
+6,"Attachment, Attachment Style, Style, Insecure",attachment,4
+6,"Attachment, Attachment Style, Style, Insecure",attachment style,3
+6,"Attachment, Attachment Style, Style, Insecure",style,3
+6,"Attachment, Attachment Style, Style, Insecure",insecure,3
+6,"Attachment, Attachment Style, Style, Insecure",insecure attachment,3
+6,"Attachment, Attachment Style, Style, Insecure",attachment anxiety,3
+6,"Attachment, Attachment Style, Style, Insecure",anxious,3
+6,"Attachment, Attachment Style, Style, Insecure",avoidant,3
+7,COVID-19 pandemic impact,covid,3
+7,COVID-19 pandemic impact,pandemic,3
+7,COVID-19 pandemic impact,covid pandemic,3
+7,COVID-19 pandemic impact,lockdown,3
+7,COVID-19 pandemic impact,impact covid,3
+7,COVID-19 pandemic impact,coronavirus,3
+8,"Worker, Protection, Social Work, Social Worker",professional,3
+9,"Offender, Offend, Juvenile, Criminal",offender,4
+9,"Offender, Offend, Juvenile, Criminal",offend,3
+9,"Offender, Offend, Juvenile, Criminal",crime,4
+9,"Offender, Offend, Juvenile, Criminal",offense,3
+9,"Offender, Offend, Juvenile, Criminal",recidivism,3
+10,Epigenetics & DNA methylation,methylation,4
+10,Epigenetics & DNA methylation,dna,4
+10,Epigenetics & DNA methylation,dna methylation,4
+10,Epigenetics & DNA methylation,epigenetic,3
+10,Epigenetics & DNA methylation,gene,3
+10,Epigenetics & DNA methylation,nr,3
+10,Epigenetics & DNA methylation,cpg,3
+11,"Cortisol, Hpa, Axis, Hpa Axis",cortisol,4
+11,"Cortisol, Hpa, Axis, Hpa Axis",hpa,4
+11,"Cortisol, Hpa, Axis, Hpa Axis",axis,3
+11,"Cortisol, Hpa, Axis, Hpa Axis",hpa axis,4
+12,Suicidality & suicidal ideation,attempt,4
+12,Suicidality & suicidal ideation,suicide attempt,4
+12,Suicidality & suicidal ideation,suicidal,4
+12,Suicidality & suicidal ideation,ideation,4
+12,Suicidality & suicidal ideation,attempt suicide,3
+12,Suicidality & suicidal ideation,suicidal ideation,4
+12,Suicidality & suicidal ideation,suicide,3
+13,"Cm, Mdd, History Cm, Relationship Cm",cm,3
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",hiv,3
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",live hiv,3
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",adherence,3
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",infection,3
+16,"Drug, Opioid, Cannabis, Misuse",drug,3
+16,"Drug, Opioid, Cannabis, Misuse",cannabis,3
+16,"Drug, Opioid, Cannabis, Misuse",addiction,4
+17,Suicidality & suicidal ideation,nssi,4
+17,Suicidality & suicidal ideation,nonsuicidal,3
+17,Suicidality & suicidal ideation,self,3
+17,Suicidality & suicidal ideation,injury,3
+17,Suicidality & suicidal ideation,suicidal self,3
+17,Suicidality & suicidal ideation,self injury,3
+17,Suicidality & suicidal ideation,non suicidal,3
+17,Suicidality & suicidal ideation,suicidal,3
+18,Psychosis & psychotic-like experiences,psychosis,3
+18,Psychosis & psychotic-like experiences,psychotic,3
+18,Psychosis & psychotic-like experiences,schizophrenia,3
+19,Adverse childhood experiences (ACE),class,3
+19,Adverse childhood experiences (ACE),latent class,3
+19,Adverse childhood experiences (ACE),latent,3
+20,"Church, Catholic, Clergy, Religious",church,3
+20,"Church, Catholic, Clergy, Religious",catholic,3
+20,"Church, Catholic, Clergy, Religious",clergy,3
+20,"Church, Catholic, Clergy, Religious",religious,4
+20,"Church, Catholic, Clergy, Religious",crisis,3
+20,"Church, Catholic, Clergy, Religious",spiritual,3
+20,"Church, Catholic, Clergy, Religious",institutional,3
+21,Borderline personality disorder,bpd,3
+21,Borderline personality disorder,borderline,4
+21,Borderline personality disorder,borderline personality,3
+21,Borderline personality disorder,personality bpd,3
+21,Borderline personality disorder,trait,3
+22,"Rape, Perpetrator, Assault, Myth",rape,3
+22,"Rape, Perpetrator, Assault, Myth",perpetrator,3
+22,"Rape, Perpetrator, Assault, Myth",assault,3
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",mdd,4
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",major depressive,3
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",depressive mdd,3
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",depressive,3
+24,"Interviewer, Forensic Interview, Investigative, Forensic",interviewer,3
+24,"Interviewer, Forensic Interview, Investigative, Forensic",forensic interview,3
+24,"Interviewer, Forensic Interview, Investigative, Forensic",investigative,3
+24,"Interviewer, Forensic Interview, Investigative, Forensic",forensic,3
+24,"Interviewer, Forensic Interview, Investigative, Forensic",witness,3
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",pain,4
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",chronic pain,4
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",pelvic,4
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",pelvic pain,4
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",fibromyalgia,4
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",chronic,3
+26,"Eat, Ed, Eating, Binge Eat",eat,4
+26,"Eat, Ed, Eating, Binge Eat",ed,4
+26,"Eat, Ed, Eating, Binge Eat",eating,4
+26,"Eat, Ed, Eating, Binge Eat",binge eat,4
+26,"Eat, Ed, Eating, Binge Eat",binge,4
+26,"Eat, Ed, Eating, Binge Eat",nervosa,4
+26,"Eat, Ed, Eating, Binge Eat",anorexia,4
+26,"Eat, Ed, Eating, Binge Eat",anorexia nervosa,4
+26,"Eat, Ed, Eating, Binge Eat",bulimia,3
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",sleep,3
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",sleep quality,3
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",sleep disturbance,3
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",disturbance,3
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",sleep problem,3
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",sleep duration,3
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",duration,3
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",insomnia,4
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",connectivity,4
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",functional,4
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",functional connectivity,4
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",amygdala,3
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",cortex,4
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",neural,4
+29,"Bd, Bipolar, Mood, Bipolar Bd",bd,3
+29,"Bd, Bipolar, Mood, Bipolar Bd",bipolar,4
+29,"Bd, Bipolar, Mood, Bipolar Bd",mood,3
+29,"Bd, Bipolar, Mood, Bipolar Bd",bipolar bd,3
+29,"Bd, Bipolar, Mood, Bipolar Bd",episode,3
+29,"Bd, Bipolar, Mood, Bipolar Bd",onset,3
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",emotion regulation,4
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",dysregulation,3
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",emotion dysregulation,3
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",regulation strategy,4
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",difficulty emotion,3
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",regulation difficulty,3
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",regulation,3
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",emotion,3
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",strategy,3
+31,Suicidality & suicidal ideation,ideation,3
+32,"Psychometric, Psychometric Property, Internal Consistency, Property",psychometric,4
+32,"Psychometric, Psychometric Property, Internal Consistency, Property",psychometric property,4
+32,"Psychometric, Psychometric Property, Internal Consistency, Property",internal consistency,4
+32,"Psychometric, Psychometric Property, Internal Consistency, Property",property,4
+32,"Psychometric, Psychometric Property, Internal Consistency, Property",consistency,4
+32,"Psychometric, Psychometric Property, Internal Consistency, Property",internal,4
+32,"Psychometric, Psychometric Property, Internal Consistency, Property",validity,3
+32,"Psychometric, Psychometric Property, Internal Consistency, Property",reliability,3
+32,"Psychometric, Psychometric Property, Internal Consistency, Property",item,3
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",dissociation,3
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",dissociative,4
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",dissociative experience,3
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",identity,3
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",dissociative identity,3
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",amnesia,3
+35,"Disability, Intellectual, Intellectual Disability, Id",disability,3
+35,"Disability, Intellectual, Intellectual Disability, Id",intellectual,3
+35,"Disability, Intellectual, Intellectual Disability, Id",intellectual disability,3
+35,"Disability, Intellectual, Intellectual Disability, Id",id,3
+35,"Disability, Intellectual, Intellectual Disability, Id",sexuality,4
+36,Image-based sexual abuse,image,3
+36,Image-based sexual abuse,revenge,3
+36,Image-based sexual abuse,pornography,3
+36,Image-based sexual abuse,digital,3
+38,"Sport, Athlete, Coach, Harassment",sport,3
+38,"Sport, Athlete, Coach, Harassment",athlete,3
+38,"Sport, Athlete, Coach, Harassment",coach,3
+38,"Sport, Athlete, Coach, Harassment",harassment,3
+38,"Sport, Athlete, Coach, Harassment",interpersonal violence,3
+39,Maternal & infant mental health,mother,3
+39,Maternal & infant mental health,intergenerational,3
+39,Maternal & infant mental health,father,3
+39,Maternal & infant mental health,parenting,3
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",depression anxiety,3
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",anxiety depression,3
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",inventory,3
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",depression,3
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",externalize,3
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",internalize,3
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",internalize externalize,3
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",externalize problem,3
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",internalize problem,3
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",externalize internalize,3
+42,College students & campus prevention,college,3
+42,College students & campus prevention,college student,3
+44,"Elder, Mistreatment, Elderly, Financial",elder,3
+45,Adverse childhood experiences (ACE),foster,3
+45,Adverse childhood experiences (ACE),foster care,3
+45,Adverse childhood experiences (ACE),placement,3
+45,Adverse childhood experiences (ACE),welfare,3
+45,Adverse childhood experiences (ACE),home,3
+46,"Perceive Social, Role Social, Support Depressive, Buffer",perceive social,3
+50,"Trait, Personality Trait, Personality Function, Personality Pathology",trait,3
+50,"Trait, Personality Trait, Personality Function, Personality Pathology",personality trait,3
+50,"Trait, Personality Trait, Personality Function, Personality Pathology",neuroticism,3
+52,"Selfesteem, Rosenberg, Rosenberg Selfesteem, Role Selfesteem",rosenberg,3
+52,"Selfesteem, Rosenberg, Rosenberg Selfesteem, Role Selfesteem",esteem,4
+52,"Selfesteem, Rosenberg, Rosenberg Selfesteem, Role Selfesteem",self esteem,3
+52,"Selfesteem, Rosenberg, Rosenberg Selfesteem, Role Selfesteem",self,3
+54,"Veteran, Military, Combat, Military Veteran",military,3
+58,"Inflammation, Il, Inflammatory, Cytokine",inflammation,4
+58,"Inflammation, Il, Inflammatory, Cytokine",il,4
+58,"Inflammation, Il, Inflammatory, Cytokine",inflammatory,4
+58,"Inflammation, Il, Inflammatory, Cytokine",cytokine,4
+58,"Inflammation, Il, Inflammatory, Cytokine",immune,4
+58,"Inflammation, Il, Inflammatory, Cytokine",crp,3
+58,"Inflammation, Il, Inflammatory, Cytokine",marker,3
+59,"Intimate, Intimate Partner, Partner Violence, Coercive",violence woman,3
+59,"Intimate, Intimate Partner, Partner Violence, Coercive",domestic,3
+59,"Intimate, Intimate Partner, Partner Violence, Coercive",domestic violence,3
+60,"Disease, Cardiovascular, Heart, Cardiovascular Disease",disease,4
+60,"Disease, Cardiovascular, Heart, Cardiovascular Disease",cardiovascular,4
+60,"Disease, Cardiovascular, Heart, Cardiovascular Disease",cardiovascular disease,3
+60,"Disease, Cardiovascular, Heart, Cardiovascular Disease",cvd,3
+61,College students & campus prevention,subjective,3
+61,College students & campus prevention,satisfaction,3
+63,"Executive, Executive Function, Ef, Work Memory",executive,3
+63,"Executive, Executive Function, Ef, Work Memory",executive function,3
+63,"Executive, Executive Function, Ef, Work Memory",work memory,4
+63,"Executive, Executive Function, Ef, Work Memory",performance,3
+63,"Executive, Executive Function, Ef, Work Memory",memory,4
+63,"Executive, Executive Function, Ef, Work Memory",deficit,3
+63,"Executive, Executive Function, Ef, Work Memory",task,3
+74,Maternal & infant mental health,infant,3
+74,Maternal & infant mental health,maternal,3
+74,Maternal & infant mental health,mother,3
+74,Maternal & infant mental health,postpartum,3
+74,Maternal & infant mental health,birth,3
+74,Maternal & infant mental health,pregnancy,3
+77,"Aor, Aor Ci, Ci Aor, Ethiopia",aor,3
+77,"Aor, Aor Ci, Ci Aor, Ethiopia",aor ci,3
+77,"Aor, Aor Ci, Ci Aor, Ethiopia",ci aor,4
+77,"Aor, Aor Ci, Ci Aor, Ethiopia",adjust,3
+77,"Aor, Aor Ci, Ci Aor, Ethiopia",adjust aor,3
+77,"Aor, Aor Ci, Ci Aor, Ethiopia",ci,3
+80,College students & campus prevention,date violence,3
+80,College students & campus prevention,perpetration,3
+82,"Cptsd, Ptsd Cptsd, Icd, Complex Posttraumatic",cptsd,3
+84,"Cortical, Matter, Thickness, Cortical Thickness",cortical,3
+84,"Cortical, Matter, Thickness, Cortical Thickness",matter,4
+84,"Cortical, Matter, Thickness, Cortical Thickness",thickness,3
+84,"Cortical, Matter, Thickness, Cortical Thickness",volume,3
+86,Suicidality & suicidal ideation,attempt,3
+86,Suicidality & suicidal ideation,suicide attempt,3
+87,Psychosis & psychotic-like experiences,schizophrenia,3
+87,Psychosis & psychotic-like experiences,psychosis,3
+92,"Genetic, Gene, Polymorphism, Geneenvironment",genetic,3
+92,"Genetic, Gene, Polymorphism, Geneenvironment",gene,3
+92,"Genetic, Gene, Polymorphism, Geneenvironment",polymorphism,3
+92,"Genetic, Gene, Polymorphism, Geneenvironment",genotype,3
+92,"Genetic, Gene, Polymorphism, Geneenvironment",polygenic,4
+93,"Ocd, Obsessivecompulsive, Obsessive Compulsive, Obsessive",ocd,3
+93,"Ocd, Obsessivecompulsive, Obsessive Compulsive, Obsessive",obsessive compulsive,3
+93,"Ocd, Obsessivecompulsive, Obsessive Compulsive, Obsessive",obsessive,3
+93,"Ocd, Obsessivecompulsive, Obsessive Compulsive, Obsessive",compulsive,3
+94,"Reward, Task, Neural, Processing",neural,3
+100,"Medium, Social Medium, Metoo, News",medium,3
+100,"Medium, Social Medium, Metoo, News",discourse,3
+103,Adverse childhood experiences (ACE),racial,3
+103,Adverse childhood experiences (ACE),black,3
+103,Adverse childhood experiences (ACE),american,3
+103,Adverse childhood experiences (ACE),discrimination,3
+103,Adverse childhood experiences (ACE),white,3
+103,Adverse childhood experiences (ACE),african american,3
+103,Adverse childhood experiences (ACE),race,3
+103,Adverse childhood experiences (ACE),ethnic,3
+103,Adverse childhood experiences (ACE),disparity,3

@@ -1,0 +1,106 @@
+topic,topic_type,include_in_trends,display_name,label_keywords,document_count
+0,substantive,True,Maternal & infant mental health,"rat, mouse, maternal separation, el, separation, expression, earlylife, maternal",843
+1,substantive,True,Adverse childhood experiences (ACE),"ace, experience ace, household dysfunction, ace exposure, relationship ace, ace ace, disease, exposure ace",758
+2,substantive,True,PTSD treatment (EMDR / trauma-focused CBT),"emdr, posttraumatic ptsd, traumafocused, ptsd severity, tfcbt, randomize, reprocess, psychotherapy",442
+3,substantive,True,"Csa, Csa Survivor, Experience Csa, Survivor Csa","csa, csa survivor, experience csa, survivor csa, history csa, perpetrator, csa experience, disclosure",347
+4,substantive,True,Intimate partner violence,"ipv, intimate partner, intimate, partner violence, violence ipv, perpetration, ipv victimization, experience ipv",323
+5,substantive,True,"Injury, Fracture, Infant, Head","injury, fracture, infant, head, pediatric, skeletal, nonaccidental, hemorrhage",313
+6,substantive,True,"Attachment, Attachment Style, Style, Insecure","attachment, attachment style, style, insecure, insecure attachment, attachment anxiety, attachment insecurity, anxious",306
+7,substantive,True,COVID-19 pandemic impact,"covid, pandemic, covid pandemic, lockdown, impact covid, coronavirus, pandemicrelated, outbreak",270
+8,substantive,True,"Worker, Protection, Social Work, Social Worker","worker, protection, social work, social worker, welfare, professional, barrier, decision",266
+9,substantive,True,"Offender, Offend, Juvenile, Criminal","offender, offend, juvenile, criminal, crime, justice, offense, recidivism",266
+10,substantive,True,Epigenetics & DNA methylation,"methylation, dna, dna methylation, epigenetic, gene, nr, fkbp, promoter",247
+11,substantive,True,"Cortisol, Hpa, Axis, Hpa Axis","cortisol, hpa, axis, hpa axis, hair, hair cortisol, diurnal, hypothalamicpituitaryadrenal",243
+12,suicidality,False,Suicidality & suicidal ideation,"attempt, suicide attempt, suicidal, ideation, attempt suicide, suicide ideation, suicidal ideation, suicidality",240
+13,substantive,True,"Cm, Mdd, History Cm, Relationship Cm","cm, mdd, history cm, relationship cm, cm experience, cm exposure, cm type, experience cm",227
+14,substantive,True,Adverse childhood experiences (ACE),"role resilience, connordavidson, connordavidson resilience, resilience depression, cdrisc, family resilience, relationship resilience, ace",218
+15,substantive,True,"Hiv, Live Hiv, Adherence, Hiv Aid","hiv, live hiv, adherence, hiv aid, infection, msm, aid, syndemic",207
+16,substantive,True,"Drug, Opioid, Cannabis, Misuse","drug, opioid, cannabis, misuse, sud, substance misuse, prescription, marijuana",204
+17,suicidality,False,Suicidality & suicidal ideation,"nssi, selfinjury, nonsuicidal, nonsuicidal selfinjury, selfinjury nssi, chinese, dysregulation, harm",199
+18,substantive,True,Psychosis & psychotic-like experiences,"psychosis, psychotic, fep, chr, firstepisode psychosis, hallucination, firstepisode, schizophrenia",197
+19,methods,False,Adverse childhood experiences (ACE),"class, latent class, latent, lca, ace, membership, class identify, class class",195
+20,substantive,True,"Church, Catholic, Clergy, Religious","church, catholic, clergy, religious, crisis, spiritual, religion, institutional",194
+21,substantive,True,Borderline personality disorder,"bpd, borderline, borderline personality, personality bpd, impulsivity, trait, personality feature, emotion regulation",191
+22,substantive,True,"Rape, Perpetrator, Assault, Myth","rape, perpetrator, assault, myth, rape myth, victimsurvivors, police, victim perpetrator",187
+23,substantive,True,"Mdd, Major Depressive, Depressive Mdd, Gyrus","mdd, major depressive, depressive mdd, gyrus, mdd healthy, connectivity, hcs, functional",186
+24,substantive,True,"Interviewer, Forensic Interview, Investigative, Forensic","interviewer, forensic interview, investigative, forensic, rapport, feedback, police, witness",185
+25,substantive,True,"Pain, Chronic Pain, Pelvic, Pelvic Pain","pain, chronic pain, pelvic, pelvic pain, fibromyalgia, catastrophizing, interference, opioid",183
+26,substantive,True,"Eat, Ed, Eating, Binge Eat","eat, ed, eating, binge eat, binge, nervosa, anorexia, disorder",179
+27,substantive,True,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance","sleep, sleep quality, sleep disturbance, disturbance, sleep problem, sleep duration, duration, insomnia",170
+28,substantive,True,"Connectivity, Functional, Functional Connectivity, Restingstate","connectivity, functional, functional connectivity, restingstate, amygdala, fc, cortex, restingstate functional",167
+29,substantive,True,"Bd, Bipolar, Mood, Bipolar Bd","bd, bipolar, mood, bipolar bd, episode, mania, onset, mdd",165
+30,substantive,True,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy","emotion regulation, dysregulation, emotion dysregulation, regulation strategy, difficulty emotion, suppression, er, regulation difficulty",165
+31,suicidality,False,Suicidality & suicidal ideation,"suicidal ideation, ideation, suicidal, relationship suicidal, thought, suicidality, experience suicidal, ideation suicidal",157
+32,methods,False,"Psychometric, Psychometric Property, Internal Consistency, Property","psychometric, psychometric property, internal consistency, property, consistency, internal, ctqsf, confirmatory",156
+33,substantive,True,"Dissociation, Dissociative, Dissociative Experience, Identity","dissociation, dissociative, dissociative experience, identity, dissociative identity, depersonalization, amnesia, psychotic",146
+34,substantive,True,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence","violence exposure, genderbased, genderbased violence, exposure violence, experience violence, family violence, type violence, violence violence",146
+35,substantive,True,"Disability, Intellectual, Intellectual Disability, Id","disability, intellectual, intellectual disability, id, sexuality, developmental disability, sexuality education, disabled",144
+36,substantive,True,Image-based sexual abuse,"imagebased, nonconsensual, image, sexting, revenge, pornography, porn, digital",141
+37,substantive,True,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction","parentchild, parentchild relationship, parenting, parentchild interaction, foster parent, parent parent, autistic, caregiver",140
+38,substantive,True,"Sport, Athlete, Coach, Harassment","sport, athlete, coach, harassment, safeguard, iv, interpersonal violence, safe",136
+39,substantive,True,Maternal & infant mental health,"mother, maternal, intergenerational, transmission, intergenerational transmission, motherchild, maternal depression, offspring",135
+40,substantive,True,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety","depression anxiety, anxiety depression, anxiety depressive, trait anxiety, migraine, depressive anxiety, social anxiety, gad",134
+41,substantive,True,"Externalize, Internalize, Internalize Externalize, Externalize Problem","externalize, internalize, internalize externalize, externalize problem, internalize problem, externalize internalize, externalize behavior, conduct problem",133
+42,substantive,True,College students & campus prevention,"college, college student, student experience, academic, harassment, campus, assault, nursing student",132
+43,substantive,True,"Traumainformed, Traumainformed Care, Traumainformed Practice, Principle","traumainformed, traumainformed care, traumainformed practice, principle, training, implementation, traumainformed approach, staff",132
+44,substantive,True,"Elder, Mistreatment, Elderly, Financial","elder, mistreatment, elderly, financial, caregiver, dementia, older, old people",130
+45,substantive,True,Adverse childhood experiences (ACE),"foster, foster care, outofhome, placement, outofhome care, welfare, residential, residential care",126
+46,substantive,True,"Perceive Social, Role Social, Support Depressive, Buffer","perceive social, role social, support depressive, buffer, support cop, support social, cm, social relationship",126
+47,substantive,True,"Memory, False, Autobiographical, Autobiographical Memory","memory, false, autobiographical, autobiographical memory, recover, recall, repress, work memory",124
+48,substantive,True,"Teacher, Classroom, Attitude, Learner","teacher, classroom, attitude, learner, educator, preschool, teach, csa",122
+49,substantive,True,"Woman Experience, Reproductive, Premenstrual, Family Plan","woman experience, reproductive, premenstrual, family plan, smi, syndrome, planning, marriage",121
+50,substantive,True,"Trait, Personality Trait, Personality Function, Personality Pathology","trait, personality trait, personality function, personality pathology, pd, pathology, maladaptive personality, traits",120
+51,substantive,True,"Disclosure, Disclose, Csa, Tell","disclosure, disclose, csa, tell, delay, reaction, recipient, barrier",120
+52,substantive,True,"Selfesteem, Rosenberg, Rosenberg Selfesteem, Role Selfesteem","selfesteem, rosenberg, rosenberg selfesteem, role selfesteem, momentary, depression selfesteem, esteem, cyberbullying",119
+53,substantive,True,"Adverse Event, Growth, Mortality, Trajectory","adverse event, growth, mortality, trajectory, dementia, asthma, ptg, frailty",119
+54,substantive,True,"Veteran, Military, Combat, Military Veteran","veteran, military, combat, military veteran, military service, personnel, deployment, service member",119
+55,substantive,True,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression","psychotherapy, chronic depression, antidepressant, major depression, rumination, relationship depression, treatmentresistant, persistent depressive",119
+56,substantive,True,"Polyvictimization, Victimization Experience, Type Victimization, Violent Victimization","polyvictimization, victimization experience, type victimization, violent victimization, cyberbullying victimization, minority, revictimization, assault",118
+57,substantive,True,"Young People, People Experience, Harmful, Helpseeking","young people, people experience, harmful, helpseeking, barrier, app, safety, practitioner",118
+58,substantive,True,"Inflammation, Il, Inflammatory, Cytokine","inflammation, il, inflammatory, cytokine, immune, crp, marker, creactive",117
+59,substantive,True,"Intimate, Intimate Partner, Partner Violence, Coercive","intimate, intimate partner, partner violence, coercive, economic, violence woman, domestic, experience intimate",115
+60,substantive,True,"Disease, Cardiovascular, Heart, Cardiovascular Disease","disease, cardiovascular, heart, cardiovascular disease, diabetes, cvd, reactivity, type diabetes",114
+61,substantive,True,College students & campus prevention,"subjective wellbeing, subjective, satisfaction, hedonic, wellbeing resilience, resilience wellbeing, college, wellbeing young",114
+62,substantive,True,"Mindfulness, Satisfaction, Couple, Relationship Satisfaction","mindfulness, satisfaction, couple, relationship satisfaction, relationship quality, romantic, romantic relationship, marital",113
+63,substantive,True,"Executive, Executive Function, Ef, Work Memory","executive, executive function, ef, work memory, performance, memory, deficit, task",110
+64,substantive,True,"Csam, Material Csam, Pornography, Enforcement","csam, material csam, pornography, enforcement, law enforcement, law, technology, digital",108
+65,substantive,True,Psychosis & psychotic-like experiences,"ct, schizophrenia, psychosis, relationship ct, fep, lifestyle, cortical, antipsychotic",105
+66,substantive,True,"Aud, Drinking, Drink, Alcoholrelated","aud, drinking, drink, alcoholrelated, consumption, alcohol consumption, alcohol problem, alcohol misuse",103
+67,substantive,True,"Alexithymia, Toronto, Toronto Alexithymia, Ta","alexithymia, toronto, toronto alexithymia, ta, feeling, alexithymia ta, difficulty identify, somatic",100
+68,substantive,True,"Pregnancy, Postpartum, Perinatal, Unintended","pregnancy, postpartum, perinatal, unintended, teenage pregnancy, unintended pregnancy, pregnant, teenage",100
+69,substantive,True,"Prevention Program, Schoolbased, Skill, Curriculum","prevention program, schoolbased, skill, curriculum, implementation, effectiveness, safety, posttest",98
+70,substantive,True,"Ptg, Heal, Inquiry, Recovery","ptg, heal, inquiry, recovery, growth, posttraumatic growth, redress, theme",97
+71,substantive,True,"Domestic, Domestic Violence, Dv, Witness Domestic","domestic, domestic violence, dv, witness domestic, witness, coercive, experience domestic, victim domestic",97
+72,substantive,True,"Aggression, Aggressive, Reactive, Relational Aggression","aggression, aggressive, reactive, relational aggression, trait, anger, proactive, relational",96
+73,substantive,True,"Caregiver, Caregiver Support, Caregiver Experience, Caregiverchild","caregiver, caregiver support, caregiver experience, caregiverchild, nonoffending, caregiving, family caregiver, experience caregiver",95
+74,substantive,True,Maternal & infant mental health,"infant, motherinfant, maternal, mother, postpartum, bonding, birth, bond",94
+75,substantive,True,"Family Member, Family Function, Family Environment, Family Dynamic","family member, family function, family environment, family dynamic, incest, family origin, family relationship, cohesion",94
+76,substantive,True,"Narrative, Story, Autonomy, Psychoanalysis","narrative, story, autonomy, psychoanalysis, write, voice, writing, conception",93
+77,methods,False,"Aor, Aor Ci, Ci Aor, Ethiopia","aor, aor ci, ci aor, ethiopia, adjust, adjust aor, multivariable, birth",91
+78,substantive,True,"Selfcompassion, Compassion, Shame, Selfcriticism","selfcompassion, compassion, shame, selfcriticism, mindfulness, gratitude, mediate role, posttraumatic growth",91
+79,methods,False,"Latent Profile, Latent, Profile Identify, Distinct Profile","latent profile, latent, profile identify, distinct profile, fatigue, lpa, subgroup, morning",91
+80,substantive,True,College students & campus prevention,"date violence, perpetration, dv, cyber, violence perpetration, victimization perpetration, violence victimization, romantic",89
+81,substantive,True,"Childbirth, Maternity, Mistreatment, Obstetric","childbirth, maternity, mistreatment, obstetric, respectful, birth, facility, delivery",88
+82,substantive,True,"Cptsd, Ptsd Cptsd, Icd, Complex Posttraumatic","cptsd, ptsd cptsd, icd, complex posttraumatic, dso, complex ptsd, posttraumatic cptsd, ptsd complex",87
+83,substantive,True,"Experience Adverse, Household Dysfunction, Capital, Deviant","experience adverse, household dysfunction, capital, deviant, frailty, social capital, dementia, relationship adverse",87
+84,substantive,True,"Cortical, Matter, Thickness, Cortical Thickness","cortical, matter, thickness, cortical thickness, gray, gray matter, volume, white matter",86
+85,substantive,True,"Men Woman, Masculinity, Gay, Msm","men woman, masculinity, gay, msm, woman men, gay men, minority, men men",85
+86,suicidality,False,Suicidality & suicidal ideation,"selfharm, harm, selfharm suicide, deliberate selfharm, deliberate, attempt, suicide attempt, repetition",83
+87,substantive,True,Psychosis & psychotic-like experiences,"schizophrenia, schizophrenia spectrum, psychosis, spectrum, psychotic, social functioning, functioning, panss",83
+88,methods,False,"Node, Bridge, Central, Network Structure","node, bridge, central, network structure, social network, centrality, strength, network approach",82
+89,substantive,True,Adverse childhood experiences (ACE),"bully, bullying, bully victimization, perpetration, peer bully, workplace, experience bully, cyberbullying",82
+90,substantive,True,"Gut, Microbiome, Ibs, Axis","gut, microbiome, ibs, axis, composition, gut microbiome, bowel, bowel syndrome",81
+91,substantive,True,Adverse childhood experiences (ACE),"workplace, nurse, healthcare, worker, healthcare worker, verbal, staff, occupational",78
+92,substantive,True,"Genetic, Gene, Polymorphism, Geneenvironment","genetic, gene, polymorphism, geneenvironment, genotype, val, polygenic, val meet",77
+93,substantive,True,"Ocd, Obsessivecompulsive, Obsessive Compulsive, Obsessive","ocd, obsessivecompulsive, obsessive compulsive, obsessive, compulsive, contamination, compulsion, onset",76
+94,substantive,True,"Reward, Task, Neural, Processing","reward, task, neural, processing, reward sensitivity, decisionmaking, striatum, monetary",75
+95,substantive,True,"Sibling, Ssa, Incest, Intrafamilial","sibling, ssa, incest, intrafamilial, harmful, disclosure, professional, familial",74
+96,substantive,True,College students & campus prevention,"addiction, internet addiction, internet, game, smartphone, ia, college student, problematic internet",73
+97,substantive,True,"Cop Strategy, Cop Style, Style, Religious","cop strategy, cop style, style, religious, coping, avoidant, coping style, fatigue",73
+98,substantive,True,"Infection, Genital, Vaginal, Lesion","infection, genital, vaginal, lesion, sti, yearold, sexually, rare",68
+99,substantive,True,"Adhd, Hyperactivity, Deficit Hyperactivity, Attentiondeficit","adhd, hyperactivity, deficit hyperactivity, attentiondeficit, attentiondeficit hyperactivity, hyperactivity adhd, attention deficit, deficit",67
+100,substantive,True,"Medium, Social Medium, Metoo, News","medium, social medium, metoo, news, discourse, movement, coverage, digital",67
+101,substantive,True,"Divorce, Alienation, Parental Education, Parental Divorce","divorce, alienation, parental education, parental divorce, pa, paternal, violence parental, warmth",67
+102,substantive,True,"Deprivation, Threat Deprivation, Deprivation Threat, Dimensional","deprivation, threat deprivation, deprivation threat, dimensional, ela, development deprivation, neural development, neural",66
+103,substantive,True,Adverse childhood experiences (ACE),"racial, black, american, discrimination, white, racial discrimination, african american, race",65
+104,substantive,True,"Hr Ci, Hr, Ci Ci, Schoolchildren","hr ci, hr, ci ci, schoolchildren, mortality, intercourse, rr ci, difference ci",61

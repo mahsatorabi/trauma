@@ -1,0 +1,186 @@
+{
+  "generated": "2026-05-19T17:27:32",
+  "n_documents": 19716,
+  "contemporary_years": [
+    2022,
+    2026
+  ],
+  "n_contemporary_docs": 14114,
+  "n_keyword_nodes": 1102,
+  "n_keyword_clusters": 4,
+  "top_emerging_topics": [
+    {
+      "topic": 36,
+      "display_name": "Image-based sexual abuse",
+      "kendall_tau": 0.9047619047619049,
+      "research_opportunity_index": 8.916920049269574
+    },
+    {
+      "topic": 61,
+      "display_name": "College students & campus prevention",
+      "kendall_tau": 0.8095238095238096,
+      "research_opportunity_index": 6.928654871829009
+    },
+    {
+      "topic": 13,
+      "display_name": "Cm, Mdd, History Cm, Relationship Cm",
+      "kendall_tau": 0.7142857142857143,
+      "research_opportunity_index": 5.162871774458097
+    },
+    {
+      "topic": 23,
+      "display_name": "Mdd, Major Depressive, Depressive Mdd, Gyrus",
+      "kendall_tau": 0.7142857142857143,
+      "research_opportunity_index": 4.664981333305661
+    },
+    {
+      "topic": 1,
+      "display_name": "Adverse childhood experiences (ACE)",
+      "kendall_tau": 0.8095238095238096,
+      "research_opportunity_index": 1.566716518090701
+    }
+  ],
+  "top_gap_topics": [
+    {
+      "topic": 102,
+      "display_name": "Deprivation, Threat Deprivation, Deprivation Threat, Dimensional",
+      "gap_score": 4.615385261238365,
+      "theme_class": "emerging"
+    },
+    {
+      "topic": 36,
+      "display_name": "Image-based sexual abuse",
+      "gap_score": 4.3190344595593135,
+      "theme_class": "emerging"
+    },
+    {
+      "topic": 96,
+      "display_name": "College students & campus prevention",
+      "gap_score": 4.2423870918362265,
+      "theme_class": "emerging"
+    },
+    {
+      "topic": 61,
+      "display_name": "College students & campus prevention",
+      "gap_score": 3.2545190573561418,
+      "theme_class": "emerging"
+    },
+    {
+      "topic": 78,
+      "display_name": "Selfcompassion, Compassion, Shame, Selfcriticism",
+      "gap_score": 3.0211197044012423,
+      "theme_class": "emerging"
+    },
+    {
+      "topic": 82,
+      "display_name": "Cptsd, Ptsd Cptsd, Icd, Complex Posttraumatic",
+      "gap_score": 2.9191362534430874,
+      "theme_class": "emerging"
+    },
+    {
+      "topic": 100,
+      "display_name": "Medium, Social Medium, Metoo, News",
+      "gap_score": 2.7857267912669585,
+      "theme_class": "emerging"
+    },
+    {
+      "topic": 73,
+      "display_name": "Caregiver, Caregiver Support, Caregiver Experience, Caregiverchild",
+      "gap_score": 2.235049596936488,
+      "theme_class": "emerging"
+    }
+  ],
+  "top_emerging_keywords": [
+    {
+      "term": "trauma-informed practice",
+      "burst_score": 3.367295829986474
+    },
+    {
+      "term": "global health",
+      "burst_score": 3.295836866004329
+    },
+    {
+      "term": "lived experience",
+      "burst_score": 3.295836866004329
+    },
+    {
+      "term": "meaning in life",
+      "burst_score": 3.218875824868201
+    },
+    {
+      "term": "early -life stress",
+      "burst_score": 3.044522437723423
+    },
+    {
+      "term": "proactive aggression",
+      "burst_score": 3.044522437723423
+    },
+    {
+      "term": "procedural justice",
+      "burst_score": 3.044522437723423
+    },
+    {
+      "term": "teenagers",
+      "burst_score": 2.833213344056216
+    },
+    {
+      "term": "environmental factors",
+      "burst_score": 2.833213344056216
+    },
+    {
+      "term": "porn",
+      "burst_score": 2.833213344056216
+    }
+  ],
+  "priority_gap_domains": [
+    {
+      "domain": "method",
+      "theme": "Participatory & co-design",
+      "prevalence_pct": 0.25867315885575165,
+      "gap_priority_rank": 3.5210416850410478
+    },
+    {
+      "domain": "population",
+      "theme": "Indigenous & ethnic minority children",
+      "prevalence_pct": 0.31953743152769326,
+      "gap_priority_rank": 1.946280868019267
+    },
+    {
+      "domain": "method",
+      "theme": "Machine learning & prediction",
+      "prevalence_pct": 0.5984986812740921,
+      "gap_priority_rank": 1.9007696498396083
+    },
+    {
+      "domain": "context",
+      "theme": "Digital & technology-facilitated harm",
+      "prevalence_pct": 1.379590180564009,
+      "gap_priority_rank": 1.8174028831950804
+    },
+    {
+      "domain": "context",
+      "theme": "Global South & LMIC settings",
+      "prevalence_pct": 0.2840332724690607,
+      "gap_priority_rank": 1.1622343535270023
+    },
+    {
+      "domain": "mechanism_intervention",
+      "theme": "Community & policy",
+      "prevalence_pct": 0.8470277946845202,
+      "gap_priority_rank": 1.1139515709796828
+    },
+    {
+      "domain": "mechanism_intervention",
+      "theme": "Family & parenting programs",
+      "prevalence_pct": 0.32460945425035503,
+      "gap_priority_rank": 0.7047434022407884
+    },
+    {
+      "domain": "population",
+      "theme": "LGBTQ+ / gender-diverse youth",
+      "prevalence_pct": 1.125989044430919,
+      "gap_priority_rank": 0.0494773218291803
+    }
+  ],
+  "runtime_seconds": 215.84
+}

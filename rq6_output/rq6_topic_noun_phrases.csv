@@ -1,0 +1,481 @@
+topic,phrase,count
+0,the disclosure,39
+0,and setting,36
+0,and disclosure,22
+0,the quality,22
+0,the relationship,18
+0,the influence,17
+0,csa disclosure,16
+0,the importance,15
+0,the likelihood,13
+0,the nature,13
+0,rapport building,13
+0,the credibility,12
+0,the presence,12
+0,metoo movement,11
+0,the majority,11
+1,suicidal ideation,140
+1,logistic regression,107
+1,the relationship,60
+1,suicide ideation,38
+1,with suicidal ideation,34
+1,and suicidality,28
+1,and suicidal ideation,27
+1,for suicidal ideation,22
+1,major depression,22
+1,the presence,22
+1,and depression,20
+1,and substance,18
+1,suicide prevention,17
+1,the mediating,16
+1,with depression,15
+2,magnetic resonance,134
+2,resonance imaging,122
+2,magnetic resonance imaging,118
+2,the relationship,82
+2,functional magnetic resonance,54
+2,cortical thickness,49
+2,the development,48
+2,functional connectivity,48
+2,and depression,40
+2,and inflammation,34
+2,functional magnetic resonance imaging,32
+2,major depression,31
+2,with depression,27
+2,structural magnetic resonance,25
+2,for depression,24
+3,and substance,89
+3,logistic regression,85
+3,the relationship,83
+3,with substance,51
+3,the development,27
+3,for substance,26
+3,and severity,19
+3,alcohol consumption,17
+3,binge drinking,17
+3,the substance,17
+3,partner violence,17
+3,intimate partner violence,17
+3,and depression,16
+3,and setting,16
+3,young adulthood,16
+4,the relationship,587
+4,the mediating,429
+4,structural equation,264
+4,emotion regulation,251
+4,equation modeling,185
+4,structural equation modeling,179
+4,the development,132
+4,this relationship,128
+4,and emotion,114
+4,and depression,114
+4,the moderating,101
+4,and attachment,98
+4,insecure attachment,93
+4,moderated mediation,89
+4,mediated the relationship,87
+5,the relationship,95
+5,the development,69
+5,executive function,48
+5,emotion regulation,46
+5,executive functioning,45
+5,and deprivation,35
+5,and depression,33
+5,heart variability,28
+5,threat and deprivation,28
+5,and functioning,27
+5,and emotion,27
+5,and externalizing,25
+5,and development,25
+5,social cognition,24
+5,the influence,24
+6,functional connectivity,127
+6,magnetic resonance,100
+6,resonance imaging,96
+6,magnetic resonance imaging,95
+6,functional magnetic resonance,66
+6,the development,58
+6,the relationship,53
+6,machine learning,49
+6,functional magnetic resonance imaging,38
+6,tensor imaging,33
+6,diffusion tensor imaging,31
+6,and functional connectivity,26
+6,and connectivity,24
+6,and depression,19
+6,the underlying,17
+7,and parenting,24
+7,the relationship,24
+7,corporal punishment,23
+7,the parenting,18
+7,positive parenting,16
+7,and setting,12
+7,the influence,11
+7,logistic regression,11
+7,the effectiveness,10
+7,harsh parenting,9
+7,the mediating,8
+7,the feasibility,8
+7,the presence,7
+7,and corporal punishment,6
+7,the moderating,5
+8,the relationship,113
+8,and setting,73
+8,intergenerational transmission,68
+8,logistic regression,54
+8,structural equation,50
+8,the development,47
+8,the intergenerational transmission,42
+8,and development,40
+8,and externalizing,39
+8,the importance,38
+8,and offspring,38
+8,and parenting,37
+8,and wellbeing,36
+8,maternal depression,35
+8,equation modeling,34
+9,csa prevention,43
+9,the effectiveness,42
+9,the relationship,40
+9,the prevention,35
+9,and reporting,32
+9,and setting,32
+9,the majority,24
+9,the importance,23
+9,the development,22
+9,for prevention,21
+9,logistic regression,20
+9,and prevention,19
+9,prevention education,19
+9,the awareness,18
+9,sexuality education,18
+10,the relationship,6
+10,network structure,6
+10,partial correlation,6
+10,network stability,5
+10,functional movement,5
+10,cluster sampling,4
+10,the network structure,4
+10,the development,4
+10,expected influence,4
+10,regularized partial correlation,4
+10,bridge centrality,4
+10,barratt impulsiveness,3
+10,and impulsivity,3
+10,the influence,3
+10,suicidal ideation,3
+11,the relationship,87
+11,the effectiveness,63
+11,and depression,61
+11,the development,60
+11,ptsd severity,47
+11,eye movement,46
+11,and reprocessing,46
+11,desensitization and reprocessing,40
+11,movement desensitization,39
+11,eye movement desensitization,39
+11,logistic regression,35
+11,borderline personality,34
+11,ptsd checklist,32
+11,the presence,30
+11,emotion regulation,29
+12,and reliability,42
+12,convergent validity,39
+12,the relationship,39
+12,the structure,38
+12,and validity,37
+12,the reliability,34
+12,and validation,31
+12,the validity,29
+12,reliability and validity,29
+12,validity and reliability,26
+12,construct validity,26
+12,concurrent validity,21
+12,development and validation,19
+12,the development,18
+12,and depression,14
+13,logistic regression,51
+13,and setting,32
+13,the relationship,30
+13,the presence,30
+13,the development,28
+13,and mortality,25
+13,blood pressure,23
+13,and obesity,19
+13,the majority,17
+13,morbidity and mortality,17
+13,the evaluation,16
+13,and during,14
+13,injury severity,14
+13,the following,14
+13,and management,13
+14,law enforcement,69
+14,the relationship,67
+14,the development,65
+14,and violence,64
+14,the majority,53
+14,domestic violence,51
+14,the importance,48
+14,and setting,45
+14,logistic regression,43
+14,the nature,41
+14,workplace violence,38
+14,the protection,37
+14,and exploitation,37
+14,and protection,37
+14,royal commission,34
+15,sleep quality,38
+15,the relationship,25
+15,pittsburgh sleep quality,16
+15,sleep duration,15
+15,and sleep quality,14
+15,sleep disturbance,13
+15,the pittsburgh sleep quality,10
+15,linear regression,8
+15,poor sleep quality,8
+15,and sleep disturbance,6
+15,cellular aging,6
+15,chain reaction,6
+15,polymerase chain reaction,6
+15,insomnia severity,5
+15,and sleep duration,5
+16,the relationship,89
+16,logistic regression,64
+16,the mediating,37
+16,and bullying,37
+16,and setting,37
+16,peer victimization,35
+16,and depression,33
+16,and victimization,33
+16,bullying victimization,26
+16,the development,26
+16,and coping,21
+16,structural equation,21
+16,and externalizing,21
+16,linear regression,20
+16,and cyberbullying,20
+17,suicidal ideation,49
+17,the relationship,34
+17,and suicidal ideation,28
+17,the mediating,22
+17,logistic regression,17
+17,with suicidal ideation,15
+17,for suicidal ideation,12
+17,the suicidal ideation,12
+17,and depression,9
+17,structural equation,9
+17,suicide ideation,8
+17,equation modeling,8
+17,structural equation modeling,8
+17,and aggression,8
+17,this relationship,8
+18,the relationship,38
+18,logistic regression,32
+18,the mediating,20
+18,and depression,17
+18,suicidal ideation,14
+18,postpartum depression,11
+18,postnatal depression,9
+18,edinburgh postnatal depression,9
+18,structural equation,9
+18,and postpartum depression,7
+18,the edinburgh postnatal depression,7
+18,with depression,7
+18,the mediation,6
+18,emotion regulation,6
+18,the correlation,6
+19,the relationship,92
+19,the development,28
+19,logistic regression,28
+19,the presence,25
+19,the experience,21
+19,linear regression,15
+19,the influence,15
+19,and exposure,14
+19,the severity,13
+19,premorbid adjustment,13
+19,and dissociation,13
+19,and depression,13
+19,the mediating,12
+19,after controlling,12
+19,global functioning,12
+20,the relationship,29
+20,deficit hyperactivity,19
+20,attention deficit hyperactivity,19
+20,logistic regression,18
+20,internet addiction,13
+20,and internet addiction,12
+20,binge eating,11
+20,the presence,8
+20,with binge eating,6
+20,the mediating,6
+20,and depression,6
+20,with autism,6
+20,examine the relationship,5
+20,and eating,5
+20,beck depression,5
+21,dna methylation,146
+21,the relationship,57
+21,gene expression,54
+21,the development,54
+21,the interaction,41
+21,and methylation,34
+21,and dna methylation,32
+21,and depression,30
+21,linear regression,29
+21,cortisol reactivity,29
+21,cortisol awakening,26
+21,the influence,25
+21,with depression,25
+21,mechanisms underlying,24
+21,the methylation,23
+22,the relationship,19
+22,the importance,10
+22,the question,7
+22,the culture,7
+22,the institution,7
+22,and violence,7
+22,the development,5
+22,interpersonal violence,5
+22,and harassment,5
+22,the experience,5
+22,the possibility,5
+22,the silence,5
+22,the violence,5
+22,about sexuality,5
+22,the beginning,5
+23,the relationship,7
+23,logistic regression,3
+23,system involvement,3
+23,and intolerance,2
+23,the mediating,2
+23,and setting,2
+23,and and setting,2
+23,role resilience,2
+23,structural equation,2
+23,equation modeling,2
+23,structural equation modeling,2
+23,the enduring,2
+23,mediated the relationship,2
+23,and impulsivity,2
+23,the influence,2
+24,partner violence,697
+24,intimate partner violence,678
+24,and violence,203
+24,logistic regression,197
+24,domestic violence,196
+24,the relationship,189
+24,and intimate partner violence,137
+24,the violence,90
+24,violence victimization,80
+24,ipv perpetration,75
+24,ipv victimization,73
+24,dating violence,68
+24,and perpetration,67
+24,interpersonal violence,67
+24,and victimization,63
+25,the importance,87
+25,the development,81
+25,and setting,70
+25,the experience,69
+25,the relationship,68
+25,lived experience,51
+25,and violence,43
+25,domestic violence,34
+25,partner violence,33
+25,and coping,31
+25,intimate partner violence,31
+25,and resilience,31
+25,and development,30
+25,who experience,30
+25,and wellbeing,29
+26,maternal separation,356
+26,the development,128
+26,the expression,88
+26,gene expression,86
+26,the underlying,62
+26,maternal deprivation,58
+26,limited bedding,54
+26,social isolation,51
+26,the offspring,46
+26,and function,44
+26,the developing,43
+26,neonatal maternal separation,42
+26,mechanisms underlying,40
+26,sucrose preference,39
+26,for the development,39
+27,and retirement,39
+27,china and retirement,26
+27,biological aging,19
+27,the china and retirement,19
+27,the relationship,18
+27,logistic regression,17
+27,and mortality,16
+27,and adulthood,15
+27,accelerated biological aging,12
+27,accelerated aging,11
+27,from the china and retirement,10
+27,epigenetic aging,10
+27,the mediating,9
+27,dna methylation,9
+27,the development,8
+28,borderline personality,113
+28,the relationship,74
+28,with borderline personality,44
+28,and personality,35
+28,the personality,33
+28,the development,26
+28,the severity,23
+28,depression rating,21
+28,and borderline personality,20
+28,structural equation,19
+28,emotion recognition,16
+28,and depression,16
+28,suicidal ideation,15
+28,facial emotion,14
+28,and severity,14
+29,logistic regression,266
+29,the relationship,215
+29,and setting,79
+29,household dysfunction,77
+29,and depression,74
+29,ace exposure,66
+29,adverse experience,65
+29,linear regression,58
+29,the development,53
+29,and household dysfunction,52
+29,race ethnicity,48
+29,and adulthood,46
+29,domestic violence,44
+29,and substance,44
+29,parental separation,43
+30,and depression,166
+30,the relationship,141
+30,logistic regression,122
+30,and resilience,76
+30,the depression,73
+30,with depression,70
+30,the mediating,63
+30,anxiety and depression,59
+30,the development,51
+30,anxiety depression,49
+30,the resilience,49
+30,linear regression,48
+30,for depression,47
+30,and during,41
+30,beck depression,38
+31,the relationship,25
+31,and externalizing,13
+31,and offending,12
+31,internalizing and externalizing,12
+31,and setting,11
+31,intellectual disability,9
+31,and internalizing,9
+31,with intellectual disability,8
+31,for offending,8
+31,the majority,6
+31,logistic regression,6
+31,myth acceptance,6
+31,rape myth acceptance,6
+31,the development,5
+31,the likelihood,5

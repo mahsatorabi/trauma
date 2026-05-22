@@ -1,0 +1,106 @@
+bertopic_id,display_name,lda_aligned,nmf_aligned,kmeans_aligned,triangulated_terms,n_triangulated_terms,triangulated_nps,n_triangulated_nps,mean_paradigm_jaccard
+30,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",68.0,19.0,24.0,"emotion regulation, dysregulation, emotion dysregulation, regulation strategy, difficulty emotion, regulation difficulty, regulation, emotion, strategy",9,"emotion regulation, and emotion, emotion dysregulation, the relationship, regulation strategies, the present, the mediating, regulation difficulties",9,0.3759398496240601
+32,"Psychometric, Psychometric Property, Internal Consistency, Property",4.0,25.0,14.0,"psychometric, psychometric property, internal consistency, property, consistency, internal, validity, reliability, item",9,"psychometric properties, the psychometric, and reliability, the this, this aimed, and validation, and validity, internal consistency",8,0.5325077399380805
+26,"Eat, Ed, Eating, Binge Eat",58.0,41.0,8.0,"eat, ed, eating, binge eat, binge, nervosa, anorexia, anorexia nervosa, bulimia",9,"and eating, with eating, anorexia nervosa, binge eating, the relationship, disordered eating, has been, with anorexia",8,0.5588235294117648
+103,Adverse childhood experiences (ACE),,33.0,35.0,"racial, black, american, discrimination, white, african american, race, ethnic, disparity",9,"racial ethnic, african american, the united, united states, and ethnic",5,0.4583333333333333
+17,Suicidality & suicidal ideation,26.0,26.0,27.0,"nssi, nonsuicidal, self, injury, suicidal self, self injury, non suicidal, suicidal",8,"and nssi, nonsuicidal nssi, the mediating, the relationship, with nssi, this aimed, mediating role, the role",8,0.11
+6,"Attachment, Attachment Style, Style, Insecure",74.0,43.0,23.0,"attachment, attachment style, style, insecure, insecure attachment, attachment anxiety, anxious, avoidant",8,"the relationship, insecure attachment, and attachment, attachment styles, the role, the mediating, the present, role attachment",9,0.41118421052631576
+27,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",21.0,45.0,70.0,"sleep, sleep quality, sleep disturbance, disturbance, sleep problem, sleep duration, duration, insomnia",8,"and sleep, sleep quality, the relationship, sleep disturbances, sleep problems, sleep disturbance, has been",7,0.3198380566801619
+10,Epigenetics & DNA methylation,66.0,22.0,9.0,"methylation, dna, dna methylation, epigenetic, gene, nr, cpg",7,"dna methylation, has been, have been, hpa axis, the gene, receptor gene, glucocorticoid receptor, methylation dnam",9,0.48321611253196933
+5,"Injury, Fracture, Infant, Head",41.0,15.0,1.0,"injury, fracture, infant, head, pediatric, skeletal, suspect",7,"the this, the emergency, and setting, the most, with suspected, the pediatric, who presented",7,0.2807017543859649
+12,Suicidality & suicidal ideation,15.0,5.0,36.0,"attempt, suicide attempt, suicidal, ideation, attempt suicide, suicidal ideation, suicide",7,"and suicide, suicide attempts, suicide attempt, suicidal ideation, for suicide, with suicide, and suicidal, with suicidal",10,0.520483193277311
+58,"Inflammation, Il, Inflammatory, Cytokine",47.0,39.0,25.0,"inflammation, il, inflammatory, cytokine, immune, crp, marker",7,"and inflammation, has been, inflammatory markers, systemic inflammation, and inflammatory, have been, major depressive, the relationship",8,0.42857142857142855
+63,"Executive, Executive Function, Ef, Work Memory",10.0,40.0,49.0,"executive, executive function, work memory, performance, memory, deficit, task",7,"executive function, and executive, executive functioning, executive functions, adverse experiences, working memory, the relationship, has been",8,0.3913043478260869
+20,"Church, Catholic, Clergy, Religious",36.0,44.0,69.0,"church, catholic, clergy, religious, crisis, spiritual, institutional",7,"catholic church, the catholic, the church, roman catholic, the crisis, has been, the roman, this paper",8,0.31
+0,Maternal & infant mental health,23.0,12.0,5.0,"rat, mouse, maternal separation, separation, expression, maternal",6,"maternal separation, has been, the development, prefrontal cortex, the impact, the present, have been, and rats",8,0.45309597523219813
+33,"Dissociation, Dissociative, Dissociative Experience, Identity",7.0,48.0,16.0,"dissociation, dissociative, dissociative experience, identity, dissociative identity, amnesia",6,"dissociative experiences, and dissociative, and dissociation, the dissociative, the relationship, dissociative identity, with dissociative, this aimed",8,0.3336842105263158
+25,"Pain, Chronic Pain, Pelvic, Pelvic Pain",35.0,58.0,12.0,"pain, chronic pain, pelvic, pelvic pain, fibromyalgia, chronic",6,"chronic pain, with chronic, and pain, adverse experiences, and chronic, the relationship, has been",7,0.3071428571428571
+29,"Bd, Bipolar, Mood, Bipolar Bd",45.0,68.0,47.0,"bd, bipolar, mood, bipolar bd, episode, onset",6,"with bipolar, major depressive, and bipolar, and healthy, and with, the relationship, this aimed",7,0.3649885583524027
+41,"Externalize, Internalize, Internalize Externalize, Externalize Problem",,54.0,20.0,"externalize, internalize, internalize externalize, externalize problem, internalize problem, externalize internalize",6,"and externalizing, and internalizing, externalizing problems, internalizing problems, the current, the present, the development",7,0.23558897243107768
+7,COVID-19 pandemic impact,44.0,24.0,68.0,"covid, pandemic, covid pandemic, lockdown, impact covid, coronavirus",6,"the pandemic, the impact, and during, the this, the coronavirus, has been, coronavirus disease, this aimed",9,0.2119047619047619
+77,"Aor, Aor Ci, Ci Aor, Ethiopia",33.0,32.0,6.0,"aor, aor ci, ci aor, adjust, adjust aor, ci",6,"logistic regression, this aimed, was conducted, the this, the relationship, adverse experiences",6,0.24840948525159048
+74,Maternal & infant mental health,73.0,20.0,37.0,"infant, maternal, mother, postpartum, birth, pregnancy",6,"and infant, and their, the relationship, during pregnancy, the maternal",5,0.2698380566801619
+28,"Connectivity, Functional, Functional Connectivity, Restingstate",78.0,7.0,57.0,"connectivity, functional, functional connectivity, amygdala, cortex, neural",6,"functional connectivity, magnetic resonance, resonance imaging, functional magnetic, and functional, has been, the development, the relationship",11,0.3973684210526316
+24,"Interviewer, Forensic Interview, Investigative, Forensic",9.0,35.0,52.0,"interviewer, forensic interview, investigative, forensic, witness",5,"forensic interviews, interviews with, the present, the current, investigative interviews, this examined, the impact, the quality",8,0.2833333333333333
+35,"Disability, Intellectual, Intellectual Disability, Id",3.0,66.0,13.0,"disability, intellectual, intellectual disability, id, sexuality",5,"with intellectual, people with, intellectual disabilities, intellectual disability, with disabilities, for with, women with",7,0.24840948525159048
+4,Intimate partner violence,50.0,3.0,17.0,"ipv, intimate partner, intimate, partner violence, violence ipv",5,"intimate partner, partner violence, and intimate, has been, the relationship, the this, violence against",7,0.35645933014354064
+45,Adverse childhood experiences (ACE),,77.0,33.0,"foster, foster care, placement, welfare, home",5,"foster care, residential care, the this, the relationship, this aimed",5,0.2119047619047619
+92,"Genetic, Gene, Polymorphism, Geneenvironment",70.0,59.0,73.0,"genetic, gene, polymorphism, genotype, polygenic",5,"has been, and environmental, the interaction, and genetic, have been, the relationship, the role, the development",8,0.20329670329670327
+9,"Offender, Offend, Juvenile, Criminal",75.0,53.0,3.0,"offender, offend, crime, offense, recidivism",5,"who have, has been, criminal justice, justice system, the criminal, the current, have been, material csam",8,0.3630959752321981
+38,"Sport, Athlete, Coach, Harassment",52.0,57.0,54.0,"sport, athlete, coach, harassment, interpersonal violence",5,"the this, violence sport, elite athletes, have been, interpersonal violence, young athletes, the present, the relationship",8,0.23558897243107768
+21,Borderline personality disorder,67.0,18.0,72.0,"bpd, borderline, borderline personality, personality bpd, trait",5,"borderline personality, with borderline, and borderline, the relationship, bpd with, has been, the present, personality traits",9,0.23857142857142857
+93,"Ocd, Obsessivecompulsive, Obsessive Compulsive, Obsessive",5.0,79.0,,"ocd, obsessive compulsive, obsessive, compulsive",4,"the relationship, and healthy, this aimed, the present, the this, has been",6,0.19242424242424241
+60,"Disease, Cardiovascular, Heart, Cardiovascular Disease",53.0,69.0,53.0,"disease, cardiovascular, cardiovascular disease, cvd",4,"cardiovascular disease, and cardiovascular, has been, adverse experiences, the relationship, have been",6,0.1798757763975155
+52,"Selfesteem, Rosenberg, Rosenberg Selfesteem, Role Selfesteem",39.0,72.0,19.0,"rosenberg, esteem, self esteem, self",4,"the relationship, the mediating, mediating role, this aimed, the present, social support, the impact, the this",8,0.08
+39,Maternal & infant mental health,,9.0,56.0,"mother, intergenerational, father, parenting",4,"and their, intergenerational transmission, the intergenerational, the current, the relationship, and parenting, has been, the present",8,0.2119047619047619
+23,"Mdd, Major Depressive, Depressive Mdd, Gyrus",14.0,34.0,76.0,"mdd, major depressive, depressive mdd, depressive",4,"major depressive, with major, and healthy, mdd with, the relationship, this aimed",6,0.2190909090909091
+15,"Hiv, Live Hiv, Adherence, Hiv Aid",60.0,63.0,66.0,"hiv, live hiv, adherence, infection",4,"living with, people living, who have, have with, south africa, hiv infection, sexually transmitted",7,0.42524509803921573
+36,Image-based sexual abuse,32.0,31.0,10.0,"image, revenge, pornography, digital",4,"sexually explicit, intimate images, this paper, the present, revenge porn, social media, the internet",7,0.15151515151515152
+84,"Cortical, Matter, Thickness, Cortical Thickness",0.0,47.0,26.0,"cortical, matter, thickness, volume",4,"white matter, cortical thickness, have been, gray matter, resonance imaging, magnetic resonance",6,0.2935599869238313
+11,"Cortisol, Hpa, Axis, Hpa Axis",6.0,13.0,18.0,"cortisol, hpa, axis, hpa axis",4,"hpa axis, has been, hair cortisol, and cortisol, have been, the role, the relationship, adverse experiences",8,0.29130434782608694
+40,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",54.0,16.0,40.0,"depression anxiety, anxiety depression, inventory, depression",4,"and anxiety, and depression, the relationship, depression anxiety, this aimed, and with, the this, has been",8,0.22115384615384615
+3,"Csa, Csa Survivor, Experience Csa, Survivor Csa",29.0,14.0,30.0,"csa, csa survivor, survivor csa, disclosure",4,"csa survivors, the this, the current, has been, the present",5,0.2698380566801619
+16,"Drug, Opioid, Cannabis, Misuse",57.0,23.0,58.0,"drug, cannabis, addiction",3,"and substance, with substance, the relationship, known about, the this, have been, the current, and alcohol",8,0.17987577639751554
+2,PTSD treatment (EMDR / trauma-focused CBT),17.0,17.0,50.0,"emdr, randomize, psychotherapy",3,"posttraumatic ptsd, with ptsd, for ptsd, randomized controlled, eye movement",5,0.12876254180602006
+19,Adverse childhood experiences (ACE),8.0,29.0,29.0,"class, latent class, latent",3,"latent class, and their, the current, their with, latent profile, this aimed, the relationship",7,0.2119047619047619
+18,Psychosis & psychotic-like experiences,40.0,0.0,59.0,"psychosis, psychotic, schizophrenia",3,"with psychosis, and psychosis, for psychosis, the relationship, has been, and psychotic",6,0.11742424242424243
+59,"Intimate, Intimate Partner, Partner Violence, Coercive",,1.0,2.0,"violence woman, domestic, domestic violence",3,"intimate partner, partner violence, violence against, against women, domestic violence, the this, and violence",7,0.19047619047619047
+50,"Trait, Personality Trait, Personality Function, Personality Pathology",69.0,49.0,42.0,"trait, personality trait, neuroticism",3,"personality traits, the relationship, and personality, the development, the present, this aimed",6,0.1369047619047619
+22,"Rape, Perpetrator, Assault, Myth",46.0,62.0,32.0,"rape, perpetrator, assault",3,"the victim, has been, the this, the current, the perpetrator, the victims",6,0.15320910973084886
+1,Adverse childhood experiences (ACE),13.0,4.0,11.0,"ace, experience ace",2,"adverse experiences, experiences aces, the aces, the adverse, the relationship, are with, have been, aces have",8,0.25130434782608696
+80,College students & campus prevention,,11.0,71.0,"date violence, perpetration",2,"dating violence, the relationship, the present, the this, the current, peer victimization",6,0.11594202898550725
+86,Suicidality & suicidal ideation,18.0,36.0,41.0,"attempt, suicide attempt",2,"and with, this aimed, and suicide",3,0.0974581939799331
+87,Psychosis & psychotic-like experiences,27.0,10.0,,"schizophrenia, psychosis",2,"with schizophrenia, schizophrenia spectrum, the relationship",3,0.13372859025032938
+100,"Medium, Social Medium, Metoo, News",42.0,67.0,55.0,"medium, discourse",2,"social media, this examines, the most, this paper, has been, the this, have been",7,0.11
+42,College students & campus prevention,71.0,28.0,43.0,"college, college student",2,"college students, the relationship, the this, the present",4,0.11524475524475525
+61,College students & campus prevention,12.0,46.0,48.0,"subjective, satisfaction",2,"the relationship, the impact, the mediating, the current, adverse experiences, known about, the role, has been",8,0.05230769230769231
+13,"Cm, Mdd, History Cm, Relationship Cm",1.0,51.0,31.0,cm,1,"has been, the relationship, the role, the impact, the present, this aimed",6,0.1923076923076923
+8,"Worker, Protection, Social Work, Social Worker",20.0,2.0,51.0,professional,1,"social work, social workers, the this, and their, the current",5,0.1219047619047619
+44,"Elder, Mistreatment, Elderly, Financial",64.0,61.0,15.0,elder,1,"was conducted, the this, and older, this aimed",4,0.13024475524475523
+82,"Cptsd, Ptsd Cptsd, Icd, Complex Posttraumatic",,6.0,22.0,cptsd,1,"complex ptsd, posttraumatic ptsd, and ptsd, with ptsd, and posttraumatic, has been",6,0.08463768115942029
+46,"Perceive Social, Role Social, Support Depressive, Buffer",51.0,27.0,38.0,perceive social,1,"social support, perceived social, and social, the relationship, the mediating, the role, has been, role social",8,0.11524475524475525
+31,Suicidality & suicidal ideation,16.0,8.0,67.0,ideation,1,"suicidal ideation, and suicidal, the relationship, with suicidal, the mediating, the role, this aimed",7,0.15320910973084886
+94,"Reward, Task, Neural, Processing",63.0,,0.0,neural,1,"the development, has been, the present",3,0.05333333333333334
+54,"Veteran, Military, Combat, Military Veteran",72.0,75.0,78.0,military,1,"military veterans, and military, posttraumatic ptsd, and veterans, adverse experiences",5,0.20615384615384613
+14,Adverse childhood experiences (ACE),38.0,71.0,65.0,,0,"and resilience, adverse experiences, the relationship, the role, experiences aces, the this, have been, this aimed",9,0.03948717948717949
+34,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",43.0,30.0,39.0,,0,"the this, the relationship",2,0.0
+37,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",61.0,60.0,75.0,,0,"the relationship, adverse experiences, has been, have been, the development",5,0.02666666666666667
+55,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",76.0,76.0,7.0,,0,"the relationship, major depressive, has been, mediating role, this aimed",5,0.05230769230769231
+53,"Adverse Event, Growth, Mortality, Trajectory",79.0,52.0,,,0,"has been, the relationship",2,0.025641025641025644
+51,"Disclosure, Disclose, Csa, Tell",77.0,78.0,60.0,,0,"and setting, the current, the this, the present, has been, have been",6,0.08463768115942029
+56,"Polyvictimization, Victimization Experience, Type Victimization, Violent Victimization",,64.0,4.0,,0,"the relationship, the current, has been, the this, the role, the impact",6,0.012820512820512822
+48,"Teacher, Classroom, Attitude, Learner",,37.0,61.0,,0,"the this, was conducted, csa prevention, prevention program, the effectiveness, this aimed, prevention programs",7,0.08333333333333333
+43,"Traumainformed, Traumainformed Care, Traumainformed Practice, Principle",,55.0,21.0,,0,"have experienced, the impact, who have, has been, adverse experiences, this paper",6,0.05448717948717949
+47,"Memory, False, Autobiographical, Autobiographical Memory",25.0,74.0,28.0,,0,"the present, the this, has been, the impact",4,0.012820512820512822
+72,"Aggression, Aggressive, Reactive, Relational Aggression",22.0,,46.0,,0,the relationship,1,0.025641025641025644
+71,"Domestic, Domestic Violence, Dv, Witness Domestic",,,44.0,,0,"domestic violence, violence against, against women",3,0.057971014492753624
+70,"Ptg, Heal, Inquiry, Recovery",,21.0,,,0,the this,1,0.02666666666666667
+69,"Prevention Program, Schoolbased, Skill, Curriculum",30.0,,34.0,,0,,0,0.025641025641025644
+68,"Pregnancy, Postpartum, Perinatal, Unintended",28.0,,64.0,,0,"during pregnancy, pregnant women",2,0.09963768115942029
+67,"Alexithymia, Toronto, Toronto Alexithymia, Ta",34.0,,63.0,,0,,0,0.03948717948717949
+66,"Aud, Drinking, Drink, Alcoholrelated",48.0,,,,0,,0,0.02666666666666667
+65,Psychosis & psychotic-like experiences,59.0,,,,0,,0,0.041666666666666664
+64,"Csam, Material Csam, Pornography, Enforcement",,65.0,,,0,,0,0.012820512820512822
+62,"Mindfulness, Satisfaction, Couple, Relationship Satisfaction",62.0,,,,0,,0,0.02666666666666667
+57,"Young People, People Experience, Harmful, Helpseeking",,42.0,,,0,"young people, and young, for young, who have, people with, this paper, the this",7,0.041666666666666664
+49,"Woman Experience, Reproductive, Premenstrual, Family Plan",11.0,73.0,,,0,"women with, and women, the this, has been",4,0.05448717948717949
+79,"Latent Profile, Latent, Profile Identify, Distinct Profile",,,74.0,,0,"adverse experiences, and latent",2,0.02666666666666667
+78,"Selfcompassion, Compassion, Shame, Selfcriticism",56.0,38.0,62.0,,0,"the mediating, the relationship, mediating role, the present, this aimed, has been, and depression",7,0.0974581939799331
+75,"Family Member, Family Function, Family Environment, Family Dynamic",,,,,0,,0,0.0
+73,"Caregiver, Caregiver Support, Caregiver Experience, Caregiverchild",,,,,0,,0,0.0
+88,"Node, Bridge, Central, Network Structure",2.0,56.0,,,0,"network approach, the relationship, the complex, the network",4,0.15317139001349525
+85,"Men Woman, Masculinity, Gay, Msm",,,,,0,,0,0.0
+81,"Childbirth, Maternity, Mistreatment, Obstetric",,,,,0,,0,0.0
+83,"Experience Adverse, Household Dysfunction, Capital, Deviant",19.0,,77.0,,0,"adverse experiences, the adverse, the relationship, have been",4,0.025641025641025644
+76,"Narrative, Story, Autonomy, Psychoanalysis",,,,,0,,0,0.0
+90,"Gut, Microbiome, Ibs, Axis",,,45.0,,0,"maternal separation, has been",2,0.012820512820512822
+91,Adverse childhood experiences (ACE),,,,,0,,0,0.0
+89,Adverse childhood experiences (ACE),55.0,,,,0,,0,0.041666666666666664
+96,College students & campus prevention,65.0,,79.0,,0,"the relationship, the mediating, college students, mediating role",4,0.03948717948717949
+95,"Sibling, Ssa, Incest, Intrafamilial",49.0,,,,0,,0,0.012820512820512822
+98,"Infection, Genital, Vaginal, Lesion",24.0,,,,0,,0,0.07575757575757576
+97,"Cop Strategy, Cop Style, Style, Religious",,,,,0,,0,0.0
+99,"Adhd, Hyperactivity, Deficit Hyperactivity, Attentiondeficit",37.0,70.0,,,0,"hyperactivity adhd, attention deficit, deficit hyperactivity, with adhd, the relationship",5,0.1820175438596491
+101,"Divorce, Alienation, Parental Education, Parental Divorce",,,,,0,,0,0.0
+102,"Deprivation, Threat Deprivation, Deprivation Threat, Dimensional",,50.0,,,0,"and deprivation, and threat, has been",3,0.012820512820512822
+104,"Hr Ci, Hr, Ci Ci, Schoolchildren",31.0,,,,0,,0,0.02666666666666667

@@ -1,0 +1,97 @@
+topic,cluster,degree,strength,betweenness,display_name,n_documents
+0,4,8,4.025328189134598,0.002687569988801792,Maternal & infant mental health,843
+1,2,16,10.469599932432175,0.006942889137737962,Adverse childhood experiences (ACE),758
+2,1,8,5.160594284534454,0.002687569988801792,PTSD treatment (EMDR / trauma-focused CBT),442
+3,3,15,8.625877231359482,0.0015677491601343786,"Csa, Csa Survivor, Experience Csa, Survivor Csa",347
+4,0,9,6.04904517531395,0.0008958566629339306,Intimate partner violence,323
+5,2,8,3.8951734006404877,0.009854423292273236,"Injury, Fracture, Infant, Head",313
+6,4,11,6.743902742862701,0.009854423292273236,"Attachment, Attachment Style, Style, Insecure",306
+7,2,8,4.504789233207703,0.007166853303471445,COVID-19 pandemic impact,270
+8,3,21,12.353725403547287,0.017245240761478164,"Worker, Protection, Social Work, Social Worker",266
+9,3,12,6.67292183637619,0.003807390817469205,"Offender, Offend, Juvenile, Criminal",266
+10,4,9,4.394037514925003,0.012989921612541994,Epigenetics & DNA methylation,247
+11,4,11,5.997799515724182,0.00425531914893617,"Cortisol, Hpa, Axis, Hpa Axis",243
+13,4,25,15.610744208097458,0.06270996640537514,"Cm, Mdd, History Cm, Relationship Cm",227
+14,2,9,5.9045156836509705,0.000671892497200448,Adverse childhood experiences (ACE),218
+15,0,9,5.113254487514496,0.00335946248600224,"Hiv, Live Hiv, Adherence, Hiv Aid",207
+16,2,9,5.821932911872864,0.002463605823068309,"Drug, Opioid, Cannabis, Misuse",204
+18,4,8,4.906294882297516,0.002463605823068309,Psychosis & psychotic-like experiences,197
+20,3,9,4.266584038734436,0.008734602463605823,"Church, Catholic, Clergy, Religious",194
+21,4,8,4.124347776174545,0.00335946248600224,Borderline personality disorder,191
+22,3,13,7.304145306348801,0.008062709966405375,"Rape, Perpetrator, Assault, Myth",187
+23,4,11,6.7974494099617,0.0031354983202687573,"Mdd, Major Depressive, Depressive Mdd, Gyrus",186
+24,3,8,3.2136144936084747,0.01343784994400896,"Interviewer, Forensic Interview, Investigative, Forensic",185
+25,4,13,8.0176602602005,0.012989921612541994,"Pain, Chronic Pain, Pelvic, Pelvic Pain",183
+26,4,9,5.284206569194794,0.00851063829787234,"Eat, Ed, Eating, Binge Eat",179
+27,4,22,13.644860804080963,0.037625979843225084,"Sleep, Sleep Quality, Sleep Disturbance, Disturbance",170
+28,4,9,5.412788391113281,0.00335946248600224,"Connectivity, Functional, Functional Connectivity, Restingstate",167
+29,4,8,4.667285799980164,0.0011198208286674132,"Bd, Bipolar, Mood, Bipolar Bd",165
+30,4,14,8.602589309215546,0.008958566629339306,"Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",165
+33,1,10,5.620883524417877,0.02262038073908175,"Dissociation, Dissociative, Dissociative Experience, Identity",146
+34,0,23,13.731265664100647,0.0167973124300112,"Violence Exposure, Genderbased, Genderbased Violence, Exposure Violence",146
+35,3,9,4.99191153049469,0.0031354983202687573,"Disability, Intellectual, Intellectual Disability, Id",144
+36,0,8,2.931005835533142,0.028443449048152297,Image-based sexual abuse,141
+37,2,27,17.924848973751068,0.04860022396416574,"Parentchild, Parentchild Relationship, Parenting, Parentchild Interaction",140
+38,3,9,4.240634322166443,0.004479283314669653,"Sport, Athlete, Coach, Harassment",136
+39,2,12,8.099720418453217,0.008958566629339306,Maternal & infant mental health,135
+40,4,16,10.198124647140503,0.015901455767077268,"Depression Anxiety, Anxiety Depression, Anxiety Depressive, Trait Anxiety",134
+41,2,20,12.96990191936493,0.00851063829787234,"Externalize, Internalize, Internalize Externalize, Externalize Problem",133
+42,2,46,29.041756242513657,0.1316909294512878,College students & campus prevention,132
+43,1,10,6.091834485530853,0.00671892497200448,"Traumainformed, Traumainformed Care, Traumainformed Practice, Principle",132
+44,0,8,3.304949998855591,0.00851063829787234,"Elder, Mistreatment, Elderly, Financial",130
+45,2,8,4.976206958293915,0.002463605823068309,Adverse childhood experiences (ACE),126
+46,2,12,7.842824399471283,0.0035834266517357225,"Perceive Social, Role Social, Support Depressive, Buffer",126
+47,1,9,5.089707434177399,0.022844344904815232,"Memory, False, Autobiographical, Autobiographical Memory",124
+48,3,12,7.11077082157135,0.012989921612541994,"Teacher, Classroom, Attitude, Learner",122
+49,0,15,9.058373302221298,0.0035834266517357225,"Woman Experience, Reproductive, Premenstrual, Family Plan",121
+50,4,26,15.862251222133636,0.07525195968645017,"Trait, Personality Trait, Personality Function, Personality Pathology",120
+51,3,12,6.347586542367935,0.010750279955207168,"Disclosure, Disclose, Csa, Tell",120
+52,4,8,4.786153733730316,0.002015677491601344,"Selfesteem, Rosenberg, Rosenberg Selfesteem, Role Selfesteem",119
+53,2,13,8.725494265556335,0.005151175811870101,"Adverse Event, Growth, Mortality, Trajectory",119
+54,2,8,4.625618636608124,0.005823068309070549,"Veteran, Military, Combat, Military Veteran",119
+55,4,26,16.359437495470047,0.03292273236282195,"Psychotherapy, Chronic Depression, Antidepressant, Major Depression",119
+56,0,26,15.339236706495285,0.028219484882418815,"Polyvictimization, Victimization Experience, Type Victimization, Violent Victimization",118
+57,3,18,10.353798747062683,0.020828667413213885,"Young People, People Experience, Harmful, Helpseeking",118
+58,4,11,6.087559938430786,0.007838745800671893,"Inflammation, Il, Inflammatory, Cytokine",117
+59,0,9,5.838746219873428,0.00022396416573348266,"Intimate, Intimate Partner, Partner Violence, Coercive",115
+60,4,16,10.386189937591553,0.007838745800671893,"Disease, Cardiovascular, Heart, Cardiovascular Disease",114
+61,2,25,16.734749376773834,0.01858902575587906,College students & campus prevention,114
+62,4,10,6.410228490829468,0.000671892497200448,"Mindfulness, Satisfaction, Couple, Relationship Satisfaction",113
+63,2,10,6.180492281913757,0.008734602463605823,"Executive, Executive Function, Ef, Work Memory",110
+64,3,8,2.755319118499756,0.00671892497200448,"Csam, Material Csam, Pornography, Enforcement",108
+65,4,14,8.85030347108841,0.00335946248600224,Psychosis & psychotic-like experiences,105
+66,2,8,5.0096957087516785,0.00335946248600224,"Aud, Drinking, Drink, Alcoholrelated",103
+67,4,8,4.595861911773682,0.0011198208286674132,"Alexithymia, Toronto, Toronto Alexithymia, Ta",100
+68,4,9,5.2609251737594604,0.009854423292273236,"Pregnancy, Postpartum, Perinatal, Unintended",100
+69,3,11,5.694844305515289,0.011870100783874581,"Prevention Program, Schoolbased, Skill, Curriculum",98
+70,3,12,7.105412244796753,0.007838745800671893,"Ptg, Heal, Inquiry, Recovery",97
+71,0,8,4.8552433252334595,0.002463605823068309,"Domestic, Domestic Violence, Dv, Witness Domestic",97
+72,0,9,4.786131352186203,0.01858902575587906,"Aggression, Aggressive, Reactive, Relational Aggression",96
+73,2,30,19.398991972208023,0.06159014557670773,"Caregiver, Caregiver Support, Caregiver Experience, Caregiverchild",95
+74,4,12,7.160478323698044,0.014781634938409855,Maternal & infant mental health,94
+75,2,33,21.27693200111389,0.0606942889137738,"Family Member, Family Function, Family Environment, Family Dynamic",94
+76,1,10,5.880964636802673,0.0167973124300112,"Narrative, Story, Autonomy, Psychoanalysis",93
+78,2,8,4.308881461620331,0.008062709966405375,"Selfcompassion, Compassion, Shame, Selfcriticism",91
+80,0,9,5.0322980880737305,0.002015677491601344,College students & campus prevention,89
+81,0,8,3.006839394569397,0.04546472564389698,"Childbirth, Maternity, Mistreatment, Obstetric",88
+82,1,8,4.75992614030838,0.008286674132138858,"Cptsd, Ptsd Cptsd, Icd, Complex Posttraumatic",87
+83,2,14,9.20983338356018,0.0031354983202687573,"Experience Adverse, Household Dysfunction, Capital, Deviant",87
+84,4,11,6.670989483594894,0.00851063829787234,"Cortical, Matter, Thickness, Cortical Thickness",86
+85,0,16,9.20808008313179,0.019708846584546472,"Men Woman, Masculinity, Gay, Msm",85
+87,4,8,4.827694624662399,0.00335946248600224,Psychosis & psychotic-like experiences,83
+89,0,9,5.181876242160797,0.002015677491601344,Adverse childhood experiences (ACE),82
+90,4,8,4.211325645446777,0.0022396416573348264,"Gut, Microbiome, Ibs, Axis",81
+91,0,8,3.0884035527706146,0.011198208286674134,Adverse childhood experiences (ACE),78
+92,4,16,9.470520228147507,0.010078387458006719,"Genetic, Gene, Polymorphism, Geneenvironment",77
+93,4,9,5.095573157072067,0.0029115341545352747,"Ocd, Obsessivecompulsive, Obsessive Compulsive, Obsessive",76
+94,4,12,7.02779895067215,0.00335946248600224,"Reward, Task, Neural, Processing",75
+95,3,13,7.452289193868637,0.004927211646136618,"Sibling, Ssa, Incest, Intrafamilial",74
+96,4,11,6.717137694358826,0.006047032474804032,College students & campus prevention,73
+97,2,10,6.568921148777008,0.0011198208286674132,"Cop Strategy, Cop Style, Style, Religious",73
+98,3,9,4.231357961893082,0.005823068309070549,"Infection, Genital, Vaginal, Lesion",68
+99,4,8,3.9868102967739105,0.020156774916013438,"Adhd, Hyperactivity, Deficit Hyperactivity, Attentiondeficit",67
+100,3,9,4.199685573577881,0.008062709966405375,"Medium, Social Medium, Metoo, News",67
+101,2,26,16.640836745500565,0.04636058230683091,"Divorce, Alienation, Parental Education, Parental Divorce",67
+102,2,8,3.9425016045570374,0.023068309070548715,"Deprivation, Threat Deprivation, Deprivation Threat, Dimensional",66
+103,2,8,5.048051178455353,0.0004479283314669653,Adverse childhood experiences (ACE),65
+104,2,16,10.005476891994476,0.011646136618141099,"Hr Ci, Hr, Ci Ci, Schoolchildren",61

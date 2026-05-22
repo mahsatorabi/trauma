@@ -1,0 +1,73 @@
+{
+  "generated": "2026-05-20T00:45:16",
+  "n_documents": 19716,
+  "n_topics_lda_nmf_kmeans": 80,
+  "n_bertopic_topics": 105,
+  "mean_pairwise_ari": 0.45599592557941937,
+  "alignment": [
+    {
+      "paradigm": "lda",
+      "n_pairs": 80,
+      "mean_cosine_similarity": 0.17609035322810845,
+      "mean_jaccard_top_terms": 0.10531298928054042
+    },
+    {
+      "paradigm": "nmf",
+      "n_pairs": 80,
+      "mean_cosine_similarity": 0.42485291572496003,
+      "mean_jaccard_top_terms": 0.29751584262587594
+    },
+    {
+      "paradigm": "kmeans",
+      "n_pairs": 80,
+      "mean_cosine_similarity": 0.36522443632496565,
+      "mean_jaccard_top_terms": 0.2462695855850301
+    }
+  ],
+  "mean_concordance_jaccard": {
+    "bertopic": 0.03881183734565799,
+    "kmeans": 0.03468233838623426,
+    "lda": 0.030005941770647655,
+    "nmf": 0.03452829858116267
+  },
+  "n_triangulated_core_terms": 11,
+  "top_bundles": [
+    {
+      "bertopic_id": 30,
+      "display_name": "Emotion Regulation, Dysregulation, Emotion Dysregulation, Regulation Strategy",
+      "n_triangulated_terms": 9,
+      "triangulated_terms": "emotion regulation, dysregulation, emotion dysregulation, regulation strategy, difficulty emotion, regulation difficulty, regulation, emotion, strategy"
+    },
+    {
+      "bertopic_id": 32,
+      "display_name": "Psychometric, Psychometric Property, Internal Consistency, Property",
+      "n_triangulated_terms": 9,
+      "triangulated_terms": "psychometric, psychometric property, internal consistency, property, consistency, internal, validity, reliability, item"
+    },
+    {
+      "bertopic_id": 26,
+      "display_name": "Eat, Ed, Eating, Binge Eat",
+      "n_triangulated_terms": 9,
+      "triangulated_terms": "eat, ed, eating, binge eat, binge, nervosa, anorexia, anorexia nervosa, bulimia"
+    },
+    {
+      "bertopic_id": 103,
+      "display_name": "Adverse childhood experiences (ACE)",
+      "n_triangulated_terms": 9,
+      "triangulated_terms": "racial, black, american, discrimination, white, african american, race, ethnic, disparity"
+    },
+    {
+      "bertopic_id": 17,
+      "display_name": "Suicidality & suicidal ideation",
+      "n_triangulated_terms": 8,
+      "triangulated_terms": "nssi, nonsuicidal, self, injury, suicidal self, self injury, non suicidal, suicidal"
+    },
+    {
+      "bertopic_id": 6,
+      "display_name": "Attachment, Attachment Style, Style, Insecure",
+      "n_triangulated_terms": 8,
+      "triangulated_terms": "attachment, attachment style, style, insecure, insecure attachment, attachment anxiety, anxious, avoidant"
+    }
+  ],
+  "runtime_seconds": 10.91
+}

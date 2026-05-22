@@ -1,0 +1,33 @@
+topic,label_terms,display_label,n_documents,mean_prob
+14,"work, service, care, victim, state, protection, policy, healthcare, worker, law, system, paper","Work, Service, Care, Victim",1842,0.08381579364927132
+25,"experience, care, class, support, need, service, approach, qualitative, social, people, identify, interview","Experience, Care, Class, Support",1662,0.07588710794429407
+4,"relationship, mediate, self, attachment, emotion, role, regulation, mediation, emotion regulation, experience, negative, indirect","Relationship, Mediate, Self, Attachment",1446,0.06341506267609551
+24,"violence, woman, partner, ipv, intimate, intimate partner, partner violence, experience, domestic, men, domestic violence, victimization","Violence, Woman, Partner, Ipv",1365,0.05776436690813367
+29,"ace, experience, adverse, adverse experience, ci, exposure, experience ace, aor, household, black, aor ci, regression","Ace, Experience, Adverse, Adverse Experience",1201,0.05326430939395949
+26,"rat, maternal, early, life, early life, mouse, separation, el, expression, maternal separation, animal, like","Rat, Maternal, Early, Life",1071,0.04650005913808771
+11,"ptsd, csa, posttraumatic, post, trauma, traumatic, post traumatic, disorder, posttraumatic stress, stress, exposure, stress disorder","Ptsd, Csa, Posttraumatic, Post",913,0.04749397904007452
+8,"family, mother, maternal, care, caregiver, experience, support, infant, social, intergenerational, birth, development","Family, Mother, Maternal, Care",900,0.04382334472872714
+30,"depression, anxiety, resilience, depressive, social, covid, support, social support, pandemic, depression anxiety, hiv, impact","Depression, Anxiety, Resilience, Depressive",826,0.04580440173117397
+5,"function, memory, social, threat, exposure, psychopathology, deprivation, response, experience, task, negative, executive","Function, Memory, Social, Threat",781,0.040433602359159604
+9,"student, education, attitude, online, knowledge, prevention, teacher, program, based, survey, image, awareness","Student, Education, Attitude, Online",641,0.03533306905340961
+21,"cortisol, gene, methylation, axis, hpa, dna, hpa axis, response, dna methylation, epigenetic, interaction, expression","Cortisol, Gene, Methylation, Axis",624,0.026756498273291098
+13,"injury, body, pediatric, obesity, weight, disease, infant, fracture, ci, history, bmi, woman","Injury, Body, Pediatric, Obesity",611,0.030409820191805673
+2,"mdd, depressive, major, inflammation, major depressive, depression, inflammatory, cortex, il, amygdala, reward, hippocampal","Mdd, Depressive, Major, Inflammation",543,0.024964319123681217
+3,"substance, alcohol, pain, drug, history, woman, hiv, chronic, men, opioid, cannabis, use","Substance, Alcohol, Pain, Drug",538,0.02833380013438838
+16,"victimization, peer, girl, bully, beta, problem, risk, cop, behavior, chinese, social, type","Victimization, Peer, Girl, Bully",477,0.030977024134375666
+1,"suicide, cm, attempt, suicidal, suicide attempt, veteran, history, ct, ideation, military, aggression, sa","Suicide, Cm, Attempt, Suicidal",474,0.024753728078060137
+0,"victim, interview, disclosure, medium, forensic, question, narrative, identity, social, stigma, response, perpetrator","Victim, Interview, Disclosure, Medium",463,0.02871000521942975
+19,"psychosis, schizophrenia, experience, psychotic, dissociation, dissociative, episode, meta, illness, genetic, dental, event","Psychosis, Schizophrenia, Experience, Psychotic",453,0.022566130352510632
+6,"functional, connectivity, network, state, functional connectivity, cluster, neural, development, learn, amygdala, image, machine","Functional, Connectivity, Network, State",404,0.021454800094179896
+28,"personality, trait, bpd, bipolar, borderline, borderline personality, bd, mood, feature, severity, pd, affective","Personality, Trait, Bpd, Bipolar",377,0.022373765983764293
+12,"student, college, validity, college student, item, version, psychometric, reliability, form, correlation, ctq, property","Student, College, Validity, College Student",326,0.025530816414709015
+22,"sport, religious, church, athlete, catholic, coach, theory, sexuality, harassment, cultural, institutional, culture","Sport, Religious, Church, Athlete",260,0.017733255808478118
+31,"disability, offender, internalize, externalize, crime, problem, offend, rape, intellectual, oxytocin, victim, efficacy","Disability, Offender, Internalize, Externalize",175,0.01574728424921674
+27,"age, old, socioeconomic, disease, status, adulthood, life, socioeconomic status, mortality, course, trajectory, middle","Age, Old, Socioeconomic, Disease",170,0.01586509665842738
+18,"self, pregnancy, injury, nssi, harm, woman, self harm, self injury, postpartum, non, pregnant, perinatal","Self, Pregnancy, Injury, Nssi",169,0.012691554747833874
+7,"parent, parental, child, father, family, fear, program, parenting, punishment, mother, parent child, decision","Parent, Parental, Child, Father",162,0.016255291113855992
+17,"suicidal, ideation, suicidal ideation, esteem, self esteem, self, violent, ocd, compulsive, obsessive, obsessive compulsive, migrant","Suicidal, Ideation, Suicidal Ideation, Esteem",124,0.010213681078902522
+20,"eat, addiction, ed, internet, adhd, transgender, autistic, deficit, attention, csam, autism, hyperactivity","Eat, Addiction, Ed, Internet",92,0.009553333347834838
+15,"sleep, quality, sibling, disturbance, duration, length, insomnia, sleep quality, telomere, sleep disturbance, telomere length, mir","Sleep, Quality, Sibling, Disturbance",83,0.007348984984280711
+10,"network, central, syndrome, functional, seizure, strength, fatigue, neurological, co, connection, complex, bridge","Network, Central, Syndrome, Functional",47,0.005937348633322098
+23,"justice, elder, being, impulsivity, well being, well, somatic, system, mistreatment, ea, criminal, cost","Justice, Elder, Being, Impulsivity",31,0.008288364755265374

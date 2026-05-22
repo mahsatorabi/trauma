@@ -1,0 +1,91 @@
+
+==============================================================================
+RQ6 SYNTHESIS — DOMINANT CONTEXTS & THEMATIC CLUSTERS (POST-PROCESSED)
+==============================================================================
+
+SUBSTANTIVE NOUN PHRASES (generic shells removed)
+  partner violence                                         n=919
+  intimate partner violence                                n=895
+  emotion regulation                                       n=441
+  domestic violence                                        n=438
+  suicidal ideation                                        n=414
+  equation modeling                                        n=401
+  linear regression                                        n=378
+  maternal separation                                      n=363
+  borderline personality                                   n=314
+  magnetic resonance                                       n=306
+  resonance imaging                                        n=277
+  magnetic resonance imaging                               n=272
+
+MACRO-TRADITIONS (LDA clusters grouped by top-term rules)
+  Other / mixed                                 | topics=13 | docs= 3154
+  Policy, services & child protection systems   | topics= 1 | docs= 1842
+  Qualitative care & lived experience           | topics= 1 | docs= 1662
+  Attachment, emotion regulation & relationships | topics= 1 | docs= 1446
+  Intimate partner & domestic violence          | topics= 1 | docs= 1365
+  ACE & epidemiological adversity               | topics= 1 | docs= 1201
+  Preclinical stress biology (animal models)    | topics= 1 | docs= 1071
+  Family, maternal & infant development         | topics= 2 | docs= 1062
+  PTSD, CSA & post-traumatic psychopathology    | topics= 1 | docs=  913
+  Depression, anxiety & COVID-19 mental health  | topics= 1 | docs=  826
+  Neurocognitive threat & memory                | topics= 1 | docs=  781
+  Education & prevention (students/teachers)    | topics= 1 | docs=  641
+  Epigenetics & HPA axis                        | topics= 1 | docs=  624
+  Pediatric injury & obesity                    | topics= 1 | docs=  611
+  Suicide & self-harm                           | topics= 2 | docs=  598
+  Substance use, pain & HIV                     | topics= 1 | docs=  538
+  Forensic disclosure & digital abuse           | topics= 1 | docs=  463
+  Psychosis & dissociation                      | topics= 1 | docs=  453
+
+CLUSTER PROFILES (LDA + noun phrases)
+  T14 | Policy, services & child protection systems
+       LDA: work, service, care, victim, state, protection, policy, healthcare, worker, law, system, paper
+       NP:  law enforcement, domestic violence, workplace violence, royal commission
+  T25 | Qualitative care & lived experience
+       LDA: experience, care, class, support, need, service, approach, qualitative, social, people, identify, interview
+       NP:  lived experience, domestic violence, partner violence, intimate partner violence, who experience
+  T 4 | Attachment, emotion regulation & relationships
+       LDA: relationship, mediate, self, attachment, emotion, role, regulation, mediation, emotion regulation, experience, negative, indirect
+       NP:  emotion regulation, equation modeling, insecure attachment, moderated mediation, mediated the relationship
+  T24 | Intimate partner & domestic violence
+       LDA: violence, woman, partner, ipv, intimate, intimate partner, partner violence, experience, domestic, men, domestic violence, victimization
+       NP:  partner violence, intimate partner violence, domestic violence, violence victimization, ipv perpetration, ipv victimization, dating violence, interpersonal violence
+  T29 | ACE & epidemiological adversity
+       LDA: ace, experience, adverse, adverse experience, ci, exposure, experience ace, aor, household, black, aor ci, regression
+       NP:  household dysfunction, ace exposure, adverse experience, linear regression, race ethnicity, domestic violence, parental separation
+  T26 | Preclinical stress biology (animal models)
+       LDA: rat, maternal, early, life, early life, mouse, separation, el, expression, maternal separation, animal, like
+       NP:  maternal separation, gene expression, maternal deprivation, limited bedding, social isolation, neonatal maternal separation, mechanisms underlying, sucrose preference
+  T11 | PTSD, CSA & post-traumatic psychopathology
+       LDA: ptsd, csa, posttraumatic, post, trauma, traumatic, post traumatic, disorder, posttraumatic stress, stress, exposure, stress disorder
+       NP:  ptsd severity, eye movement, desensitization and reprocessing, movement desensitization, eye movement desensitization, borderline personality, ptsd checklist, emotion regulation
+  T 8 | Family, maternal & infant development
+       LDA: family, mother, maternal, care, caregiver, experience, support, infant, social, intergenerational, birth, development
+       NP:  intergenerational transmission, maternal depression, equation modeling
+  T30 | Depression, anxiety & COVID-19 mental health
+       LDA: depression, anxiety, resilience, depressive, social, covid, support, social support, pandemic, depression anxiety, hiv, impact
+       NP:  anxiety and depression, anxiety depression, linear regression, beck depression
+  T 5 | Neurocognitive threat & memory
+       LDA: function, memory, social, threat, exposure, psychopathology, deprivation, response, experience, task, negative, executive
+       NP:  executive function, emotion regulation, executive functioning, heart variability, threat and deprivation, social cognition
+  T 9 | Education & prevention (students/teachers)
+       LDA: student, education, attitude, online, knowledge, prevention, teacher, program, based, survey, image, awareness
+       NP:  csa prevention, prevention education, sexuality education
+  T21 | Epigenetics & HPA axis
+       LDA: cortisol, gene, methylation, axis, hpa, dna, hpa axis, response, dna methylation, epigenetic, interaction, expression
+       NP:  dna methylation, gene expression, linear regression, cortisol reactivity, cortisol awakening, mechanisms underlying
+
+DOMINANT RESEARCH CONTEXTS (Research Areas)
+  Psychology                                    n= 6846 -> T4
+  Psychiatry                                    n= 5356 -> T4
+  Family Studies                                n= 3221 -> T24
+  Neurosciences & Neurology                     n= 2433 -> T26
+  Social Work                                   n= 2025 -> T25
+  Criminology & Penology                        n= 1606 -> T24
+  Public                                        n= 1537 -> T29
+  Environmental & Occupational Health           n= 1537 -> T29
+  Pediatrics                                    n=  701 -> T13
+  General & Internal Medicine                   n=  640 -> T29
+  Social Sciences - Other Topics                n=  494 -> T14
+  Science & Technology - Other Topics           n=  465 -> T26
+==============================================================================

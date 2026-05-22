@@ -1,0 +1,97 @@
+==============================================================================
+RQ6 REPORT — RESEARCH CONTEXTS & THEMATIC CLUSTERS (2020–2025)
+==============================================================================
+Generated: 2026-05-20T14:25:01
+Runtime: 149.1 s
+
+CORPUS
+  Source: data_preprocessed.csv
+  English-filtered + years 2020–2025 + peer-reviewed types: 19,251 documents
+  Removed non-English (from raw window): 83
+
+METHOD
+  LDA: K=32, CountVectorizer (max_features=12000, min_df=8, ngram 1-2)
+  Noun phrases: fast noun-headed phrases from title+abstract
+  Research contexts: Research Areas field (WoS/Scopus), ranked by frequency
+
+LARGEST LDA CLUSTERS (by document count)
+  T14 | n= 1842 | Work, Service, Care, Victim
+       Terms: work, service, care, victim, state, protection, policy, healthcare, worker, law, system, paper
+  T25 | n= 1662 | Experience, Care, Class, Support
+       Terms: experience, care, class, support, need, service, approach, qualitative, social, people, identify, interview
+  T 4 | n= 1446 | Relationship, Mediate, Self, Attachment
+       Terms: relationship, mediate, self, attachment, emotion, role, regulation, mediation, emotion regulation, experience, negative, indirect
+  T24 | n= 1365 | Violence, Woman, Partner, Ipv
+       Terms: violence, woman, partner, ipv, intimate, intimate partner, partner violence, experience, domestic, men, domestic violence, victimization
+  T29 | n= 1201 | Ace, Experience, Adverse, Adverse Experience
+       Terms: ace, experience, adverse, adverse experience, ci, exposure, experience ace, aor, household, black, aor ci, regression
+  T26 | n= 1071 | Rat, Maternal, Early, Life
+       Terms: rat, maternal, early, life, early life, mouse, separation, el, expression, maternal separation, animal, like
+  T11 | n=  913 | Ptsd, Csa, Posttraumatic, Post
+       Terms: ptsd, csa, posttraumatic, post, trauma, traumatic, post traumatic, disorder, posttraumatic stress, stress, exposure, stress disorder
+  T 8 | n=  900 | Family, Mother, Maternal, Care
+       Terms: family, mother, maternal, care, caregiver, experience, support, infant, social, intergenerational, birth, development
+  T30 | n=  826 | Depression, Anxiety, Resilience, Depressive
+       Terms: depression, anxiety, resilience, depressive, social, covid, support, social support, pandemic, depression anxiety, hiv, impact
+  T 5 | n=  781 | Function, Memory, Social, Threat
+       Terms: function, memory, social, threat, exposure, psychopathology, deprivation, response, experience, task, negative, executive
+  T 9 | n=  641 | Student, Education, Attitude, Online
+       Terms: student, education, attitude, online, knowledge, prevention, teacher, program, based, survey, image, awareness
+  T21 | n=  624 | Cortisol, Gene, Methylation, Axis
+       Terms: cortisol, gene, methylation, axis, hpa, dna, hpa axis, response, dna methylation, epigenetic, interaction, expression
+  T13 | n=  611 | Injury, Body, Pediatric, Obesity
+       Terms: injury, body, pediatric, obesity, weight, disease, infant, fracture, ci, history, bmi, woman
+  T 2 | n=  543 | Mdd, Depressive, Major, Inflammation
+       Terms: mdd, depressive, major, inflammation, major depressive, depression, inflammatory, cortex, il, amygdala, reward, hippocampal
+  T 3 | n=  538 | Substance, Alcohol, Pain, Drug
+       Terms: substance, alcohol, pain, drug, history, woman, hiv, chronic, men, opioid, cannabis, use
+
+TOP GLOBAL NOUN PHRASES
+  the relationship                                         n=2526
+  logistic regression                                      n=1282
+  the development                                          n=1104
+  partner violence                                         n=919
+  intimate partner violence                                n=895
+  the mediating                                            n=844
+  and depression                                           n=809
+  and setting                                              n=664
+  structural equation                                      n=625
+  and violence                                             n=463
+  the importance                                           n=449
+  the influence                                            n=445
+  emotion regulation                                       n=441
+  domestic violence                                        n=438
+  suicidal ideation                                        n=414
+  the presence                                             n=414
+  this relationship                                        n=405
+  equation modeling                                        n=401
+  the experience                                           n=393
+  structural equation modeling                             n=384
+
+TOP RESEARCH AREAS (CONTEXTS)
+  Psychology                                          n= 6846  → dominant T4 (Relationship, Mediate, Self, Attach)
+  Psychiatry                                          n= 5356  → dominant T4 (Relationship, Mediate, Self, Attach)
+  Family Studies                                      n= 3221  → dominant T24 (Violence, Woman, Partner, Ipv)
+  Neurosciences & Neurology                           n= 2433  → dominant T26 (Rat, Maternal, Early, Life)
+  Social Work                                         n= 2025  → dominant T25 (Experience, Care, Class, Support)
+  Criminology & Penology                              n= 1606  → dominant T24 (Violence, Woman, Partner, Ipv)
+  Public                                              n= 1537  → dominant T29 (Ace, Experience, Adverse, Adverse E)
+  Environmental & Occupational Health                 n= 1537  → dominant T29 (Ace, Experience, Adverse, Adverse E)
+  Pediatrics                                          n=  701  → dominant T13 (Injury, Body, Pediatric, Obesity)
+  General & Internal Medicine                         n=  640  → dominant T29 (Ace, Experience, Adverse, Adverse E)
+  Social Sciences - Other Topics                      n=  494  → dominant T14 (Work, Service, Care, Victim)
+  Science & Technology - Other Topics                 n=  465  → dominant T26 (Rat, Maternal, Early, Life)
+  Behavioral Sciences                                 n=  388  → dominant T26 (Rat, Maternal, Early, Life)
+  Health Care Sciences & Services                     n=  353  → dominant T25 (Experience, Care, Class, Support)
+  Government & Law                                    n=  336  → dominant T14 (Work, Service, Care, Victim)
+
+OUTPUT FILES
+  rq6_document_topics.csv
+  rq6_lda_topics.csv
+  rq6_year_topic_counts.csv
+  rq6_global_noun_phrases.csv
+  rq6_topic_noun_phrases.csv
+  rq6_research_contexts.csv
+  rq6_topic_sizes.png
+  rq6_global_nps.png
+==============================================================================
