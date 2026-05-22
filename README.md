@@ -1,6 +1,8 @@
 # Mapping the Architecture of Childhood Trauma Research (2019–2026)
 
-Temporal evolution, emerging gaps, and cross-method thematic validation of Web of Science literature on childhood trauma (2019–2026).
+**Temporal Evolution, Emerging Gaps, and Cross-Method Thematic Validation**
+
+Bibliometric–semantic analysis of Web of Science literature on childhood trauma (2019–2026).
 
 ## Data
 
